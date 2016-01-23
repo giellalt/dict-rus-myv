@@ -4,21 +4,21 @@
 <e><lg><l pos="N" gen="Msc">абаз</l></lg><mg><tg xml:lang="myv"><t pos="N">сырнень монета</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аббат</l></lg><mg><tg xml:lang="myv"><t pos="N">аббат (цёрань католической монастырень прявт)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абзац</l></lg><mg><tg xml:lang="myv"><t pos="N">абзац</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">абиссинец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>абиссинцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">абиссинец, абиссиниянь ломань</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">абиссинец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>абиссинцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">абиссинец</t><t pos="N">абиссиниянь ломань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абитуриент</l></lg><mg><tg xml:lang="myv"><t pos="N">абитуриент (средней школань прядыця)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абонемент</l></lg><mg><tg xml:lang="myv"><t pos="N">абонемент</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абонент</l></lg><mg><tg xml:lang="myv"><t pos="N">абонент</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аборт</l></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">эйдень каявтома/каямо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">абракадабра</l></lg><mg><tg xml:lang="myv"><t pos="N">превтеме кортамо, ачарькодевикс валпусмо</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">абракадабра</l></lg><mg><tg xml:lang="myv"><t pos="N">превтеме кортамо</t><t pos="N">ачарькодевикс валпусмо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абрикос</l></lg><mg><tg xml:lang="myv"><t pos="N">абрикос</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абсент</l></lg><mg><tg xml:lang="myv"><t pos="N">нартемксэнь настойка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абсолют</l></lg><mg><tg xml:lang="myv"><t pos="N">весень ушодкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абсолютизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">абсолютизма</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">абсурд</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">мезть арасть, ачарькодевиксчи, превтеме тев</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">абсцесс</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="N">таргозькс, сыявкс, абсцесс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">абсурд</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">мезть арасть</t><t pos="N">ачарькодевиксчи</t><t pos="N">превтеме тев</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">абсцесс</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="N">таргозькс</t><t pos="N">сыявкс</t><t pos="N">абсцесс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абхазец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>абхазцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">абхазонь ломань</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">авангард</l></lg><mg><tg xml:lang="myv"><t pos="N">икеле молиця/аштиця, авангард</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">аванс</l></lg><mg><tg xml:lang="myv"><t pos="N">икеле пандовкс, аванс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">авангард</l></lg><mg><tg xml:lang="myv"><t pos="N">икеле молиця/аштиця</t><t pos="N">авангард</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">аванс</l></lg><mg><tg xml:lang="myv"><t pos="N">икеле пандовкс</t><t pos="N">аванс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">авансцена</l></lg><mg><tg xml:lang="myv"><t pos="N">сценань икелькс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аварец</l></lg><mg><tg xml:lang="myv"><t pos="N">аварец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">авария</l></lg><mg><tg xml:lang="myv"><t pos="N">авария</t></tg></mg></e>
@@ -29,28 +29,28 @@
 <e><lg><l pos="N" gen="Msc">авиамотор</l></lg><mg><tg xml:lang="myv"><t pos="N">самолётонь мотор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">авиаразведка</l></lg><mg><defNative>авиационная разведка</defNative><tg xml:lang="myv"><t pos="N"> авиаразведка (<i>авиационной разведка</i>)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">авиасъёмка</l></lg><mg><defNative>авиационная съёмка</defNative><tg xml:lang="myv"><t pos="N"> самолётсто снимамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">авоська</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">кедькескав, авоська</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">авоська</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">кедькескав</t><t pos="N">авоська</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аврал</l></lg><mg><tg xml:lang="myv"><t pos="N">аврал</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">австралиец</l></lg><mg><tg xml:lang="myv"><t pos="N">австралиец</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">австриец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>австрийцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">австриец, австриянь ломань</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">автобиография</l></lg><mg><tg xml:lang="myv"><t pos="N">эсь эрямодо сёрмадовкс, пингеки, автобиография</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">австриец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>австрийцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">австриец</t><t pos="N">австриянь ломань</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">автобиография</l></lg><mg><tg xml:lang="myv"><t pos="N">эсь эрямодо сёрмадовкс</t><t pos="N">пингеки</t><t pos="N">автобиография</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автобус</l></lg><mg><tg xml:lang="myv"><t pos="N">автобус</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автовокзал</l></lg><mg><tg xml:lang="myv"><t pos="N">автобусонь вокзал</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">автограф</l></lg><mg><tg xml:lang="myv"><t pos="N">эсень сёрмадовкс, автограф</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">автограф</l></lg><mg><tg xml:lang="myv"><t pos="N">эсень сёрмадовкс</t><t pos="N">автограф</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автозавод</l></lg><mg><defNative>автомобильный завод</defNative><tg xml:lang="myv"><t pos="N"> автозавод (<i>автомобилень теема завод, автомобильной завод</i>)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автол</l></lg><mg><tg xml:lang="myv"><t pos="N">автол</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автомат</l></lg><mg><tg xml:lang="myv"><t pos="N">автомат</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">автоматчик</l></lg><mg><tg xml:lang="myv"><t pos="N">автоматсо ледниця, автоматчик</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">автоматчик</l></lg><mg><tg xml:lang="myv"><t pos="N">автоматсо ледниця</t><t pos="N">автоматчик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">автомашина</l></lg><mg><tg xml:lang="myv"><t pos="N">автомашина</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автомобиль</l></lg><mg><tg xml:lang="myv"><t pos="N">автомобиль</t><xg><x>бронированный автомобиль</x><xt>бронировазь автомобиль</xt></xg><xg><x>легковой автомобиль</x><xt>автомобиль</xt></xg><xg><x>грузовой автомобиль</x><xt>грузовой автомобиль</xt></xg><xg><x>ехать на автомобиле</x><xt>ардомс автомобильсэ</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">автономия</l></lg><mg><tg xml:lang="myv"><t pos="N">автономия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автопогрузчик</l></lg><mg><tg xml:lang="myv"><t pos="N">автопогрузчик</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">автопортрет</l></lg><mg><tg xml:lang="myv"><t pos="N">эсь портрет, автопортрет</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">автор</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмадыця, автор</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">автопортрет</l></lg><mg><tg xml:lang="myv"><t pos="N">эсь портрет</t><t pos="N">автопортрет</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">автор</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмадыця</t><t pos="N">автор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автореферат</l></lg><mg><tg xml:lang="myv"><t pos="N">автореферат</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">авторучка</l></lg><mg><tg xml:lang="myv"><t pos="N">авторучка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автосервис</l></lg><mg><tg xml:lang="myv"><t pos="N">автосервис</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">автострада</l></lg><mg><tg xml:lang="myv"><t pos="N">автомобилень покшки, автострада</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">автострада</l></lg><mg><tg xml:lang="myv"><t pos="N">автомобилень покшки</t><t pos="N">автострада</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">автотележка</l></lg><mg><tg xml:lang="myv"><t pos="N">автокрандаз</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">автотранспорт</l><morphNote>мн. нет</morphNote></lg><mg><defNative>автомобильный транспорт</defNative><tg xml:lang="myv"><t pos="N"> автотранспорт (автомобильной транспорт)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">автотрасса</l></lg><mg><tg xml:lang="myv"><t pos="N">машинань ки</t></tg></mg></e>
@@ -68,8 +68,8 @@
 <e><lg><l pos="N" gen="Neu">адажио</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="N"><morphNote>нескл.</morphNote> адажио</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">Адам</l></lg><mg><tg xml:lang="myv"><t pos="N">Адам (мода лангсо васенце ломанень лем)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">адамов корень</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">адамонь ундокс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">адаптация</l></lg><mg><tg xml:lang="myv"><t pos="N">тонадома, адаптация</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">адвокат</l></lg><mg><tg xml:lang="myv"><t pos="N">судсо идиця, адвокат</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">адаптация</l></lg><mg><tg xml:lang="myv"><t pos="N">тонадома</t><t pos="N">адаптация</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">адвокат</l></lg><mg><tg xml:lang="myv"><t pos="N">судсо идиця</t><t pos="N">адвокат</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">администрация</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">администрация</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">адмиральша</l></lg><mg><tg xml:lang="myv"><t pos="N">адмиралонь ни</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">адонис</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">седей ормаменьксэнь тикше</t></tg></mg></e>
@@ -77,7 +77,7 @@
 <e><lg><l pos="N" gen="Msc">адресант</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмань кучиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">адресат</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмань саиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">адыгеец</l></lg><mg><tg xml:lang="myv"><t pos="N">адыгеец</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">азарт</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">рожодома, мелень кепедема, азарт</t><xg><x>входить в азарт</x><xt>рожодомомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">азарт</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">рожодома</t><t pos="N">мелень кепедема</t><t pos="N">азарт</t><xg><x>входить в азарт</x><xt>рожодомомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">азбука</l></lg><mg><tg xml:lang="myv"><t pos="N">азбука</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">азербайджанец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>азербайджанцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">азербайджанец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">азиат</l></lg><mg><tg xml:lang="myv"><t pos="N">Азиянь пеле эриця</t></tg></mg></e>
@@ -88,7 +88,7 @@
 <e><lg><l pos="N" gen="Msc">айсберг</l></lg><mg><tg xml:lang="myv"><t pos="N">эйпандо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">академик</l></lg><mg><tg xml:lang="myv"><t pos="N">академик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">академия</l></lg><mg><tg xml:lang="myv"><t pos="N">академия</t><xg><x>Академия Наук</x><xt>Наукань Академия</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">акация</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">акация, морамонь чувто</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">акация</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">акация</t><t pos="N">морамонь чувто</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">акварель</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">акварель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аквариум</l></lg><mg><tg xml:lang="myv"><t pos="N">аквариум</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">аккомодация</l></lg><mg><tg xml:lang="myv"><t pos="N">аккомодация</t></tg></mg></e>
@@ -99,13 +99,13 @@
 <e><lg><l pos="N" gen="Msc">аккумулятор</l></lg><mg><field>тех.</field><tg xml:lang="myv"><t pos="N">аккумулятор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">акр</l></lg><mg><tg xml:lang="myv"><t pos="N">акра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">акт</l></lg><mg><tg xml:lang="myv"><t pos="N">акт</t><xg><x>обвинительный акт</x><xt>чумондомань акт</xt></xg><xg><x>трагедия в пяти актах</x><xt>вете актсо трагедия</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">актёр</l></lg><mg><tg xml:lang="myv"><t pos="N">спектаклясо налксиця, актёр</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">актёр</l></lg><mg><tg xml:lang="myv"><t pos="N">спектаклясо налксиця</t><t pos="N">актёр</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">актив</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">актив</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">активность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">активность</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">актриса</l></lg><mg><tg xml:lang="myv"><t pos="N">актриса, спектаклясо налксиця</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">актриса</l></lg><mg><tg xml:lang="myv"><t pos="N">актриса</t><t pos="N">спектаклясо налксиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">акула</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">акула</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">акушер</l></lg><mg><tg xml:lang="myv"><t pos="N">чачневтиця, акушер</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">акушерка</l></lg><mg><tg xml:lang="myv"><t pos="N">чачтневтиця, чачтовтыця, акушерка</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">акушер</l></lg><mg><tg xml:lang="myv"><t pos="N">чачневтиця</t><t pos="N">акушер</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">акушерка</l></lg><mg><tg xml:lang="myv"><t pos="N">чачтневтиця</t><t pos="N">чачтовтыця</t><t pos="N">акушерка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">акцент</l></lg><mg><arab>1.</arab><field>лингв.</field><tg xml:lang="myv"><t pos="N">акцент</t></tg></mg><mg><arab>2.</arab><defNative>особенность в произношении</defNative><tg xml:lang="myv"><t pos="N"> кортавксонь ёнкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">акциз</l></lg><mg><tg xml:lang="myv"><t pos="N">акциз</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">акционер</l></lg><mg><tg xml:lang="myv"><t pos="N">акционер</t></tg></mg></e>
@@ -113,10 +113,10 @@
 <e><lg><l pos="N" gen="Msc">албанец</l></lg><mg><tg xml:lang="myv"><t pos="N">албанец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">алгебра</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алгебра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">алгоритм</l></lg><mg><tg xml:lang="myv"><t pos="N">алгоритма</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">алебастр</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">равкев, алебастра</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">алебастр</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">равкев</t><t pos="N">алебастра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">алкоголизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алкоголизма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">алкоголик</l></lg><mg><tg xml:lang="myv"><t pos="N">винадо симиця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">алкоголь</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алкоголь, иредстицяпель</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">алкоголь</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алкоголь</t><t pos="N">иредстицяпель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">Аллах</l></lg><mg><tg xml:lang="myv"><t pos="N">Аллах</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">аллергия</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="N">аллергия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">аллея</l></lg><mg><tg xml:lang="myv"><t pos="N">аллея</t></tg></mg></e>
@@ -128,7 +128,7 @@
 <e><lg><l pos="N" gen="Msc">алфавит</l></lg><mg><tg xml:lang="myv"><t pos="N">алфавит</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">алхимик</l></lg><mg><tg xml:lang="myv"><t pos="N">алхимик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">алхимия</l></lg><mg><tg xml:lang="myv"><t pos="N">алхимия</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">алчность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">апештевемачи, жаднойчи</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">алчность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">апештевемачи</t><t pos="N">жаднойчи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">алыча</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">алыча</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">альбатрос</l></lg><mg><tg xml:lang="myv"><t pos="N">альбатрос</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">альбинос</l></lg><mg><tg xml:lang="myv"><t pos="N">альбинос</t></tg></mg></e>
@@ -140,12 +140,12 @@
 <e><lg><l pos="N" gen="Msc">альтруизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">альтруизма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">алюминий</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алюминий</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">амазонка</l></lg><mg><tg xml:lang="myv"><t pos="N">амазонка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">амба</l><morphNote>нескл.</morphNote></lg><mg><posType>прост.</posType><tg xml:lang="myv"><t pos="N">амба, пе, ёмамо, кулома</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">амба</l><morphNote>нескл.</morphNote></lg><mg><posType>прост.</posType><tg xml:lang="myv"><t pos="N">амба</t><t pos="N">пе</t><t pos="N">ёмамо</t><t pos="N">кулома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">амбар</l></lg><mg><tg xml:lang="myv"><t pos="N">утом; <i>обл.</i> кав; видьме сюронь утом</t><xg><x>амбар для мякины / хлебный амбар</x><xt>сюроутомо, сювакардо, колозкардо</xt></xg><xg><x>чердак амбара</x><xt>кавпрякс</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">амбиция</l></lg><mg><tg xml:lang="myv"><t pos="N">покшкавтнема, эсь прянь неема</t><xg><x>человек с амбицией</x><xt>пошкавтниця</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">амбиция</l></lg><mg><tg xml:lang="myv"><t pos="N">покшкавтнема</t><t pos="N">эсь прянь неема</t><xg><x>человек с амбицией</x><xt>пошкавтниця</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">амбулатория</l></lg><mg><tg xml:lang="myv"><t pos="N">амбулатория</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">амёба</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">амёба</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">американец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>американцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">американь ломань, американец</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">американец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>американцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">американь ломань</t><t pos="N">американец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аммиак</l><morphNote>мн. нет</morphNote></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">аммиак</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аммоний</l><morphNote>мн. нет</morphNote></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">аммоний</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">амортизация</l></lg><mg><field>эк.</field><tg xml:lang="myv"><t pos="N"><field>тех.</field> амортизация</t></tg></mg></e>
@@ -153,44 +153,44 @@
 <e><lg><l pos="N" gen="Msc">амперчас</l></lg><mg><field>физ.</field><tg xml:lang="myv"><t pos="N">амперчас</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ампир</l></lg><mg><tg xml:lang="myv"><t pos="N">ампир</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ампутация</l></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">керямо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">амур</l></lg><mg><tg xml:lang="myv"><t pos="N">вечкемань Паз, амур</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">амур</l></lg><mg><tg xml:lang="myv"><t pos="N">вечкемань Паз</t><t pos="N">амур</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">амфитеатр</l></lg><mg><tg xml:lang="myv"><t pos="N">амфитеатра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">анализ</l></lg><mg><tg xml:lang="myv"><t pos="N">анализ</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аналитик</l></lg><mg><tg xml:lang="myv"><t pos="N">аналитик</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">аналог</l></lg><mg><tg xml:lang="myv"><t pos="N">вейкетьксчи, аналог</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">аналогия</l></lg><mg><tg xml:lang="myv"><t pos="N">вейкетькс, аналогия</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">аналог</l></lg><mg><tg xml:lang="myv"><t pos="N">вейкетьксчи</t><t pos="N">аналог</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">аналогия</l></lg><mg><tg xml:lang="myv"><t pos="N">вейкетькс</t><t pos="N">аналогия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">анальгин</l></lg><mg><tg xml:lang="myv"><t pos="N">анальгин</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ананас</l></lg><mg><tg xml:lang="myv"><t pos="N">ананас</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">анархизм</l><morphNote>мн. нет</morphNote></lg><mg><field>полит</field><tg xml:lang="myv"><t pos="N">анархизма</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">анархия</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">азортомочи, анархия</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">анархия</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">азортомочи</t><t pos="N">анархия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">анатомия</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">анатомия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ангел</l></lg><mg><field>рел.</field><tg xml:lang="myv"><t pos="N">ангел</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">ангина</l></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">кирьгаорма, ангина</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">англичанин</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>англичане</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">англичанин, англиянь ломань</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">анекдот</l></lg><mg><tg xml:lang="myv"><t pos="N">анекдот, побаска</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">анемия</l><morphNote>мн. нет</morphNote></lg><mg><field>мед</field><tg xml:lang="myv"><t pos="N">верьорма, анемия</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">ангина</l></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">кирьгаорма</t><t pos="N">ангина</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">англичанин</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>англичане</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">англичанин</t><t pos="N">англиянь ломань</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">анекдот</l></lg><mg><tg xml:lang="myv"><t pos="N">анекдот</t><t pos="N">побаска</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">анемия</l><morphNote>мн. нет</morphNote></lg><mg><field>мед</field><tg xml:lang="myv"><t pos="N">верьорма</t><t pos="N">анемия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">анестезия</l><morphNote>мн. нет</morphNote></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">анестезия</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">анилин</l><morphNote>мн. нет</morphNote></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">анилин</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">анис</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">анись</t><xg><x>анис обыкновенный</x><xt>канизтикше</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">анкета</l></lg><mg><tg xml:lang="myv"><t pos="N">анкета</t><xg><x>заполнить анкету</x><xt>сёрмадомс анкета</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">аннотация</l></lg><mg><tg xml:lang="myv"><t pos="N">аннотация, нурькасто сёрмадовкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">аноним</l></lg><mg><tg xml:lang="myv"><t pos="N">лемтеме ломань, аноним</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">аннотация</l></lg><mg><tg xml:lang="myv"><t pos="N">аннотация</t><t pos="N">нурькасто сёрмадовкс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">аноним</l></lg><mg><tg xml:lang="myv"><t pos="N">лемтеме ломань</t><t pos="N">аноним</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">анонимка</l></lg><mg><tg xml:lang="myv"><t pos="N">анонимка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">анонс</l></lg><mg><tg xml:lang="myv"><t pos="N">яволявкс, анонс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">анонс</l></lg><mg><tg xml:lang="myv"><t pos="N">яволявкс</t><t pos="N">анонс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ансамбль</l></lg><mg><tg xml:lang="myv"><t pos="N">ансамбля</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">антагонизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">антагонизма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">Антарктика</l></lg><mg><tg xml:lang="myv"><t pos="N">Антарктика</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">антибиотик</l></lg><mg><tg xml:lang="myv"><t pos="N">антибиотик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">антилопа</l></lg><mg><tg xml:lang="myv"><t pos="N">антилопа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">антимония</l></lg><mg><tg xml:lang="myv"><t pos="N">лабордома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">антипатия</l></lg><mg><tg xml:lang="myv"><t pos="N">седей кельмема, авечкема, анелявкс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">антипатия</l></lg><mg><tg xml:lang="myv"><t pos="N">седей кельмема</t><t pos="N">авечкема</t><t pos="N">анелявкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">антисемитизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">антисемитизма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">антифриз</l></lg><mg><tg xml:lang="myv"><t pos="N">антифриз</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">антихрист</l></lg><mg><tg xml:lang="myv"><t pos="N">антихрист</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">античность</l></lg><mg><tg xml:lang="myv"><t pos="N">кезэрьчи, античность</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">антоним</l></lg><mg><tg xml:lang="myv"><t pos="N">антоним, смустень коряс карадо-каршо аштиця валт</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">античность</l></lg><mg><tg xml:lang="myv"><t pos="N">кезэрьчи</t><t pos="N">античность</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">антоним</l></lg><mg><tg xml:lang="myv"><t pos="N">антоним</t><t pos="N">смустень коряс карадо-каршо аштиця валт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">антоновка</l></lg><mg><tg xml:lang="myv"><t pos="N">антоновка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">антракт</l></lg><mg><tg xml:lang="myv"><t pos="N">ютко шка, антракт</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">антракт</l></lg><mg><tg xml:lang="myv"><t pos="N">ютко шка</t><t pos="N">антракт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">антропология</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">антропология</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">антропофаг</l></lg><mg><tg xml:lang="myv"><t pos="N">ломанде арсиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">анчар</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">анчарчувто</t></tg></mg></e>
@@ -202,7 +202,7 @@
 <e><lg><l pos="N" gen="Msc">апорт</l></lg><mg><defNative>сорт яблок</defNative><tg xml:lang="myv"><t pos="N"> апорт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">апостол</l></lg><mg><tg xml:lang="myv"><t pos="N">апостол</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аппарат</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">аппарат</t><xg><x>телефонный аппарат</x><xt>телефононь аппарат</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">аппаратура</l></lg><mg><posType>собир.</posType><tg xml:lang="myv"><t pos="N">, <field>тех.</field> аппаратура</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">аппаратура</l></lg><mg><posType>собир.</posType><field>тех.</field><tg xml:lang="myv"><t pos="N">аппаратура</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аппендикс</l></lg><mg><tg xml:lang="myv"><t pos="N">аппендикс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аппендицит</l></lg><mg><tg xml:lang="myv"><t pos="N">аппендицит</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аппетит</l></lg><mg><tg xml:lang="myv"><t pos="N">ярсамонь само, вачомома</t></tg></mg></e>
@@ -1698,12 +1698,12 @@
 <e><lg><l pos="N" gen="Neu">вычитание</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">саема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">вышивание</l></lg><mg><tg xml:lang="myv"><t pos="N">викшнема, кемельдема, артнема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">вышивка</l></lg><mg><tg xml:lang="myv"><t pos="N">викшневкс, арт</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">вышина</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">сэрь</t><xg><x>вышина дома двадцать метров</x><xt>кудонть сэрезэ комсь метрат</xt></xg></tg></mg><mg><arab>2.</arab>><defNative>высь</defNative><tg xml:lang="myv"><t pos="N"верькс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">вышина</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">сэрь</t><xg><x>вышина дома двадцать метров</x><xt>кудонть сэрезэ комсь метрат</xt></xg></tg></mg><mg><arab>2.</arab><defNative>высь</defNative><tg xml:lang="myv"><t pos="N">верькс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">вышка</l></lg><mg><tg xml:lang="myv"><t pos="N">вышка</t><xg><x>пожарная вышка</x><xt>пожарной вышка</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">выяснение</l></lg><mg><defNative>вопроса и т. п.</defNative><tg xml:lang="myv"><t pos="N"> содамо, муевема</t></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">выяснение</l></lg><mg><defNative>вопроса и т. п.</defNative><tg xml:lang="myv"><t pos="N">содамо, муевема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">вьюга</l></lg><mg><tg xml:lang="myv"><t pos="N">давол, буря, кандылов, кандыварма, кандыбуря</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">вьюк</l></lg><mg><tg xml:lang="myv"><t pos="N">тюк</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">вьюн</l></lg><mg><defNative>рыба</defNative><tg xml:lang="myv"><t pos="N"> кунькал, гуйкал</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">вьюн</l></lg><mg><defNative>рыба</defNative><tg xml:lang="myv"><t pos="N">кунькал, гуйкал</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">вяз</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">селей, селейчувто</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">вязанка</l></lg><mg><tg xml:lang="myv"><t pos="N">кандст</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">вязанье</l></lg><mg><arab>1.</arab><defNative>чулок</defNative><tg xml:lang="myv"><t pos="N"> кодамо</t></tg></mg><mg><arab>2.</arab><defNative>снопов</defNative><tg xml:lang="myv"><t pos="N"> сюлмамо</t></tg></mg></e>
