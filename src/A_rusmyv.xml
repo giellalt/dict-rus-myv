@@ -120,7 +120,7 @@
 <e><lg><l pos="A">атрибутивный</l></lg><mg><tg xml:lang="myv"><t pos="A">определениянь, атрибутивной</t></tg></mg></e>
 <e><lg><l pos="A">афганский</l></lg><mg><tg xml:lang="myv"><t pos="A">афганонь, афганской</t></tg></mg></e>
 <e><lg><l pos="A">афразийский</l></lg><mg><tg xml:lang="myv"><t pos="A">афразиянь, афразийской</t></tg></mg></e>
-<e><lg><l pos="A">бабий</l></lg><mg><tg xml:lang="myv"><t pos="A">бабань, сыре авань;</t><xg><x>бабье лето</x><xt>бабань кизэ</xt></xg><xg><x>бабий век</x><xt>бабапинге</xt></xg></tg></mg></e>
+<e><lg><l pos="A">бабий</l></lg><mg><tg xml:lang="myv"><t pos="A">бабань, сыре авань</t><xg><x>бабье лето</x><xt>бабань кизэ</xt></xg><xg><x>бабий век</x><xt>бабапинге</xt></xg></tg></mg></e>
 <e><lg><l pos="A">багажный</l></lg><mg><tg xml:lang="myv"><t pos="A">кандстонь, кандстонь кирдемань, багажной</t><xg><x>багажный отдел</x><xt>кандстонь кирдема тарка</xt></xg></tg></mg></e>
 <e><lg><l pos="A">багровый</l></lg><mg><tg xml:lang="myv"><t pos="A">сэншть-мериця якстере, чопода-якстере, верьякстере, галой</t></tg></mg></e>
 <e><lg><l pos="A">багряный</l></lg><mg><tg xml:lang="myv"><t pos="A">сэншть-мериця якстере, чопода-якстере, верьякстере, галой</t></tg></mg></e>
@@ -146,7 +146,7 @@
 <e><lg><l pos="A">банковский</l></lg><mg><tg xml:lang="myv"><t pos="A">банконь, банксо</t><xg><x>банковский счёт</x><xt>банконь/банксо счёт</xt></xg></tg></mg></e>
 <e><lg><l pos="A">банковый</l></lg><mg><tg xml:lang="myv"><t pos="A">банконь</t></tg></mg></e>
 <e><lg><l pos="A">банный</l></lg><mg><tg xml:lang="myv"><t pos="A">шлямо-парямо кудонь, экшелямо таркань, банянь</t><xg><x>веник банный</x><xt>банятенсть</xt></xg></tg></mg></e>
-<e><lg><l pos="A">барабанный</l></lg><mg><tg xml:lang="myv"><t pos="A">барабанонь;</t><xg><field>анат.</field><x>барабанная перепонка</x><xt>пилештелькс, пилекелькш</xt></xg></tg></mg></e>
+<e><lg><l pos="A">барабанный</l></lg><mg><tg xml:lang="myv"><t pos="A">барабанонь</t><xg><field>анат.</field><x>барабанная перепонка</x><xt>пилештелькс, пилекелькш</xt></xg></tg></mg></e>
 <e><lg><l pos="A">бараний</l></lg><mg><tg xml:lang="myv"><t pos="A">баранонь, ревень</t><xg><x>бараньи копыта</x><xt>баранонь/ревень кенжеть;</xt></xg><xg><x>согнуть в бараний рог</x><xt>баранонь/ревень сюрокс мендямс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">барашковый</l></lg><mg><tg xml:lang="myv"><t pos="A">мерлушкань</t><xg><x>барашковая шапка</x><xt>мерлушкань шапка</xt></xg></tg></mg></e>
 <e><lg><l pos="A">баритональный</l></lg><mg><tg xml:lang="myv"><t pos="A">баритононь, баритональной</t></tg></mg></e>
@@ -458,7 +458,7 @@
 <e><lg><l pos="A">биржевой</l></lg><mg><tg xml:lang="myv"><t pos="A">биржань</t><xg><x>биржевая игра</x><xt>биржань/биржасо налксема</xt></xg><xg><x>биржевой курс</x><xt>биржань курс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">бирюзовый</l></lg><mg><tg xml:lang="myv"><t pos="A">валдо пижела-сэнь</t></tg></mg></e>
 <e><lg><l pos="A">бисерный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">човалянь, човалявкс</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">вишка</t><xg><x>бисерный почерк</x><xt>човаля кедьсёрмадовкс</xt></xg></tg></mg></e>
-<e><lg><l pos="A">битый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">яжазь, тапазь, порксазь, лазозь</t><xg><x>битое стекло</x><xt>тапазь суликат</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">чавозь, маштозь;</t><xg><x>битый час</x><xt>малав/цела час</xt></xg></tg></mg></e>
+<e><lg><l pos="A">битый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">яжазь, тапазь, порксазь, лазозь</t><xg><x>битое стекло</x><xt>тапазь суликат</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">чавозь, маштозь</t><xg><x>битый час</x><xt>малав/цела час</xt></xg></tg></mg></e>
 <e><lg><l pos="A">благовидный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">мазыйне, вадринька</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">ладиця, ён, молиця, маштовикс</t></tg></mg></e>
 <e><lg><l pos="A">благовонный</l></lg><mg><tg xml:lang="myv"><t pos="A">тантей чине марто, тантей чинень нолдыця, тантейстэ качадыця</t></tg></mg></e>
 <e><lg><l pos="A">благовременный</l></lg><mg><tg xml:lang="myv"><t pos="A">шкастонь</t></tg></mg></e>
@@ -521,7 +521,7 @@
 <e><lg><l pos="A">божественный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">пазонь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>прекрасный</i>) пек/пародояк паро, аёвтавияк кодамо паро/вадря, оймезирень кондямо</t><xg><x>у неё божественный голос</x><xt>пек вадря/мазый вайгелезэ, оймезирень кондямо вайгелезэ</xt></xg></tg></mg></e>
 <e><lg><l pos="A">божий</l></lg><mg><tg xml:lang="myv"><t pos="A">пазонь</t><xg><x>каждый божий день</x><xt>эрьва чи/чистэ</xt></xg><xg><x>божья коровка</x><xt>липалей, бабалети, боярбука, каткабув, пазонь скал, паксябояр, рузавань таракан</xt></xg><xg><x>Царство Божие</x><xt>Пазонь Инязорксчи</xt></xg></tg></mg></e>
 <e><lg><l pos="A">бойкий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">эряза, бойка, верка, ёмболкс, юрка, вежляв, пилюкш</t><xg><x>бойкий ребёнок</x><xt>пилюкш эйкакш</xt></xg><xg><x>бойкая улица</x><xt>аволь сэтьме / эряза куро</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">муекшев, ёжов, дока, ёрок</t><xg><x>бойкий на язык</x><xt>кортакшов;</xt></xg><xg><x>бойкое перо</x><xt>сёрмадомадо кол</xt></xg></tg></mg></e>
-<e><lg><l pos="A">боковой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">ёжосо, бокасо, чиресэ</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">аволь прявт;</t><xg><x>отправиться на боковою</x><xt>мадемс, мадеме туемс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">боковой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">ёжосо, бокасо, чиресэ</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">аволь прявт</t><xg><x>отправиться на боковою</x><xt>мадемс, мадеме туемс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">болгарский</l></lg><mg><tg xml:lang="myv"><t pos="A">болгариянь, болгаронь</t></tg></mg></e>
 <e><lg><l pos="A">болевой</l></lg><mg><tg xml:lang="myv"><t pos="A">сэредемань, сэредьксэнь</t></tg></mg></e>
 <e><lg><l pos="A">болезненный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">сэредицянь, сэредевикс, пек мариця, ормав</t><xg><x>у него болезненный вид</x><xt>сонзэ сэредицянь чачозо</xt></xg><xg><x>болезненный удар</x><xt>сэредевикс / пек мариця вачкодькс</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">аволь паро, пек мариця</t></tg></mg></e>
@@ -640,7 +640,7 @@
 <e><lg><l pos="A">величавый</l></lg><mg><tg xml:lang="myv"><t pos="A">покштояк покш</t></tg></mg></e>
 <e><lg><l pos="A">величественный</l></lg><mg><tg xml:lang="myv"><t pos="A">покштояк покш</t></tg></mg></e>
 <e><lg><l pos="A">вельветовый</l></lg><mg><tg xml:lang="myv"><t pos="A">вельветэнь, вельветовой</t></tg></mg></e>
-<e><lg><l pos="A">венгерский</l></lg><mg><tg xml:lang="myv"><t pos="A">венгерской, венгриянь;</t></tg></mg></e>
+<e><lg><l pos="A">венгерский</l></lg><mg><tg xml:lang="myv"><t pos="A">венгерской, венгриянь</t></tg></mg></e>
 <e><lg><l pos="A">венерический</l></lg><mg><tg xml:lang="myv"><t pos="A">апаро ормань, венерической</t><xg><x>венерическая болезнь</x><xt>аванькс орма</xt></xg></tg></mg></e>
 <e><lg><l pos="A">венозный</l></lg><mg><tg xml:lang="myv"><t pos="A">верь санонь</t><xg><x>венозная кровь</x><xt>колазь верь</xt></xg></tg></mg></e>
 <e><lg><l pos="A">венский</l></lg><mg><tg xml:lang="myv"><t pos="A">венань, венской</t></tg></mg></e>
@@ -670,7 +670,7 @@
 <e><lg><l pos="A">вечерний</l></lg><mg><tg xml:lang="myv"><t pos="A">чокшнень</t><xg><x>вечернее время</x><xt>чокшнень шка</xt></xg><xg><x>вечерняя школа</x><xt>чокшнень школа</xt></xg></tg></mg></e>
 <e><lg><l pos="A">вечнозеленый</l></lg><mg><tg xml:lang="myv"><t pos="A">свал пиже</t></tg></mg></e>
 <e><lg><l pos="A">вечный</l></lg><mg><tg xml:lang="myv"><t pos="A">пингень, свалшкань</t><xg><x>вечная слава героям!</x><xt>пингень шнамо геройтненень!</xt></xg></tg></mg></e>
-<e><lg><l pos="A">вешний</l></lg><mg><tg xml:lang="myv"><t pos="A">тундонь;</t><xg><x>вешние воды</x><xt>чадыведь</xt></xg></tg></mg></e>
+<e><lg><l pos="A">вешний</l></lg><mg><tg xml:lang="myv"><t pos="A">тундонь</t><xg><x>вешние воды</x><xt>чадыведь</xt></xg></tg></mg></e>
 <e><lg><l pos="A">вещевой</l></lg><mg><tg xml:lang="myv"><t pos="A">вещевой, вещань</t><xg><x>вещевой мешок</x><xt>вещань кескав</xt></xg></tg></mg></e>
 <e><lg><l pos="A">вещественный</l></lg><mg><tg xml:lang="myv"><t pos="A">вещественной</t><xg><field>юр.</field><x>вещественное доказательство</x><xt>вещественной доказательства</xt></xg></tg></mg></e>
 <e><lg><l pos="A">вещий</l></lg><mg><tg xml:lang="myv"><t pos="A">икелев содыця</t></tg></mg></e>
@@ -743,7 +743,7 @@
 <e><lg><l pos="A">возвратный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">мекев молиця</t><xg><x>возвратный путь</x><xt>мекев молиця ки; велявтовиця</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A"><i>лингв., мед.</i> возвратной</t><xg><x>возвратный глагол</x><xt>возвратной глагол</xt></xg><xg><x>возвратный тиф</x><xt>возвратной тиф</xt></xg></tg></mg></e>
 <e><lg><l pos="A">возвышенный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о месте</i>) вере тарка, пандотарка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о чувствах и т. п.</i>) покш ёжомарямонь, возвышенной</t></tg></mg></e>
 <e><lg><l pos="A">возгораемый</l></lg><mg><tg xml:lang="myv"><t pos="A">палыця, кирвазиця</t></tg></mg></e>
-<e><lg><l pos="A">воздушный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">коштонь</t><xg><x>воздушный поток</x><xt>коштонь молема</xt></xg><xg><x>воздушный бой</x><xt>коштсо/менельсэ тюрема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>лёгкий</i>) сувонь;</t><xg><x>воздушный змей</x><xt>вармаведун</xt></xg></tg></mg></e>
+<e><lg><l pos="A">воздушный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">коштонь</t><xg><x>воздушный поток</x><xt>коштонь молема</xt></xg><xg><x>воздушный бой</x><xt>коштсо/менельсэ тюрема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>лёгкий</i>) сувонь</t><xg><x>воздушный змей</x><xt>вармаведун</xt></xg></tg></mg></e>
 <e><lg><l pos="A">возможный</l></lg><mg><tg xml:lang="myv"><t pos="A">уликс, возможной</t></tg></mg></e>
 <e><lg><l pos="A">возмужалый</l></lg><mg><tg xml:lang="myv"><t pos="A">касозь-кенерезь</t></tg></mg></e>
 <e><lg><l pos="A">возмущённый</l></lg><mg><tg xml:lang="myv"><t pos="A">ацирьгадозь</t></tg></mg></e>
@@ -831,7 +831,7 @@
 <e><lg><l pos="A">выпускной</l></lg><mg><tg xml:lang="myv"><t pos="A">нолдамонь, прядомань</t><xg><x>выпускной экзамен</x><xt>нолдамо экзамен</xt></xg></tg></mg></e>
 <e><lg><l pos="A">выраженный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">ёвтазь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>определённый</i>) невтезь</t></tg></mg></e>
 <e><lg><l pos="A">выразительный</l></lg><mg><tg xml:lang="myv"><t pos="A">выразительной</t></tg></mg></e>
-<e><lg><l pos="A">высокий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">сэрей</t><xg><x>высокий дом</x><xt>сэрей кудо</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>большой</i>) сэрей, покш; <b>высокие цены</b> покш питнеть; 3.(<i>хороший по качеству</i>) паро</t><xg><x>товары высокого качества</x><xt>паро качествань товарт</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="A">(<i>почетный, важный</i>) покш<b> высокая награда</b> покш казне;</t></tg></mg></e>
+<e><lg><l pos="A">высокий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">сэрей</t><xg><x>высокий дом</x><xt>сэрей кудо</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>большой</i>) сэрей, покш; <b>высокие цены</b> покш питнеть; 3.(<i>хороший по качеству</i>) паро</t><xg><x>товары высокого качества</x><xt>паро качествань товарт</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="A">(<i>почетный, важный</i>) покш<b> высокая награда</b> покш казне</t></tg></mg></e>
 <e><lg><l pos="A">высококвалифицированный</l></lg><mg><tg xml:lang="myv"><t pos="A">высококвалифицированной, пек квалифицированной</t></tg></mg></e>
 <e><lg><l pos="A">высокогорный</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>спец.</i>) вере пандопрянь</t></tg></mg></e>
 <e><lg><l pos="A">высокомерный</l></lg><mg><tg xml:lang="myv"><t pos="A">верьга прянь кандыця, высокомерной</t></tg></mg></e>
@@ -928,7 +928,7 @@
 <e><lg><l pos="A">голубиный</l></lg><mg><tg xml:lang="myv"><t pos="A">гулькань</t><xg><x>голубиное гнездо</x><xt>гулькань пизэ</xt></xg></tg></mg></e>
 <e><lg><l pos="A">голубоглазый</l></lg><mg><tg xml:lang="myv"><t pos="A">ашназа сэнь сельме</t></tg></mg></e>
 <e><lg><l pos="A">голубой</l></lg><mg><tg xml:lang="myv"><t pos="A">ашназа-сэнь, голубой, валдо-сэнь</t></tg></mg></e>
-<e><lg><l pos="A">голый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>раздетый, нагой</i>) штапо, кепе-штапо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>лишённый растительности</i>) штапо;</t><xg><x>голыми руками</x><xt>штапо кедьсэ</xt></xg><xg><x>голые цифры</x><xt>ансяк цифрат</xt></xg><xg><x>спать на голом полу</x><xt>удомс штапо киякс лангсо</xt></xg></tg></mg></e>
+<e><lg><l pos="A">голый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>раздетый, нагой</i>) штапо, кепе-штапо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>лишённый растительности</i>) штапо</t><xg><x>голыми руками</x><xt>штапо кедьсэ</xt></xg><xg><x>голые цифры</x><xt>ансяк цифрат</xt></xg><xg><x>спать на голом полу</x><xt>удомс штапо киякс лангсо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">гоночный</l></lg><mg><tg xml:lang="myv"><t pos="A">ардтнемань</t><xg><x>гоночная лодка</x><xt>ардтнемань венч</xt></xg></tg></mg></e>
 <e><lg><l pos="A">гончарный</l></lg><mg><tg xml:lang="myv"><t pos="A">чакшонь</t><xg><x>гончарное производство</x><xt>чакшонь теема</xt></xg></tg></mg></e>
 <e><lg><l pos="A">горбатый</l></lg><mg><tg xml:lang="myv"><t pos="A">ундокс кутьмере, горбун</t></tg></mg></e>
@@ -945,7 +945,7 @@
 <e><lg><l pos="A">горький</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о вкусе</i>) сэпей</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>бедственный</i>) стака</t><xg><x>горькая участь</x><xt>стака уцяска; стакачисэ эрямо;</xt></xg><xg><x>лить горькие слёзы</x><xt>салов сельведть валомс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">горьковатый</l></lg><mg><tg xml:lang="myv"><t pos="A">сэпшть-мериця</t></tg></mg></e>
 <e><lg><l pos="A">горючий</l></lg><mg><tg xml:lang="myv"><t pos="A">палыця</t></tg></mg></e>
-<e><lg><l pos="A">горячий</l></lg><mg><tg xml:lang="myv"><t pos="A">пси;</t><xg><x>горячий привет</x><xt>лембе сюкпря</xt></xg></tg></mg></e>
+<e><lg><l pos="A">горячий</l></lg><mg><tg xml:lang="myv"><t pos="A">пси</t><xg><x>горячий привет</x><xt>лембе сюкпря</xt></xg></tg></mg></e>
 <e><lg><l pos="A">горящий</l></lg><mg><tg xml:lang="myv"><t pos="A">палыця</t></tg></mg></e>
 <e><lg><l pos="A">господствующий</l></lg><mg><tg xml:lang="myv"><t pos="A">азорокс улиця</t></tg></mg></e>
 <e><lg><l pos="A">гостеприимный</l></lg><mg><tg xml:lang="myv"><t pos="A">инжень вечкиця</t></tg></mg></e>
@@ -974,7 +974,7 @@
 <e><lg><l pos="A">громовой</l></lg><mg><tg xml:lang="myv"><t pos="A">пек марявикс, пек виев</t><xg><x>громовой голос</x><xt>пек виев вайгель</xt></xg><xg><x>громовой удар</x><xt>пурьгинень вачкодевкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">громоздкий</l></lg><mg><tg xml:lang="myv"><t pos="A">пек покш</t></tg></mg></e>
 <e><lg><l pos="A">грошовый</l></lg><mg><tg xml:lang="myv"><t pos="A">трёшникень</t></tg></mg></e>
-<e><lg><l pos="A">грубый</l></lg><mg><tg xml:lang="myv"><t pos="A">казямо, иржаня;</t><xg><x>грубая ошибка</x><xt>покш ильведькс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">грубый</l></lg><mg><tg xml:lang="myv"><t pos="A">казямо, иржаня</t><xg><x>грубая ошибка</x><xt>покш ильведькс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">грудастый</l></lg><mg><tg xml:lang="myv"><t pos="A">покш меште, покш поте</t></tg></mg></e>
 <e><lg><l pos="A">грудной</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">мештень</t><xg><x>грудная клетка</x><xt>мештеловажат</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о ребёнке</i>) поти</t><xg><x>грудной ребёнок</x><xt>потиэйкакш, кедень эйкакш</xt></xg></tg></mg></e>
 <e><lg><l pos="A">грудобрюшный</l></lg><mg><field>анат.</field><tg xml:lang="myv"><t pos="A">мештепекень</t></tg></mg></e>
@@ -1002,7 +1002,7 @@
 <e><lg><l pos="A">давний</l></lg><mg><tg xml:lang="myv"><t pos="A">умонь</t><xg><x>с давних пор</x><xt>умонь шкасто</xt></xg></tg></mg></e>
 <e><lg><l pos="A">далёкий</l></lg><mg><sense>прям., перен.</sense><tg xml:lang="myv"><t pos="A">васолксонь, васолонь, васолга, васолдонь</t><xg><x>далёкое путешествие</x><xt>васолга якамо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">дальнейший</l></lg><mg><tg xml:lang="myv"><t pos="A">икелепелень</t><xg><x>в дальнейшем</x><xt>седе тов, икелепелев</xt></xg></tg></mg></e>
-<e><lg><l pos="A">дальний</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о расстоянии</i>) васоло</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>длинный, долгий</i>) кувака, васолдонь, васоло</t><xg><x>дальний путь</x><xt>кувака/васоло ки</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>о родственниках</i>) васоло;</t><xg><x>без дальних слов</x><xt>ламонь апак корта</xt></xg></tg></mg></e>
+<e><lg><l pos="A">дальний</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о расстоянии</i>) васоло</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>длинный, долгий</i>) кувака, васолдонь, васоло</t><xg><x>дальний путь</x><xt>кувака/васоло ки</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>о родственниках</i>) васоло</t><xg><x>без дальних слов</x><xt>ламонь апак корта</xt></xg></tg></mg></e>
 <e><lg><l pos="A">дальнобойный</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="A">васов ледиця/чавиця</t></tg></mg></e>
 <e><lg><l pos="A">дальновидный</l></lg><mg><tg xml:lang="myv"><t pos="A">икелев/васов неиця, (<i>предусмотрительный</i>) икелев теезь, (<i>проницательный</i>) пачк ваныця, пачк неиця</t></tg></mg></e>
 <e><lg><l pos="A">дальнозоркий</l></lg><mg><tg xml:lang="myv"><t pos="A">васов/васолдо неиця</t></tg></mg></e>
@@ -1022,7 +1022,7 @@
 <e><lg><l pos="A">движимый</l></lg><mg><tg xml:lang="myv"><t pos="A">шаштневиця, сыргавтневиця, айгевиця</t></tg></mg></e>
 <e><lg><l pos="A">движущий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>перемещающий</i>) тулкадиця, шаштыця, сыргавтыця, молиця</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">анокстыця, движущей</t><xg><x>движущие силы революции</x><xt>революциянть анокстыця виензэ, революциянть движущей виензэ</xt></xg></tg></mg></e>
 <e><lg><l pos="A">двойной</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о материи и т. п.</i>) кавтонькирда, кавто келесэ</t><xg><x>материя двойной ширины</x><xt>кавтонькирда (кавто келесэ) кодст</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о расходе и т. п.</i>) кавксть седе ламо</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>о дне посуды и т. п.</i>) кавто потмаксонь</t></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="A">(<i>о рамах</i>) кавонст</t></tg></mg></e>
-<e><lg><l pos="A">двойственный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>об отношении</i>) кавтолдомань</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>двуличный</i>) кавтолдыця;</t><xg><field>лингв.</field><x>двойственное число</x><xt>кавтонь числа</xt></xg></tg></mg></e>
+<e><lg><l pos="A">двойственный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>об отношении</i>) кавтолдомань</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>двуличный</i>) кавтолдыця</t><xg><field>лингв.</field><x>двойственное число</x><xt>кавтонь числа</xt></xg></tg></mg></e>
 <e><lg><l pos="A">дворовый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">кардазонь, кардазсо</t><xg><x>дворовые постройки</x><xt>кардазонь (кардазсо) постройкат, кудот-кавт</xt></xg></tg></mg><mg><arab>2.</arab><field>ист.</field><tg xml:lang="myv"><t pos="A">дворовой</t><xg><x>дворовые люди</x><xt>дворовой ломанть</xt></xg></tg></mg></e>
 <e><lg><l pos="A">дворянский</l></lg><mg><field>ист.</field><tg xml:lang="myv"><t pos="A">чинязонь, дворянской</t></tg></mg></e>
 <e><lg><l pos="A">двоюродный</l></lg><mg><tg xml:lang="myv"><t pos="A">: <b>двоюродный брат</b> васоло лелянь или васоло патянь цёра</t></tg></mg></e>
@@ -1100,7 +1100,7 @@
 <e><lg><l pos="A">дезинфекционный</l></lg><mg><tg xml:lang="myv"><t pos="A">дезинфекционной</t></tg></mg></e>
 <e><lg><l pos="A">действенный</l></lg><mg><tg xml:lang="myv"><t pos="A">тевень теиця, эрявикс, лездыця</t></tg></mg></e>
 <e><lg><l pos="A">действительный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>существующий</i>) алкуксонь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>годный</i>) маштовикс</t><xg><x>билет действйтелен на трое суток</x><xt>билетэсь маштови колмо суткас</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>дающий результат</i>) виде, алкуксонь</t></tg></mg></e>
-<e><lg><l pos="A">действующий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>делающий что-л.</i>) теиця, тевень теиця</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о законах, постановлениях</i>) вийсэ аштиця, виень кирдиця, действующей</t></tg></mg><mg><arab>3.</arab><field>тех.</field><tg xml:lang="myv"><t pos="A">(<i>о машине, аппарате и т. п.</i>) маштовикс, молиця, важодиця;</t><xg><field>театр.</field><x>действующее лицо</x><xt>налксиця, действующей лиця</xt></xg><xg><field>воен.</field><x>действующая армия</x><xt>действующей армия</xt></xg></tg></mg></e>
+<e><lg><l pos="A">действующий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>делающий что-л.</i>) теиця, тевень теиця</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о законах, постановлениях</i>) вийсэ аштиця, виень кирдиця, действующей</t></tg></mg><mg><arab>3.</arab><field>тех.</field><tg xml:lang="myv"><t pos="A">(<i>о машине, аппарате и т. п.</i>) маштовикс, молиця, важодиця</t><xg><field>театр.</field><x>действующее лицо</x><xt>налксиця, действующей лиця</xt></xg><xg><field>воен.</field><x>действующая армия</x><xt>действующей армия</xt></xg></tg></mg></e>
 <e><lg><l pos="A">декабрьский</l></lg><mg><tg xml:lang="myv"><t pos="A">ацамковонь, декабрянь</t><xg><field>ист.</field><x>декабрьское восстание</x><xt>декабрьской восстаниясь</xt></xg></tg></mg></e>
 <e><lg><l pos="A">декоративный</l></lg><mg><tg xml:lang="myv"><t pos="A">мазылгавтозь, декоративной</t></tg></mg></e>
 <e><lg><l pos="A">декретный</l></lg><mg><tg xml:lang="myv"><t pos="A">декретной</t></tg></mg></e>
@@ -1280,14 +1280,14 @@
 <e><lg><l pos="A">египетский</l></lg><mg><tg xml:lang="myv"><t pos="A">египетэнь</t></tg></mg></e>
 <e><lg><l pos="A">егозливый</l></lg><mg><tg xml:lang="myv"><t pos="A">майсиця</t></tg></mg></e>
 <e><lg><l pos="A">единичный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">вейкине, вейкетькс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">башка</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">чуросто вастневиця</t></tg></mg></e>
-<e><lg><l pos="A">единовременный</l></lg><mg><tg xml:lang="myv"><t pos="A">вешкань, весть максовиця, единовременной;</t><xg><x>единовременное пособие</x><xt>единовременной пособия</xt></xg></tg></mg></e>
+<e><lg><l pos="A">единовременный</l></lg><mg><tg xml:lang="myv"><t pos="A">вешкань, весть максовиця, единовременной</t><xg><x>единовременное пособие</x><xt>единовременной пособия</xt></xg></tg></mg></e>
 <e><lg><l pos="A">единогласный</l></lg><mg><tg xml:lang="myv"><t pos="A">велувс прыця, единогласной</t></tg></mg></e>
 <e><lg><l pos="A">единодушный</l></lg><mg><tg xml:lang="myv"><t pos="A">вемелень</t></tg></mg></e>
 <e><lg><l pos="A">единокровный</l></lg><mg><tg xml:lang="myv"><t pos="A">вейке верень, веверень, вейке тетянь эйкакш</t></tg></mg></e>
 <e><lg><l pos="A">единоличный</l></lg><mg><tg xml:lang="myv"><t pos="A">единоличной</t></tg></mg></e>
 <e><lg><l pos="A">единородный</l></lg><mg><tg xml:lang="myv"><t pos="A">вейкине эйкакш</t></tg></mg></e>
 <e><lg><l pos="A">единоутробный</l></lg><mg><tg xml:lang="myv"><t pos="A">вейке авань эйкакш, вепекень</t></tg></mg></e>
-<e><lg><l pos="A">единственный</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>только один</i>) ансяк вейке, вейкине;</t><xg><x>единственный в своём роде</x><xt>эсь койсэнзэ вейкине</xt></xg><xg><field>лингв.</field><x>единственное число</x><xt>вейкень числа</xt></xg></tg></mg></e>
+<e><lg><l pos="A">единственный</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>только один</i>) ансяк вейке, вейкине</t><xg><x>единственный в своём роде</x><xt>эсь койсэнзэ вейкине</xt></xg><xg><field>лингв.</field><x>единственное число</x><xt>вейкень числа</xt></xg></tg></mg></e>
 <e><lg><l pos="A">единый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>объединённый</i>) вейсэнь</t><xg><x>единое мнение</x><xt>вейсэнь мель</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>одинаковый</i>) вейке; <b>единое решение для обеих задач</b> кавонест задачатненень вейке решения; <b>&lt;&gt;  все до единого</b> весе вейкень пес</t></tg></mg></e>
 <e><lg><l pos="A">едкий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">корсяня, сэвиця</t><xg><x>едкий дым</x><xt>корсяня качамо</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>язвительный, колкий</i>) пельниця, сялгониця; <range>разг.</range> муциця</t></tg></mg></e>
 <e><lg><l pos="A">ежевичный</l></lg><mg><tg xml:lang="myv"><t pos="A">ведьинзеень</t></tg></mg></e>
@@ -1315,7 +1315,7 @@
 <e><lg><l pos="A">жаростойкий</l></lg><mg><tg xml:lang="myv"><t pos="A">псис кирдиця</t></tg></mg></e>
 <e><lg><l pos="A">жатвенный</l></lg><mg><tg xml:lang="myv"><t pos="A"><field>с.-х.</field> нуема</t><xg><x>жатвенная машина</x><xt>нуема машина</xt></xg></tg></mg></e>
 <e><lg><l pos="A">жвачный</l></lg><mg><tg xml:lang="myv"><t pos="A">поремань, пориця, ярсыця</t></tg></mg></e>
-<e><lg><l pos="A">жгучий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>горячий, палящий</i>) пициця; пици, пси</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о солнце</i>) пидиця, пси</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>о растениях</i>) пициця, пици</t><xg><x>жгучая крапива</x><xt>пиципалакс</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="A">(<i>о морозе</i>) пултыця, пициця</t><xg><x>жгучий мороз</x><xt>пултыця якшамо</xt></xg></tg></mg><mg><arab>5.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>едкий, разящий</i>) сэвиця, пельниця-сялгониця (<i>об обиде и т. п.</i>);</t><xg><x>жгучий вопрос</x><xt>пси кевкстема</xt></xg></tg></mg></e>
+<e><lg><l pos="A">жгучий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>горячий, палящий</i>) пициця; пици, пси</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о солнце</i>) пидиця, пси</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>о растениях</i>) пициця, пици</t><xg><x>жгучая крапива</x><xt>пиципалакс</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="A">(<i>о морозе</i>) пултыця, пициця</t><xg><x>жгучий мороз</x><xt>пултыця якшамо</xt></xg></tg></mg><mg><arab>5.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>едкий, разящий</i>) сэвиця, пельниця-сялгониця (<i>об обиде и т. п.</i>)</t><xg><x>жгучий вопрос</x><xt>пси кевкстема</xt></xg></tg></mg></e>
 <e><lg><l pos="A">желанный</l></lg><mg><tg xml:lang="myv"><t pos="A">вечкевикс, эрявикс, бажавикс</t></tg></mg></e>
 <e><lg><l pos="A">желательный</l></lg><mg><tg xml:lang="myv"><t pos="A">эрявикс, эрявиця</t></tg></mg></e>
 <e><lg><l pos="A">желающий</l></lg><mg><tg xml:lang="myv"><t pos="A">бажиця</t></tg></mg></e>
@@ -1382,7 +1382,7 @@
 <e><lg><l pos="A">завывающий</l></lg><mg><tg xml:lang="myv"><t pos="A">урнозевиця</t></tg></mg></e>
 <e><lg><l pos="A">загадочный</l></lg><mg><tg xml:lang="myv"><t pos="A">асодавтовикс, ачарькодевикс</t></tg></mg></e>
 <e><lg><l pos="A">заглавный</l></lg><mg><tg xml:lang="myv"><t pos="A">прявт, покш, заглавной</t><xg><x>заглавная буква</x><xt>прявт буква, покш буква</xt></xg></tg></mg></e>
-<e><lg><l pos="A">загнанный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>в помещение</i>) панезь, куродозь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о лошади</i>) пансезь</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>запуганный</i>) тандавтозь, таймазкавтозь;</t><xg><x>как загнанный зверь</x><xt>прок куродозь идем ракша</xt></xg></tg></mg></e>
+<e><lg><l pos="A">загнанный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>в помещение</i>) панезь, куродозь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о лошади</i>) пансезь</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>запуганный</i>) тандавтозь, таймазкавтозь</t><xg><x>как загнанный зверь</x><xt>прок куродозь идем ракша</xt></xg></tg></mg></e>
 <e><lg><l pos="A">загнутый</l></lg><mg><tg xml:lang="myv"><t pos="A">мендявозь</t></tg></mg></e>
 <e><lg><l pos="A">загорелый</l></lg><mg><tg xml:lang="myv"><t pos="A">чинь каршо/чи ало пиезь</t></tg></mg></e>
 <e><lg><l pos="A">загородный</l></lg><mg><tg xml:lang="myv"><t pos="A">ошушонь, ошонь томбалень, оштомбальксэнь</t><xg><x>загородная прогулка</x><xt>ошушова якамо</xt></xg></tg></mg></e>
@@ -1426,7 +1426,7 @@
 <e><lg><l pos="A">закоренелый</l></lg><mg><tg xml:lang="myv"><t pos="A">авитевикс, умонь; ташто, таштомозь (<i>застарелый</i>)</t></tg></mg></e>
 <e><lg><l pos="A">закостенелый</l></lg><mg><tg xml:lang="myv"><t pos="A">калгодкстомозь, ловажиязь</t></tg></mg></e>
 <e><lg><l pos="A">закоченелый</l></lg><mg><tg xml:lang="myv"><t pos="A">тарькстазь</t></tg></mg></e>
-<e><lg><l pos="A">закрытый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">пекстазь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о глазах</i>) конязь</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>покрытые</i>) вельтязь;</t><xg><x>закрытое собрание</x><xt>пекстазь промкс</xt></xg><xg><x>при закрытых дверях</x><xt>пекстазь кенкш экшсэ, салава</xt></xg></tg></mg></e>
+<e><lg><l pos="A">закрытый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">пекстазь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о глазах</i>) конязь</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>покрытые</i>) вельтязь</t><xg><x>закрытое собрание</x><xt>пекстазь промкс</xt></xg><xg><x>при закрытых дверях</x><xt>пекстазь кенкш экшсэ, салава</xt></xg></tg></mg></e>
 <e><lg><l pos="A">закулисный</l></lg><mg><tg xml:lang="myv"><t pos="A">кулисань экшсэ</t></tg></mg></e>
 <e><lg><l pos="A">закупочный</l></lg><mg><tg xml:lang="myv"><t pos="A">рамазь</t></tg></mg></e>
 <e><lg><l pos="A">заледенелый</l></lg><mg><tg xml:lang="myv"><t pos="A">эензазь</t></tg></mg></e>
@@ -1613,7 +1613,7 @@
 <e><lg><l pos="A">ижорский</l></lg><mg><tg xml:lang="myv"><t pos="A">ижоронь</t></tg></mg></e>
 <e><lg><l pos="A">избалованный</l></lg><mg><tg xml:lang="myv"><t pos="A">кольняй, кольнягай, кольневкс, кольневтезь, кольняга, эльневтезь, анелязь</t><xg><x>избалованный ребёнок</x><xt>кольняй, кольнягай, кольняга, кольневкс, аниляське, анелькс, кольневтезь/эльневтезь/анелязь эйкакш</xt></xg></tg></mg></e>
 <e><lg><l pos="A">избирательный</l></lg><mg><tg xml:lang="myv"><t pos="A">кочкамонь, избирательной</t><xg><x>избирательное право</x><xt>кочкамонь уликсчи/права</xt></xg><xg><x>избирательный участок</x><xt>кочкамонь тарка</xt></xg></tg></mg></e>
-<e><lg><l pos="A">избитый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">чавозь, маштозь</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">содавикс, содазь;</t><xg><x>избитая истина</x><xt>содазь тев/алкуксчи</xt></xg><xg><x>избитое выражение</x><xt>содавикс меревкс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">избитый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">чавозь, маштозь</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">содавикс, содазь</t><xg><x>избитая истина</x><xt>содазь тев/алкуксчи</xt></xg><xg><x>избитое выражение</x><xt>содавикс меревкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">избранный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">кочказь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">кочказь, кочкавт</t><xg><x>избранные сочинения Пушкина</x><xt>Пушкинэнь кочказь сёрмадовксонзо</xt></xg><xg><x>избранное общество</x><xt>кочкавт ломаньлув/общества</xt></xg></tg></mg></e>
 <e><lg><l pos="A">избыточный</l></lg><mg><tg xml:lang="myv"><t pos="A">велькска, седе ламо, лишной</t><xg><x>избыточный груз</x><xt>велькска сталмо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">известный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>знакомый,</i> <i>популярный</i>) содавикс</t><xg><x>всеми известный</x><xt>весеменень содавикс</xt></xg><xg><x>известный врач</x><xt>содавикс лечиця/лециця/врач</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>определённый</i>) содазь, содавикс</t><xg><x>на известное число лиц</x><xt>содазь ломанень туртов</xt></xg><xg><x>в известное время</x><xt>содавикс шкасто</xt></xg></tg></mg></e>
@@ -1680,7 +1680,7 @@
 <e><lg><l pos="A">инновационный</l></lg><mg><tg xml:lang="myv"><t pos="A">од, инновационной</t></tg></mg></e>
 <e><lg><l pos="A">иногородний</l></lg><mg><tg xml:lang="myv"><t pos="A">лия ошонь/ошсто</t></tg></mg></e>
 <e><lg><l pos="A">иноземный</l></lg><mg><tg xml:lang="myv"><t pos="A">лия масторонь / омбомасторонь</t></tg></mg></e>
-<e><lg><l pos="A">иной</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>другой</i>) лия</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>некоторый</i>) кона-кона;</t><xg><x>иной раз</x><xt>лиясто</xt></xg><xg><x>не кто иной, как...</x><xt>аволь кияк лия, кода</xt></xg></tg></mg></e>
+<e><lg><l pos="A">иной</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>другой</i>) лия</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>некоторый</i>) кона-кона</t><xg><x>иной раз</x><xt>лиясто</xt></xg><xg><x>не кто иной, как...</x><xt>аволь кияк лия, кода</xt></xg></tg></mg></e>
 <e><lg><l pos="A">инопланетный</l></lg><mg><tg xml:lang="myv"><t pos="A">лия чарытештень/планетань</t></tg></mg></e>
 <e><lg><l pos="A">инородный</l></lg><mg><tg xml:lang="myv"><t pos="A">веёндонь, аволь эсь</t><xg><x>инородное тело</x><xt>веёндонь рунго</xt></xg></tg></mg></e>
 <e><lg><l pos="A">иностранный</l></lg><mg><tg xml:lang="myv"><t pos="A">лия масторонь / омбомасторонь</t></tg></mg></e>
@@ -1794,7 +1794,7 @@
 <e><lg><l pos="A">кареглазый</l></lg><mg><tg xml:lang="myv"><t pos="A">тюжа/раужо сельме, лёмзёрсельме</t><xg><x>кареглазый паренёк</x><xt>тюжа/раужо сельме цёрынька, лёмзёрсельме цёрынька</xt></xg></tg></mg></e>
 <e><lg><l pos="A">карий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о цвете глаз</i>) чопода-тюжа, раужо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о масти лошади</i>) карей</t></tg></mg></e>
 <e><lg><l pos="A">карикатурный</l></lg><mg><tg xml:lang="myv"><t pos="A">карикатурань, карикатурной</t></tg></mg></e>
-<e><lg><l pos="A">карликовый</l></lg><mg><tg xml:lang="myv"><t pos="A">карликень, карликовой;</t><xg><x>карликовое растение</x><xt>алкине/алка касовкс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">карликовый</l></lg><mg><tg xml:lang="myv"><t pos="A">карликень, карликовой</t><xg><x>карликовое растение</x><xt>алкине/алка касовкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">карманный</l></lg><mg><tg xml:lang="myv"><t pos="A">зепень, зепсэ кандтневиця</t><xg><x>карманные часы</x><xt>зепень / зепсэ кандтневиця част</xt></xg><xg><x>карманные деньги</x><xt>апокш ярмакт, эрьва чинь ярмакт</xt></xg><xg><x>карманный вор</x><xt>зепстэ салыця, зепень печксиця</xt></xg></tg></mg></e>
 <e><lg><l pos="A">картавый</l></lg><mg><tg xml:lang="myv"><t pos="A">келень понгонезь кортыця, пелькель, шепелькель</t><xg><x>картавая речь</x><xt>пелькельсэ кортамо, келень понгонезь кортамо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">картечный</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="A">картечень</t><xg><x>картечная бомба</x><xt>картечень бомба</xt></xg></tg></mg></e>
@@ -2043,8 +2043,8 @@
 <e><lg><l pos="A">крошечный</l></lg><mg><tg xml:lang="myv"><t pos="A">пек вишкине, вишкинькине, цютьке, цютькине, апокш</t></tg></mg></e>
 <e><lg><l pos="A">круглолицый</l></lg><mg><tg xml:lang="myv"><t pos="A">кругловой/келей/кеверь чама</t></tg></mg></e>
 <e><lg><l pos="A">круглосуточный</l></lg><mg><tg xml:lang="myv"><t pos="A">чинек-венек важодиця</t><xg><x>круглосуточный магазин</x><xt>чинек-венек важодиця микшнема кудо</xt></xg></tg></mg></e>
-<e><lg><l pos="A">круглый</l></lg><mg><tg xml:lang="myv"><t pos="A">кеверь, кругловой;</t><xg><x>круглый год</x><xt>иень перть, кизэнек-теленек</xt></xg></tg></mg></e>
-<e><lg><l pos="A">круговой</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>движущийся по кругу</i>) круг перька якиця/велиця, кругка якиця/велиця;</t><xg><x>круговая порука</x><xt>вейке-вейкень кис(э) пшкадема/аштема, эрьва ёндонь лезкс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">круглый</l></lg><mg><tg xml:lang="myv"><t pos="A">кеверь, кругловой</t><xg><x>круглый год</x><xt>иень перть, кизэнек-теленек</xt></xg></tg></mg></e>
+<e><lg><l pos="A">круговой</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>движущийся по кругу</i>) круг перька якиця/велиця, кругка якиця/велиця</t><xg><x>круговая порука</x><xt>вейке-вейкень кис(э) пшкадема/аштема, эрьва ёндонь лезкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">кругообразный</l></lg><mg><tg xml:lang="myv"><t pos="A">кирьксэнь/кругонь кондямо</t></tg></mg></e>
 <e><lg><l pos="A">кругосветный</l></lg><mg><tg xml:lang="myv"><t pos="A">масторонь/мода-масторонь перька, светэнть перька</t><xg><x>кругосветное путешествие</x><xt>мода-масторонь перька якамо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">крупнокалиберный</l></lg><mg><tg xml:lang="myv"><t pos="A">покш калибрань, крупнокалиберной</t></tg></mg></e>
@@ -2052,7 +2052,7 @@
 <e><lg><l pos="A">крупноплодный</l></lg><mg><tg xml:lang="myv"><t pos="A">покш (эмеж)умарь/ягода (марто), эрьгана</t></tg></mg></e>
 <e><lg><l pos="A">крупный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о песке</i>) эчке, эрьге</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">покш</t><xg><x>крупные деньги</x><xt>покш ярмакт</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>известный</i>) покш, содавикс</t><xg><x>крупный учёный</x><xt>покш/содавикс учёной;</xt></xg><xg><x>крупный разговор</x><xt>покш/кеме кортамо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">крупозный</l></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="A">пельксэнь, крупозной</t><xg><x>крупозное воспаление лёгких</x><xt>тевелявксонь пельксэнь таргозема</xt></xg></tg></mg></e>
-<e><lg><l pos="A">крутой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">чирь, аволь вандора, крута</t><xg><x>крутой берег</x><xt>аволь вандора / крута чире</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о человеке</i>) кежей, казямо, упрям(ой);</t><xg><x>крутые яйца</x><xt>пек пидезь алт</xt></xg><xg><x>крутые меры</x><xt>кеме / пек стака мерат</xt></xg></tg></mg></e>
+<e><lg><l pos="A">крутой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">чирь, аволь вандора, крута</t><xg><x>крутой берег</x><xt>аволь вандора / крута чире</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о человеке</i>) кежей, казямо, упрям(ой)</t><xg><x>крутые яйца</x><xt>пек пидезь алт</xt></xg><xg><x>крутые меры</x><xt>кеме / пек стака мерат</xt></xg></tg></mg></e>
 <e><lg><l pos="A">кручёный</l></lg><mg><tg xml:lang="myv"><t pos="A">пельдезь</t><xg><x>кручённые нитки</x><xt>пельдезь суре(ть)</xt></xg></tg></mg></e>
 <e><lg><l pos="A">крылатый</l></lg><mg><tg xml:lang="myv"><t pos="A">сёлмов, сёлмо марто</t><xg><x>крылатые птицы</x><xt>сёлмо марто нармунть;</xt></xg><xg><x>крылатые слова</x><xt>сёлмов валт, валмеревкст</xt></xg></tg></mg></e>
 <e><lg><l pos="A">крючковатый</l></lg><mg><tg xml:lang="myv"><t pos="A">кечказ/крюка ёнов молиця, кечказонь кондямо</t></tg></mg></e>
@@ -2102,7 +2102,7 @@
 <e><lg><l pos="A">лавандовый</l></lg><mg><tg xml:lang="myv"><t pos="A">лавандань, лавандовой</t><xg><x>лавандовое масло</x><xt>лавандань ой</xt></xg></tg></mg></e>
 <e><lg><l pos="A">лавинный</l></lg><mg><tg xml:lang="myv"><t pos="A">лавинань, лавинной</t></tg></mg></e>
 <e><lg><l pos="A">лавиноподобный</l></lg><mg><tg xml:lang="myv"><t pos="A">ловпандонь кондямо, ловпандонь ёнов молиця, коволкс кондямо</t></tg></mg></e>
-<e><lg><l pos="A">лавровый</l></lg><mg><tg xml:lang="myv"><t pos="A">лаврань; <b>лавр<i>о</i>вый запах</b> лаврань чине;</t><xg><x>лавровый венок</x><xt>лаврань каштаз</xt></xg></tg></mg></e>
+<e><lg><l pos="A">лавровый</l></lg><mg><tg xml:lang="myv"><t pos="A">лаврань; <b>лавр<i>о</i>вый запах</b> лаврань чине</t><xg><x>лавровый венок</x><xt>лаврань каштаз</xt></xg></tg></mg></e>
 <e><lg><l pos="A">лагерный</l></lg><mg><tg xml:lang="myv"><t pos="A">лагерень, лагерной</t><xg><x>лагерный сбор</x><xt>лагерень промкс/пурнамо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">ладанный</l></lg><mg><tg xml:lang="myv"><t pos="A">ладанонь</t></tg></mg></e>
 <e><lg><l pos="A">ладный</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="A">1. виде-паро, ён, вадря-паро, ладной, вадря</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">ёлганя</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">ладной, ялгаксчисэ эриця, дружной</t></tg></mg></e>
@@ -2126,7 +2126,7 @@
 <e><lg><l pos="A">ламповый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">лампань</t><xg><x>ламповое стекло</x><xt>лампань сулика/сленика</xt></xg></tg></mg><mg><arab>2.</arab><field>тех.</field><tg xml:lang="myv"><t pos="A">(<i>о радиоустановках</i>) лампа марто, ламповой</t><xg><x>ламповый радиоприёмник</x><xt>лампа марто радиоприёмник</xt></xg></tg></mg></e>
 <e><lg><l pos="A">ландышевый</l></lg><mg><tg xml:lang="myv"><t pos="A">кукопонксонь</t></tg></mg></e>
 <e><lg><l pos="A">лаосский</l></lg><mg><tg xml:lang="myv"><t pos="A">лаоссонь</t></tg></mg></e>
-<e><lg><l pos="A">лапчатый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">кедьлапань кондямо;</t><xg><x>гусь лапчатый</x><xt>манчиця/покшкавтниця цёра</xt></xg></tg></mg></e>
+<e><lg><l pos="A">лапчатый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">кедьлапань кондямо</t><xg><x>гусь лапчатый</x><xt>манчиця/покшкавтниця цёра</xt></xg></tg></mg></e>
 <e><lg><l pos="A">ласкательный</l></lg><mg><tg xml:lang="myv"><t pos="A">чевте, васькавтыця, васькавкс, вишкалгавтыця, анелиця</t><xg><x>ласкательное имя</x><xt>васькавтыця/васькавкс лем</xt></xg><xg><x>ласкательный тон</x><xt>чевте вайгель</xt></xg></tg></mg></e>
 <e><lg><l pos="A">ласковый</l></lg><mg><tg xml:lang="myv"><t pos="A">васькавтыця, анелиця, чевте, ёжов-важов, важов</t><xg><x>ласковые слова</x><xt>васькавтыця валт</xt></xg><xg><x>ласковое имя</x><xt>васькавтыця лем, пелелем</xt></xg><xg><x>ласковый взгляд</x><xt>чевте/васькавтыця варштавкс, чевте/васькавтыця вановт</xt></xg></tg></mg></e>
 <e><lg><l pos="A">латаный</l></lg><mg><tg xml:lang="myv"><t pos="A">панднезь, витнезь-петнезь</t></tg></mg></e>
@@ -2404,7 +2404,7 @@
 <e><lg><l pos="A">мануальный</l></lg><mg><tg xml:lang="myv"><t pos="A">кедьсэ теезь, мануальной</t><xg><x>мануальный терапевт</x><xt>мануальной терапевт</xt></xg></tg></mg></e>
 <e><lg><l pos="A">мануфактурный</l></lg><mg><tg xml:lang="myv"><t pos="A">мануфактурань, мануфактурной</t></tg></mg></e>
 <e><lg><l pos="A">манящий</l></lg><mg><tg xml:lang="myv"><t pos="A">тердиця, маниця, манчиця, мельс туиця</t><xg><x>манящий взгляд</x><xt>тердиця/маниця вановт</xt></xg></tg></mg></e>
-<e><lg><l pos="A">марафонский</l></lg><mg><tg xml:lang="myv"><t pos="A">марафонононь;</t><xg><x>марафонский бег</x><xt>марафононь чиема</xt></xg></tg></mg></e>
+<e><lg><l pos="A">марафонский</l></lg><mg><tg xml:lang="myv"><t pos="A">марафонононь</t><xg><x>марафонский бег</x><xt>марафононь чиема</xt></xg></tg></mg></e>
 <e><lg><l pos="A">марганцевый</l></lg><mg><tg xml:lang="myv"><t pos="A">марганецень, марганцевой</t><xg><x>марганцевая соль</x><xt>марганецень/марганцевой сал</xt></xg></tg></mg></e>
 <e><lg><l pos="A">маргариновый</l></lg><mg><tg xml:lang="myv"><t pos="A">маргаринэнь</t></tg></mg></e>
 <e><lg><l pos="A">марийский</l></lg><mg><tg xml:lang="myv"><t pos="A">маринь, черемисэнь, марийской</t><xg><x>марийский язык</x><xt>маринь/черемисэнь/марийской кель</xt></xg></tg></mg></e>
@@ -2493,7 +2493,7 @@
 <e><lg><l pos="A">меркантильный</l></lg><mg><range>книжн.</range><tg xml:lang="myv"><t pos="A">ярмаконь ловныця, мелочной, меркантильной</t></tg></mg></e>
 <e><lg><l pos="A">мерный</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>ритмичный</i>) валка, вейкетьстэнь, ритмичной</t></tg></mg></e>
 <e><lg><l pos="A">мертвенно-бледный</l></lg><mg><tg xml:lang="myv"><t pos="A">пек ловтаня, ловтаня-ашо</t><xg><x>мертвенно-бледное лицо</x><xt>пек ловтаня / ловтаня-ашо чама, прок кулозь ломанень чама</xt></xg></tg></mg></e>
-<e><lg><l pos="A">мёртвый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>умерший</i>) кулозь</t><xg><x>мёртвая птица</x><xt>кулозь нармунь</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>тихий</i>) сэтьме, чаво, а эрикс;</t><xg><x>мёртвый капитал</x><xt>тевс анолдавиця капитал</xt></xg><xg><x>на мёртвой точке</x><xt>ве таркасо (аштемс)</xt></xg><xg><x>мёртвые улицы</x><xt>чаво/ломантеме ульцят</xt></xg><xg><x>мёртвый час</x><xt>оймамо/оймсема шка, оймамо/оймсема час</xt></xg><xg><field>фольк.</field><x>мёртвая вода</x><xt>куловтыця ведь</xt></xg></tg></mg></e>
+<e><lg><l pos="A">мёртвый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>умерший</i>) кулозь</t><xg><x>мёртвая птица</x><xt>кулозь нармунь</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>тихий</i>) сэтьме, чаво, а эрикс</t><xg><x>мёртвый капитал</x><xt>тевс анолдавиця капитал</xt></xg><xg><x>на мёртвой точке</x><xt>ве таркасо (аштемс)</xt></xg><xg><x>мёртвые улицы</x><xt>чаво/ломантеме ульцят</xt></xg><xg><x>мёртвый час</x><xt>оймамо/оймсема шка, оймамо/оймсема час</xt></xg><xg><field>фольк.</field><x>мёртвая вода</x><xt>куловтыця ведь</xt></xg></tg></mg></e>
 <e><lg><l pos="A">местный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>не общий</i>) таркань, таркасо вастневиця</t><xg><x>местное явление</x><xt>таркасо вастневиця тев</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>здешний</i>) тесэнь, тестэнь</t><xg><x>местные жители</x><xt>тесэнь/тестэнь эрицят</xt></xg></tg></mg><mg><arab>3.</arab><field>лингв.</field><tg xml:lang="myv"><t pos="A"><b>местный падеж</b> таркань/местной падеж</t></tg></mg></e>
 <e><lg><l pos="A">месячный</l></lg><mg><tg xml:lang="myv"><t pos="A">ковонь, ковонь кувалмосо, ковонь перть молиця, ковс</t><xg><x>я взял месячный отпуск</x><xt>мон саинь ве(йке) ковс оймсема/отпуск</xt></xg></tg></mg></e>
 <e><lg><l pos="A">металлический</l></lg><mg><tg xml:lang="myv"><t pos="A">металлонь, металлсто теезь, металлической</t><xg><x>металлический завод</x><xt>металлонь теемань завод</xt></xg></tg></mg></e>
@@ -2505,7 +2505,7 @@
 <e><lg><l pos="A">метафорический</l></lg><mg><tg xml:lang="myv"><t pos="A">метафора марто, метафорической</t></tg></mg></e>
 <e><lg><l pos="A">метельный</l></lg><mg><tg xml:lang="myv"><t pos="A">кандыловов, кандылов марто, буряв, буря марто</t><xg><x>метельная зима</x><xt>кандыловов/буряв теле</xt></xg></tg></mg></e>
 <e><lg><l pos="A">метеорологический</l></lg><mg><tg xml:lang="myv"><t pos="A">метеорологиянь, метеорологической</t></tg></mg></e>
-<e><lg><l pos="A">меткий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">понгиця, норовиця, парсте ледниця</t><xg><x>меткий выстрел</x><xt>цельс тондыця/понгиця ледема</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">пшти, виде, видестэ ёвтазь;</t><xg><x>меткое слово</x><xt>нороввал, виде / видестэ ёвтазь вал</xt></xg></tg></mg></e>
+<e><lg><l pos="A">меткий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">понгиця, норовиця, парсте ледниця</t><xg><x>меткий выстрел</x><xt>цельс тондыця/понгиця ледема</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">пшти, виде, видестэ ёвтазь</t><xg><x>меткое слово</x><xt>нороввал, виде / видестэ ёвтазь вал</xt></xg></tg></mg></e>
 <e><lg><l pos="A">методический</l></lg><mg><tg xml:lang="myv"><t pos="A">методикань, методической</t></tg></mg></e>
 <e><lg><l pos="A">методологический</l></lg><mg><tg xml:lang="myv"><t pos="A">методологиянь, методологической</t></tg></mg></e>
 <e><lg><l pos="A">метрический</l></lg><mg><tg xml:lang="myv"><t pos="A">метрической</t></tg></mg></e>
@@ -2602,7 +2602,7 @@
 <e><lg><l pos="A">молодой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">од, аволь ламо иень/иесэ</t><xg><x>молодой человек</x><xt>од ломань</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">од, неень, свежа</t><xg><x>молодой картофель</x><xt>од/неень/свежа модамарь</xt></xg></tg></mg></e>
 <e><lg><l pos="A">моложавый</l></lg><mg><tg xml:lang="myv"><t pos="A">одсто невтиця, лангс ваномс од</t></tg></mg></e>
 <e><lg><l pos="A">молотый</l></lg><mg><tg xml:lang="myv"><t pos="A">яжавтозь, яжазь</t><xg><x>молотый кофе</x><xt>яжавтозь/яжазь кофе</xt></xg></tg></mg></e>
-<e><lg><l pos="A">молочный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">ловсонь, ловсос, ловсосто</t><xg><x>молочная каша</x><xt>ловсонь/ловсос каша</xt></xg><xg><x>молочные продукты</x><xt>ловсот-ойть, ойть-ловсот, ойть-велькст, ловсосто/ловсонь ярсамопельть</xt></xg><xg><x>молочная железа</x><xt>потеядра</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о корове</i>) ловсонь максыця, ловсов;</t><xg><x>молочный зуб</x><xt>потипей, потяка пей</xt></xg></tg></mg></e>
+<e><lg><l pos="A">молочный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">ловсонь, ловсос, ловсосто</t><xg><x>молочная каша</x><xt>ловсонь/ловсос каша</xt></xg><xg><x>молочные продукты</x><xt>ловсот-ойть, ойть-ловсот, ойть-велькст, ловсосто/ловсонь ярсамопельть</xt></xg><xg><x>молочная железа</x><xt>потеядра</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о корове</i>) ловсонь максыця, ловсов</t><xg><x>молочный зуб</x><xt>потипей, потяка пей</xt></xg></tg></mg></e>
 <e><lg><l pos="A">молчаливый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>о человеке</i>) чатьмониця, кашт-молиця, а кортыця, а/аволь кортакшов</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">(<i>о природе</i>) сэтьме</t></tg></mg></e>
 <e><lg><l pos="A">моментальный</l></lg><mg><tg xml:lang="myv"><t pos="A">куроконь, курокстонь, нейке(нь), апак учо</t><xg><x>моментальная смерть</x><xt>куроконь / апак учо кулома</xt></xg></tg></mg></e>
 <e><lg><l pos="A">монгольский</l></lg><mg><tg xml:lang="myv"><t pos="A">монголонь, монгольской</t><xg><x>монгольский язык</x><xt>монголонь/монгольской кель</xt></xg></tg></mg></e>
@@ -2673,7 +2673,7 @@
 <e><lg><l pos="A">мятежный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">каршо стиця/кепетиця, бунтовиця</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">асэтьме, аволь сэтьме, сяткордыця/мелявты седей, талныця</t></tg></mg></e>
 <e><lg><l pos="A">мятный</l></lg><mg><tg xml:lang="myv"><t pos="A">мята чине марто, мята марто, мятной</t><xg><x>мятный чай</x><xt>мята марто / мятной чай</xt></xg></tg></mg></e>
 <e><lg><l pos="A">мятый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">мерьказь, пуворязь, сюворязь, сормсезь, менчезь</t><xg><x>мятая одежда</x><xt>мерьказь/пуворязь/сормсезь/менчезь оршамопель</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">лепштязь, томбазь</t><xg><x>мятая ягода</x><xt>лепштязь/томбазь ягодат</xt></xg></tg></mg></e>
-<e><lg><l pos="A">набитый</l></lg><mg><tg xml:lang="myv"><t pos="A">пештезь, эцезь;</t><xg><x>набитый дурак</x><xt>пачк превтеме</xt></xg></tg></mg></e>
+<e><lg><l pos="A">набитый</l></lg><mg><tg xml:lang="myv"><t pos="A">пештезь, эцезь</t><xg><x>набитый дурак</x><xt>пачк превтеме</xt></xg></tg></mg></e>
 <e><lg><l pos="A">наблюдательный</l></lg><mg><tg xml:lang="myv"><t pos="A">неиця</t></tg></mg></e>
 <e><lg><l pos="A">набожный</l></lg><mg><tg xml:lang="myv"><t pos="A">пазнэнь озныця</t></tg></mg></e>
 <e><lg><l pos="A">наборный</l></lg><mg><tg xml:lang="myv"><t pos="A">кочказь, пурназь, наборной</t></tg></mg></e>
@@ -2813,7 +2813,7 @@
 <e><lg><l pos="A">невозмутимый</l></lg><mg><tg xml:lang="myv"><t pos="A">сэтьме</t></tg></mg></e>
 <e><lg><l pos="A">невольный</l></lg><mg><tg xml:lang="myv"><t pos="A">аволь эсь олясо, олявтомонь</t></tg></mg></e>
 <e><lg><l pos="A">невообразимый</l></lg><mg><tg xml:lang="myv"><t pos="A">аёвтавишка, аёвтавикс,  алововишка</t></tg></mg></e>
-<e><lg><l pos="A">невооружённый</l></lg><mg><tg xml:lang="myv"><t pos="A">кедьёнкстомо;</t><xg><x>невооружённым глазом</x><xt>стяконь сельмесэ</xt></xg></tg></mg></e>
+<e><lg><l pos="A">невооружённый</l></lg><mg><tg xml:lang="myv"><t pos="A">кедьёнкстомо</t><xg><x>невооружённым глазом</x><xt>стяконь сельмесэ</xt></xg></tg></mg></e>
 <e><lg><l pos="A">невоспитанный</l></lg><mg><tg xml:lang="myv"><t pos="A">беряньстэ трязь-кастозь</t></tg></mg></e>
 <e><lg><l pos="A">невосполнимый</l></lg><mg><tg xml:lang="myv"><t pos="A">авелявтовиця, атопавтовиця</t><xg><x>невосполнимая потеря</x><xt>авелявтовиця ёмавкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">невосприимчивый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">беряньстэ чарькодиця</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">а педиця</t></tg></mg></e>
@@ -3069,7 +3069,7 @@
 <e><lg><l pos="A">непостоянный</l></lg><mg><tg xml:lang="myv"><t pos="A">(свал) полавтовиця, полавтневиця</t></tg></mg></e>
 <e><lg><l pos="A">непотопляемый</l></lg><mg><tg xml:lang="myv"><t pos="A">аваявтовиця</t></tg></mg></e>
 <e><lg><l pos="A">непохожий</l></lg><mg><tg xml:lang="myv"><t pos="A">аволь вейкеть, (веёнов) а молиця, авейкеть понасо, мезеньгак ёнов а молиця</t><xg><x>непохожи друг на друга</x><xt>вейкень-вейкень ёнов а молиця</xt></xg></tg></mg></e>
-<e><lg><l pos="A">непочатый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">апак ушодо/панжо</t><xg><x>непочатая коробка конфет</x><xt>апак ушодо/панжо конфетка куймине</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">певтеме;</t><xg><x>работы непочатый край</x><xt>певтеме тевть</xt></xg></tg></mg></e>
+<e><lg><l pos="A">непочатый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">апак ушодо/панжо</t><xg><x>непочатая коробка конфет</x><xt>апак ушодо/панжо конфетка куймине</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">певтеме</t><xg><x>работы непочатый край</x><xt>певтеме тевть</xt></xg></tg></mg></e>
 <e><lg><l pos="A">непочтительный</l></lg><mg><tg xml:lang="myv"><t pos="A">мелень а ваныця</t></tg></mg></e>
 <e><lg><l pos="A">неправдивый</l></lg><mg><tg xml:lang="myv"><t pos="A">аволь виде, кенгелиця, манчиця</t><xg><x>неправдивый человек</x><xt>аволь виде/кенгелиця ломань</xt></xg></tg></mg></e>
 <e><lg><l pos="A">неправдоподобный</l></lg><mg><tg xml:lang="myv"><t pos="A">аволь алкуксонь понасо, аволь видечинь кондямо, кенгелямонь</t></tg></mg></e>
@@ -3358,7 +3358,7 @@
 <e><lg><l pos="A">оборванный</l></lg><mg><tg xml:lang="myv"><t pos="A">сезнезь, раздезь</t></tg></mg></e>
 <e><lg><l pos="A">оборонительный</l></lg><mg><tg xml:lang="myv"><t pos="A">оборонань, ванстомань, кирдемань</t></tg></mg></e>
 <e><lg><l pos="A">оборонный</l></lg><mg><tg xml:lang="myv"><t pos="A">ванстомань, оборонной</t></tg></mg></e>
-<e><lg><l pos="A">оборотный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>на изнанке</i>) ингелькс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о капитале</i>) оборотной;</t><xg><x>оборотная сторона</x><xt>ингелькс пелькс/ёнкс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">оборотный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>на изнанке</i>) ингелькс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о капитале</i>) оборотной</t><xg><x>оборотная сторона</x><xt>ингелькс пелькс/ёнкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">обоснованный</l></lg><mg><tg xml:lang="myv"><t pos="A">кемекстазь</t></tg></mg></e>
 <e><lg><l pos="A">обособленный</l></lg><mg><tg xml:lang="myv"><t pos="A">башка/явозь аштиця</t></tg></mg></e>
 <e><lg><l pos="A">обострённый</l></lg><mg><tg xml:lang="myv"><t pos="A">пштилгавтозь, сювозь</t></tg></mg></e>
@@ -3534,7 +3534,7 @@
 <e><lg><l pos="A">оседлый</l></lg><mg><tg xml:lang="myv"><t pos="A">оседлой, эриця</t></tg></mg></e>
 <e><lg><l pos="A">осенний</l></lg><mg><tg xml:lang="myv"><t pos="A">сёксень</t><xg><x>осенний день</x><xt>сёксень чи</xt></xg><xg><x>осенний дождь</x><xt>сёксень пиземе</xt></xg></tg></mg></e>
 <e><lg><l pos="A">осиновый</l></lg><mg><tg xml:lang="myv"><t pos="A">поень</t><xg><x>роща осиновая</x><xt>пойколка</xt></xg><xg><x>осиновый лист</x><xt>пойлопа</xt></xg></tg></mg></e>
-<e><lg><l pos="A">осиный</l></lg><mg><tg xml:lang="myv"><t pos="A">укскань;</t><xg><x>осиное гнездо</x><xt>укскань пизэ</xt></xg></tg></mg></e>
+<e><lg><l pos="A">осиный</l></lg><mg><tg xml:lang="myv"><t pos="A">укскань</t><xg><x>осиное гнездо</x><xt>укскань пизэ</xt></xg></tg></mg></e>
 <e><lg><l pos="A">осиплый</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>о голосе</i>) корсяня вайгель</t></tg></mg></e>
 <e><lg><l pos="A">осиротелый</l></lg><mg><tg xml:lang="myv"><t pos="A">урозкадозь</t></tg></mg></e>
 <e><lg><l pos="A">оскорбительный</l></lg><mg><tg xml:lang="myv"><t pos="A">покордамонь</t></tg></mg></e>
@@ -3698,7 +3698,7 @@
 <e><lg><l pos="A">письменный</l></lg><mg><tg xml:lang="myv"><t pos="A">сёрмадомань, сёрмадозь</t></tg></mg></e>
 <e><lg><l pos="A">питательный</l></lg><mg><tg xml:lang="myv"><t pos="A">топодстиця, питательной</t></tg></mg></e>
 <e><lg><l pos="A">питьевой</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>годный для питья</i>) симемань</t></tg></mg></e>
-<e><lg><l pos="A">пишущий</l></lg><mg><tg xml:lang="myv"><t pos="A">сёрмадыця, сёрмадей;</t></tg></mg></e>
+<e><lg><l pos="A">пишущий</l></lg><mg><tg xml:lang="myv"><t pos="A">сёрмадыця, сёрмадей</t></tg></mg></e>
 <e><lg><l pos="A">пищевой</l></lg><mg><tg xml:lang="myv"><t pos="A">ярсамопелень, ярсамонь</t><xg><x>пищевая соль</x><xt>ярсамонь сал</xt></xg></tg></mg></e>
 <e><lg><l pos="A">плавкий</l></lg><mg><tg xml:lang="myv"><t pos="A">солавикс</t></tg></mg></e>
 <e><lg><l pos="A">плаксивый</l></lg><mg><tg xml:lang="myv"><t pos="A">аварькс, аварькшниця</t></tg></mg></e>
@@ -3781,7 +3781,7 @@
 <e><lg><l pos="A">подложный</l></lg><mg><tg xml:lang="myv"><t pos="A">аволь алкуксонь</t><xg><x>подложные документы</x><xt>аволь алкуксмонь конёвт</xt></xg></tg></mg></e>
 <e><lg><l pos="A">подлый</l></lg><mg><tg xml:lang="myv"><t pos="A">нулгодькс</t></tg></mg></e>
 <e><lg><l pos="A">подневольный</l></lg><mg><tg xml:lang="myv"><t pos="A">олявтомо</t></tg></mg></e>
-<e><lg><l pos="A">подобный</l></lg><mg><tg xml:lang="myv"><t pos="A">ёнов молиця, кондямо, истямо, вейкетькс;</t><xg><x>и тому подобное</x><xt>седе товгак истя</xt></xg><xg><x>ничего подобного</x><xt>истят а эрсить</xt></xg><xg><x>подобным образом</x><xt>истямо ладсо, истя</xt></xg></tg></mg></e>
+<e><lg><l pos="A">подобный</l></lg><mg><tg xml:lang="myv"><t pos="A">ёнов молиця, кондямо, истямо, вейкетькс</t><xg><x>и тому подобное</x><xt>седе товгак истя</xt></xg><xg><x>ничего подобного</x><xt>истят а эрсить</xt></xg><xg><x>подобным образом</x><xt>истямо ладсо, истя</xt></xg></tg></mg></e>
 <e><lg><l pos="A">подозрительный</l></lg><mg><tg xml:lang="myv"><t pos="A">а кемевиця, чумондомань</t></tg></mg></e>
 <e><lg><l pos="A">подотчетный</l></lg><mg><tg xml:lang="myv"><t pos="A">отчётонь максыця</t></tg></mg></e>
 <e><lg><l pos="A">подоходный</l></lg><mg><tg xml:lang="myv"><t pos="A">сатксонь, сатксонь коряс, доходга, доходонь коряс, достаткава</t><xg><x>подоходный налог</x><xt>сатксонь коряс налог</xt></xg></tg></mg></e>
@@ -3803,7 +3803,7 @@
 <e><lg><l pos="A">пожарный</l></lg><mg><tg xml:lang="myv"><t pos="A">пожарной</t></tg></mg></e>
 <e><lg><l pos="A">пожизненный</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>до смерти</i>)куломас; пингень печтямонь</t></tg></mg></e>
 <e><lg><l pos="A">пожилой</l></lg><mg><tg xml:lang="myv"><t pos="A">эрявт ломань, сыре</t></tg></mg></e>
-<e><lg><l pos="A">позапрошлый</l></lg><mg><tg xml:lang="myv"><t pos="A">манынь, улконь, улкоть;</t><xg><x>позапрошлый год</x><xt>меленде икелень ие, маныть</xt></xg></tg></mg></e>
+<e><lg><l pos="A">позапрошлый</l></lg><mg><tg xml:lang="myv"><t pos="A">манынь, улконь, улкоть</t><xg><x>позапрошлый год</x><xt>меленде икелень ие, маныть</xt></xg></tg></mg></e>
 <e><lg><l pos="A">поздний</l></lg><mg><tg xml:lang="myv"><t pos="A">поздань</t><xg><x>поздний сев</x><xt>позда видема</xt></xg></tg></mg></e>
 <e><lg><l pos="A">поздравительный</l></lg><mg><tg xml:lang="myv"><t pos="A">эрьгелемань, сюконямонь; поздравительная открытка эрьгелемань открытка</t></tg></mg></e>
 <e><lg><l pos="A">позиционный</l></lg><mg><tg xml:lang="myv"><t pos="A">позиционной</t></tg></mg></e>
@@ -3812,7 +3812,7 @@
 <e><lg><l pos="A">показательный</l></lg><mg><tg xml:lang="myv"><t pos="A">невтевикс, невтемань</t></tg></mg></e>
 <e><lg><l pos="A">показной</l></lg><mg><tg xml:lang="myv"><t pos="A">невтезь, аволь алкуксонь, прянь шнамонь, невтемань</t><xg><x>показные слёзы</x><xt>аволь алкуксмонь сельведть</xt></xg></tg></mg></e>
 <e><lg><l pos="A">покатый</l></lg><mg><tg xml:lang="myv"><t pos="A">вандора, чирь</t></tg></mg></e>
-<e><lg><l pos="A">покойный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>тихий</i>) сэтьме</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>умерший</i>) кулозесь;</t><xg><x>будь покоен</x><xt>иля мелявто</xt></xg></tg></mg></e>
+<e><lg><l pos="A">покойный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>тихий</i>) сэтьме</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>умерший</i>) кулозесь</t><xg><x>будь покоен</x><xt>иля мелявто</xt></xg></tg></mg></e>
 <e><lg><l pos="A">покорный</l></lg><mg><tg xml:lang="myv"><t pos="A">коронь кирдиця</t></tg></mg></e>
 <e><lg><l pos="A">покровительственный</l></lg><mg><tg xml:lang="myv"><t pos="A">ванстомань</t></tg></mg></e>
 <e><lg><l pos="A">покупательный</l></lg><mg><tg xml:lang="myv"><t pos="A">миицянь-рамицянь, миемань-рамамонь</t></tg></mg></e>
@@ -3834,7 +3834,7 @@
 <e><lg><l pos="A">полноправный</l></lg><mg><tg xml:lang="myv"><t pos="A">весемень правасо</t></tg></mg></e>
 <e><lg><l pos="A">полноценный</l></lg><mg><tg xml:lang="myv"><t pos="A">пешксе питнень, вадря-паро</t></tg></mg></e>
 <e><lg><l pos="A">полночный</l></lg><mg><tg xml:lang="myv"><t pos="A">пелевень</t></tg></mg></e>
-<e><lg><l pos="A">полный</l></lg><mg><tg xml:lang="myv"><t pos="A">пешксе;</t><xg><x>полным полно</x><xt>пешкседеяк пешксе, тыц пешксе</xt></xg></tg></mg></e>
+<e><lg><l pos="A">полный</l></lg><mg><tg xml:lang="myv"><t pos="A">пешксе</t><xg><x>полным полно</x><xt>пешкседеяк пешксе, тыц пешксе</xt></xg></tg></mg></e>
 <e><lg><l pos="A">половинный</l></lg><mg><tg xml:lang="myv"><t pos="A">пельксэнь, пелькс</t></tg></mg></e>
 <e><lg><l pos="A">половинчатый</l></lg><mg><tg xml:lang="myv"><t pos="A">кавтолдыця, пельстеезь, пельстеиця</t></tg></mg></e>
 <e><lg><l pos="A">пологий</l></lg><mg><tg xml:lang="myv"><t pos="A">вандора</t></tg></mg></e>
@@ -4095,7 +4095,7 @@
 <e><lg><l pos="A">пулемётный</l></lg><mg><tg xml:lang="myv"><t pos="A">пулемётонь</t></tg></mg></e>
 <e><lg><l pos="A">пунктирный</l></lg><mg><tg xml:lang="myv"><t pos="A">пунктирной</t></tg></mg></e>
 <e><lg><l pos="A">пунктуальный</l></lg><mg><tg xml:lang="myv"><t pos="A">свал шкастонзо сыця, шкастонзо</t></tg></mg></e>
-<e><lg><l pos="A">пустой</l></lg><mg><tg xml:lang="myv"><t pos="A">чаво;</t><xg><x>с пустыми руками</x><xt>чаво кедьсэ</xt></xg><xg><x>пустое место</x><xt>чаво тарка</xt></xg><xg><x>переливать из пустого в порожнее</x><xt>мекев-васов некень тейнемс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">пустой</l></lg><mg><tg xml:lang="myv"><t pos="A">чаво</t><xg><x>с пустыми руками</x><xt>чаво кедьсэ</xt></xg><xg><x>пустое место</x><xt>чаво тарка</xt></xg><xg><x>переливать из пустого в порожнее</x><xt>мекев-васов некень тейнемс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">пустынный</l></lg><mg><tg xml:lang="myv"><t pos="A">чаво таркань</t></tg></mg></e>
 <e><lg><l pos="A">пустячный</l></lg><mg><tg xml:lang="myv"><t pos="A">аразень тев, стяконь</t></tg></mg></e>
 <e><lg><l pos="A">путаный</l></lg><mg><tg xml:lang="myv"><t pos="A">човорязь, тапазь, путлязь</t></tg></mg></e>
@@ -4195,7 +4195,7 @@
 <e><lg><l pos="A">расплывчатый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">аволь парсте неявиця</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">срадозь, сравтозь</t><xg><x>расплывчатый ответ</x><xt>срадозь/сравтозь каршо вал</xt></xg></tg></mg></e>
 <e><lg><l pos="A">располагающий</l></lg><mg><tg xml:lang="myv"><t pos="A">мельс туиця</t><xg><x>располагающая внешность</x><xt>мельс туиця чачо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">расположенный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">мель марто</t><xg><x>расположенный ко мне</x><xt>монень кандови мель марто</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">аштиця</t><xg><x>близко расположенный</x><xt>маласо аштиця</xt></xg></tg></mg></e>
-<e><lg><l pos="A">распростёртый</l></lg><mg><tg xml:lang="myv"><t pos="A">венстезь, келемтезь, келей;</t><xg><x>с распростёртыми объятиями</x><xt>келей/келемтезь кутмордамосо</xt></xg></tg></mg></e>
+<e><lg><l pos="A">распростёртый</l></lg><mg><tg xml:lang="myv"><t pos="A">венстезь, келемтезь, келей</t><xg><x>с распростёртыми объятиями</x><xt>келей/келемтезь кутмордамосо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">распространённый</l></lg><mg><tg xml:lang="myv"><t pos="A">сеедьстэ вастневиця, эрьва чинь</t></tg></mg></e>
 <e><lg><l pos="A">распутный</l></lg><mg><tg xml:lang="myv"><t pos="A">кирдевтеме, усксевиця</t></tg></mg></e>
 <e><lg><l pos="A">распухший</l></lg><mg><tg xml:lang="myv"><t pos="A">таргозезь, буйкстазь, турмоскадозь</t><xg><x>распухшая рука</x><xt>таргозезь кедь</xt></xg></tg></mg></e>
@@ -4331,7 +4331,7 @@
 <e><lg><l pos="A">своевременный</l></lg><mg><tg xml:lang="myv"><t pos="A">шкастонь</t></tg></mg></e>
 <e><lg><l pos="A">своенравный</l></lg><mg><tg xml:lang="myv"><t pos="A">мелекшев, корокшов, убуцяв, эсь обуця марто</t><xg><x>своенравный человек</x><xt>корокшов ломань</xt></xg></tg></mg></e>
 <e><lg><l pos="A">своеобразный</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">ускула, аволь весень кондямо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о цвете</i>) эсь тюсонь, эсензэ понасо; (<i>о голосе</i>) моронь тешкс</t></tg></mg></e>
-<e><lg><l pos="A">свой</l></lg><mg><tg xml:lang="myv"><t pos="A"><i>местоим.</i> эсь (<i>общее понятие</i>); монсень, эсень (<i>мой</i>); тонсеть, эсеть (<i>твой</i>) сонсензэ, эсензэ (<i>его</i>)<i>;</i> минсенек, эсенек (<i>наш</i>); тынсенк, эсенк (<i>ваш</i>)<i>;</i> сынсест, эсест (<i>их</i>);</t><xg><x>по-своему</x><xt>эсь койсэ</xt></xg><xg><x>сам не свой</x><xt>тарка а муи</xt></xg></tg></mg></e>
+<e><lg><l pos="A">свой</l></lg><mg><tg xml:lang="myv"><t pos="A"><i>местоим.</i> эсь (<i>общее понятие</i>); монсень, эсень (<i>мой</i>); тонсеть, эсеть (<i>твой</i>) сонсензэ, эсензэ (<i>его</i>)<i>;</i> минсенек, эсенек (<i>наш</i>); тынсенк, эсенк (<i>ваш</i>)<i>;</i> сынсест, эсест (<i>их</i>)</t><xg><x>по-своему</x><xt>эсь койсэ</xt></xg><xg><x>сам не свой</x><xt>тарка а муи</xt></xg></tg></mg></e>
 <e><lg><l pos="A">свойственный</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>кому-чему</i>) обуцянь, коень, кандовиця</t><xg><x>свойственный человеку</x><xt>ломанентень кандовиця</xt></xg></tg></mg></e>
 <e><lg><l pos="A">связный</l></lg><mg><tg xml:lang="myv"><t pos="A">сюлмавозь, поладозь</t><xg><x>связный рассказ</x><xt>велувсо ёвтнема</xt></xg></tg></mg></e>
 <e><lg><l pos="A">святой</l></lg><mg><arab>1.</arab><field>рел.</field><tg xml:lang="myv"><t pos="A">пазонь, святой</t><xg><x>святой человек</x><xt>пазонь ломань</xt></xg><xg><x>святое дело</x><xt>пазонь тев</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>праведный</i>) пежеттеме, пазнэнь озныця-кемиця</t><xg><x>безгрешный ломань</x><xt>пежеттеме ломань</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">(<i>благородный</i>) паронь теиця, виде</t><xg><x>Святая неделя</x><xt>Инечинь тарго/недля</xt></xg><xg><x>святым духом</x><xt>пазонь оймесэ</xt></xg></tg></mg></e>
@@ -4387,7 +4387,7 @@
 <e><lg><l pos="A">силосный</l></lg><mg><tg xml:lang="myv"><t pos="A"><field>с.-х.</field> силосной</t></tg></mg></e>
 <e><lg><l pos="A">сильнодействующий</l></lg><mg><tg xml:lang="myv"><t pos="A">виевстэ аштиця</t><xg><x>сильнодействующее лекарство</x><xt>(пек) виевстэ лечиця ормаменькс/лекарства</xt></xg></tg></mg></e>
 <e><lg><l pos="A">сильный</l></lg><mg><tg xml:lang="myv"><t pos="A">виев, кеме (<i>о мороз</i>е), нардев эрикс; <b>дул сильный ветер</b> пувась виев варма; <b>сильный мороз</b> кеме якшамо; <b>сильная ругань</b> юргозь-вешкезь (<i>сёвнома</i>)</t></tg></mg></e>
-<e><lg><l pos="A">символический</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">тешксэнь;</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">символической</t><xg><x>символический жест</x><xt>символической ахолдамо</xt></xg></tg></mg></e>
+<e><lg><l pos="A">символический</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">тешксэнь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">символической</t><xg><x>символический жест</x><xt>символической ахолдамо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">симпатичный</l></lg><mg><tg xml:lang="myv"><t pos="A">мель явовикс, мельс туиця, вечкевикс, &lt;&gt; сельмес каятыця</t><xg><x>симпатичная девушка</x><xt>мельс туиця тейтерь</xt></xg><xg><x> симпатичное лицо</x><xt>вечкевикс чама, сельмес каятыця чама</xt></xg></tg></mg></e>
 <e><lg><l pos="A">симфонический</l></lg><mg><tg xml:lang="myv"><t pos="A">симфонической</t></tg></mg></e>
 <e><lg><l pos="A">синеватый</l></lg><mg><tg xml:lang="myv"><t pos="A">сэнежа, сэньшть-мери</t></tg></mg></e>
@@ -4405,7 +4405,7 @@
 <e><lg><l pos="A">скаковой</l></lg><mg><tg xml:lang="myv"><t pos="A">ардомань, ардыця</t><xg><x>скаковая лошадь</x><xt>ардыця алаша</xt></xg></tg></mg></e>
 <e><lg><l pos="A">скалистый</l></lg><mg><tg xml:lang="myv"><t pos="A">кевев</t><xg><x>скалистый берег</x><xt>кевев лей чире</xt></xg></tg></mg></e>
 <e><lg><l pos="A">скандальный</l></lg><mg><tg xml:lang="myv"><t pos="A">сёвныця, аксун</t><xg><x>скандальный человек</x><xt>сёвныця ломань</xt></xg></tg></mg></e>
-<e><lg><l pos="A">скверный</l></lg><mg><tg xml:lang="myv"><t pos="A">нулготькс;</t><xg><x>скверный человек</x><xt>нулготькс ломань</xt></xg></tg></mg></e>
+<e><lg><l pos="A">скверный</l></lg><mg><tg xml:lang="myv"><t pos="A">нулготькс</t><xg><x>скверный человек</x><xt>нулготькс ломань</xt></xg></tg></mg></e>
 <e><lg><l pos="A">сквозной</l></lg><mg><tg xml:lang="myv"><t pos="A">пачк молиця</t></tg></mg></e>
 <e><lg><l pos="A">скептический</l></lg><mg><tg xml:lang="myv"><t pos="A">а кемемань</t></tg></mg></e>
 <e><lg><l pos="A">складной</l></lg><mg><tg xml:lang="myv"><t pos="A">пурнавиця</t><xg><x>складной ножик</x><xt>пурнавиця/пекставиця пеель</xt></xg></tg></mg></e>
@@ -4418,7 +4418,7 @@
 <e><lg><l pos="A">скорбный</l></lg><mg><tg xml:lang="myv"><t pos="A">ризнэзь, ризнэмань</t></tg></mg></e>
 <e><lg><l pos="A">скоропостижный</l></lg><mg><tg xml:lang="myv"><t pos="A">курок/апак учо сыця; <b>скоропостижная смерть</b> апак учо кулома; <gen>ср.</gen> <b>внезапный, неожиданный</b></t></tg></mg></e>
 <e><lg><l pos="A">скороспелый</l></lg><mg><tg xml:lang="myv"><t pos="A">курок/бойкасто кенериця</t></tg></mg></e>
-<e><lg><l pos="A">скорый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">бойка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о поезде</i>) бойкасто ардыця, куроксто пачкодиця;</t><xg><x>на скорую руку</x><xt>капшазь теезь/теевть</xt></xg></tg></mg></e>
+<e><lg><l pos="A">скорый</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">бойка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>о поезде</i>) бойкасто ардыця, куроксто пачкодиця</t><xg><x>на скорую руку</x><xt>капшазь теезь/теевть</xt></xg></tg></mg></e>
 <e><lg><l pos="A">скотный</l></lg><mg><tg xml:lang="myv"><t pos="A">ракшань, кильдемань</t><xg><x>скотный двор</x><xt>кильдемань  кардо</xt></xg></tg></mg></e>
 <e><lg><l pos="A">скрипучий</l></lg><mg><tg xml:lang="myv"><t pos="A">чикордыця, цятордыця, лакордыця, корсяня (<i>о голосе</i>)</t><xg><x>скрипучая дверь</x><xt>лакордыця кенкш</xt></xg></tg></mg></e>
 <e><lg><l pos="A">скрипичный</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="A">скрипичной</t><xg><x>скрипичный ключ</x><xt>скрипичной ключ</xt></xg></tg></mg></e>
@@ -4443,7 +4443,7 @@
 <e><lg><l pos="A">следуемый</l></lg><mg><tg xml:lang="myv"><t pos="A"><i>офиц.</i> эрявикс, кодат эрявить, эрявомань</t></tg></mg></e>
 <e><lg><l pos="A">следующий</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>ближайший</i>) мельга молиця</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>последующий, приближающийся</i>) сы, сыця</t><xg><x>на следующий день</x><xt>омбоце чистэ, сы/сыця чистэ, ванды</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="A">истямо</t></tg></mg></e>
 <e><lg><l pos="A">слезливый</l></lg><mg><tg xml:lang="myv"><t pos="A">сельведев, авардиця, авардема, авардевтиця</t></tg></mg></e>
-<e><lg><l pos="A">слёзный</l></lg><mg><field>анат.</field><tg xml:lang="myv"><t pos="A">сельведень, сельведев; <b>слёзные желёзы</b> сельведень сэрят;<b> слёзный мешок</b> сельведень кескав; <sense>перен.</sense> авардевтиця, авардстиця;</t></tg></mg></e>
+<e><lg><l pos="A">слёзный</l></lg><mg><field>анат.</field><tg xml:lang="myv"><t pos="A">сельведень, сельведев; <b>слёзные желёзы</b> сельведень сэрят;<b> слёзный мешок</b> сельведень кескав; <sense>перен.</sense> авардевтиця, авардстиця</t></tg></mg></e>
 <e><lg><l pos="A">слезоточивый</l></lg><mg><tg xml:lang="myv"><t pos="A">сельведень правтыця/нолдыця, авардиця</t><xg><x>слезоточивый газ</x><xt>сельмень пориця сув</xt></xg></tg></mg></e>
 <e><lg><l pos="A">слепой</l></lg><mg><tg xml:lang="myv"><t pos="A"><i>прям. перен.</i> 1. сокор, а неиця</t><xg><x>слепой старик</x><xt>сокор атя</xt></xg><xg><x>он был слепой</x><xt>сон ульнесь сокор</xt></xg><xg><x>слепой полет</x><xt>сокорсто ливтямо</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">а неявиця, а неявикс, башка</t><xg><x>слепой шрифт</x><xt>а неявиця сёрмадовкс</xt></xg></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="A">апак арсе</t><xg><x>слепая любовь</x><xt>апак арсе вечкема;</xt></xg><xg><x>слепая кишка</x><xt>сокор сюло</xt></xg></tg></mg></e>
 <e><lg><l pos="A">слесарный</l></lg><mg><tg xml:lang="myv"><t pos="A">слесарень, слесарной</t></tg></mg></e>
@@ -4740,7 +4740,7 @@
 <e><lg><l pos="A">тождественный</l></lg><mg><tg xml:lang="myv"><t pos="A">вейкеть; <gen>ср.</gen> <b>одинаковый</b></t></tg></mg></e>
 <e><lg><l pos="A">токарный</l></lg><mg><tg xml:lang="myv"><t pos="A">тоцямонь, токарной</t></tg></mg></e>
 <e><lg><l pos="A">токсичный</l></lg><mg><tg xml:lang="myv"><t pos="A">токсичной</t></tg></mg></e>
-<e><lg><l pos="A">толковый</l></lg><mg><tg xml:lang="myv"><t pos="A">толковой, толк марто, чарькодиця;</t><xg><x>толковый словарь</x><xt>толковамонь валкс</xt></xg></tg></mg></e>
+<e><lg><l pos="A">толковый</l></lg><mg><tg xml:lang="myv"><t pos="A">толковой, толк марто, чарькодиця</t><xg><x>толковый словарь</x><xt>толковамонь валкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">толоконный</l></lg><mg><tg xml:lang="myv"><t pos="A">пуштонь</t></tg></mg></e>
 <e><lg><l pos="A">толстопузый</l></lg><mg><tg xml:lang="myv"><t pos="A">(<i>о человеке</i>) кендепеке</t></tg></mg></e>
 <e><lg><l pos="A">толстый</l></lg><mg><tg xml:lang="myv"><t pos="A">эчке</t><xg><x>толстое стекло</x><xt>эчке сулика</xt></xg><xg><x>толстый человек</x><xt>эчке ломань</xt></xg></tg></mg></e>
@@ -4811,7 +4811,7 @@
 <e><lg><l pos="A">тринадцатый</l></lg><mg><tg xml:lang="myv"><t pos="A"><i>числ.</i> кемголмовоце</t></tg></mg></e>
 <e><lg><l pos="A">триумфальный</l></lg><mg><tg xml:lang="myv"><t pos="A">триумфальной</t></tg></mg></e>
 <e><lg><l pos="A">трогательный</l></lg><mg><tg xml:lang="myv"><t pos="A">седейс токиця</t></tg></mg></e>
-<e><lg><l pos="A">тройной</l></lg><mg><tg xml:lang="myv"><t pos="A">колмонзазь, колмоксонь; колмонькирда;</t><xg><x>тройной одеколон</x><xt>тройной одеколон</xt></xg></tg></mg></e>
+<e><lg><l pos="A">тройной</l></lg><mg><tg xml:lang="myv"><t pos="A">колмонзазь, колмоксонь; колмонькирда</t><xg><x>тройной одеколон</x><xt>тройной одеколон</xt></xg></tg></mg></e>
 <e><lg><l pos="A">тронный</l></lg><mg><tg xml:lang="myv"><t pos="A">прявтэземень, трононь</t></tg></mg></e>
 <e><lg><l pos="A">тропический</l></lg><mg><field>геогр.</field><tg xml:lang="myv"><t pos="A">тропической</t><xg><x>тропический пояс</x><xt>тропической пояс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">троякий</l></lg><mg><tg xml:lang="myv"><t pos="A">колмо ёндонь, колмо пельде</t><xg><x>троякий способ решения задачи</x><xt>задачанть колмо ёндонь решамозо</xt></xg></tg></mg></e>
@@ -4824,7 +4824,7 @@
 <e><lg><l pos="A">трудоспособный</l></lg><mg><tg xml:lang="myv"><t pos="A">важодема ёроков, тевс маштовиця</t></tg></mg></e>
 <e><lg><l pos="A">трусливый</l></lg><mg><tg xml:lang="myv"><t pos="A">пелиця</t><xg><x>трусливый человек</x><xt>пелиця ломань / левшпонкс</xt></xg></tg></mg></e>
 <e><lg><l pos="A">туберкулёзный</l></lg><mg><tg xml:lang="myv"><t pos="A">чахоткасо сэредиця, резыця</t></tg></mg></e>
-<e><lg><l pos="A">тугой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>тесный</i>) теине</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>негибкий</i>) а мендявиця, кеме;</t><xg><x>тугой на ухо</x><xt>пилес камажа, амариця</xt></xg></tg></mg></e>
+<e><lg><l pos="A">тугой</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="A">(<i>тесный</i>) теине</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="A">(<i>негибкий</i>) а мендявиця, кеме</t><xg><x>тугой на ухо</x><xt>пилес камажа, амариця</xt></xg></tg></mg></e>
 <e><lg><l pos="A">туземный</l></lg><mg><tg xml:lang="myv"><t pos="A">туземной, эсь масторонь</t></tg></mg></e>
 <e><lg><l pos="A">туманный</l></lg><mg><tg xml:lang="myv"><t pos="A">сувов</t></tg></mg></e>
 <e><lg><l pos="A">тупоголовый</l></lg><mg><tg xml:lang="myv"><t pos="A">здыньпря</t></tg></mg></e>
@@ -5235,7 +5235,7 @@
 <e><lg><l pos="A">эффектный</l></lg><mg><tg xml:lang="myv"><t pos="A">эффектной</t></tg></mg></e>
 <e><lg><l pos="A">юбилейный</l></lg><mg><tg xml:lang="myv"><t pos="A">юбилейной</t></tg></mg></e>
 <e><lg><l pos="A">ювелирный ювелирной</l></lg><mg><tg xml:lang="myv"><t pos="A"></t></tg></mg></e>
-<e><lg><l pos="A">юговосточный</l></lg><mg><tg xml:lang="myv"><t pos="A">обедёнкс марто чилисема ёнксонь юго-восточной;</t></tg></mg></e>
+<e><lg><l pos="A">юговосточный</l></lg><mg><tg xml:lang="myv"><t pos="A">обедёнкс марто чилисема ёнксонь юго-восточной</t></tg></mg></e>
 <e><lg><l pos="A">югозападный</l></lg><mg><tg xml:lang="myv"><t pos="A">обедёнкс марто чивалгома ёнксонь; юго-западной</t></tg></mg></e>
 <e><lg><l pos="A">южный</l></lg><mg><tg xml:lang="myv"><t pos="A">лембеёнксонь, обедёнксонь, обедпель</t></tg></mg></e>
 <e><lg><l pos="A">юмористический</l></lg><mg><tg xml:lang="myv"><t pos="A">пейдемань</t></tg></mg></e>

@@ -573,7 +573,7 @@
 <e><lg><l pos="Adv">навзничь</l></lg><mg><tg xml:lang="myv"><t pos="Adv">кунст</t><xg><x>упасть навзничь</x><xt>кунст прамс</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">навзрыд</l></lg><mg><tg xml:lang="myv"><t pos="Adv">(<i>плакать</i>) ниреждезь</t><xg><x>плакать навзрыд</x><xt>авардемс ниреждезь</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">навсегда</l></lg><mg><tg xml:lang="myv"><t pos="Adv">овсе</t></tg></mg></e>
-<e><lg><l pos="Adv">навстречу</l></lg><mg><tg xml:lang="myv"><t pos="Adv">каршо, карадо-каршо (<i>со всеми суффиксами сказуемости</i>);</t><xg><x>идти навстречу (оказывать содействие)</x><xt>лездамс</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">навстречу</l></lg><mg><tg xml:lang="myv"><t pos="Adv">каршо, карадо-каршо (<i>со всеми суффиксами сказуемости</i>)</t><xg><x>идти навстречу (оказывать содействие)</x><xt>лездамс</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">навыворот</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мекевлангт</t></tg></mg></e>
 <e><lg><l pos="Adv">навылет</l></lg><mg><tg xml:lang="myv"><t pos="Adv">пачк ледезь</t><xg><x>ранен навылет</x><xt>пачк ранязь</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">навыпуск</l></lg><mg><tg xml:lang="myv"><t pos="Adv">ланга, ланга нолдамс, ланга кантнемс</t></tg></mg></e>
@@ -681,7 +681,7 @@
 <e><lg><l pos="Adv">невдалеке</l></lg><mg><tg xml:lang="myv"><t pos="Adv">аволь васоло</t></tg></mg></e>
 <e><lg><l pos="Adv">невежливо</l></lg><mg><tg xml:lang="myv"><t pos="Adv">аволь вежливойстэ</t></tg></mg></e>
 <e><lg><l pos="Adv">неверно</l></lg><mg><tg xml:lang="myv"><t pos="Adv">авиде, авидестэ</t></tg></mg></e>
-<e><lg><l pos="Adv">невероятно</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="Adv">акемевиксстэ, акемевикс;</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="Adv">пек, вельть</t><xg><x>невероятно грубый</x><xt>пек/вельть казямо;</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">невероятно</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="Adv">акемевиксстэ, акемевикс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="Adv">пек, вельть</t><xg><x>невероятно грубый</x><xt>пек/вельть казямо;</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">невзначай</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="Adv">апак сода, апак фатя, апак учо; <gen>ср.</gen> <i><b>случайно, неожиданно</b></i></t></tg></mg></e>
 <e><lg><l pos="Adv">невмоготу</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="Adv">илыкень маштома</t><xg><x>мне невмоготу</x><xt>илыкем маштсь</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">невнимательно</l></lg><mg><tg xml:lang="myv"><t pos="Adv">мельтеме, мелень апак путо</t><xg><x>слушать невнимательно</x><xt>кунсоломс мельтеме</xt></xg></tg></mg></e>
@@ -944,7 +944,7 @@
 <e><lg><l pos="Adv">против</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="Adv">(<i>напротив, навстречу</i>) каршо</t><xg><x>плыть против течения</x><xt>уемс чудеманть каршо</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="Adv">(<i>перед</i>) икеле</t><xg><x>против дома растёт дерево</x><xt>кудонть икеле касы чувто</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="Adv">(<i>при сопоставлении</i>) коряс</t><xg><x>рост продукции против прошлого года</x><xt>ютазь иенть коряс нолдавксонть касомазо</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">противно</l></lg><mg><tg xml:lang="myv"><t pos="Adv">нулгодезь</t><xg><x>противно мне смотреть</x><xt>нулгодян ваномс</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">прочно</l></lg><mg><tg xml:lang="myv"><t pos="Adv">кеместэ, нардевстэ</t></tg></mg></e>
-<e><lg><l pos="Adv">прочь</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="Adv">ва</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="Adv">каршо;</t><xg><x>мы не прочь</x><xt>минь аволь каршо</xt></xg><xg><x>прочь отсюда!</x><xt>ва тестэ!</xt></xg></tg></mg></e>
+<e><lg><l pos="Adv">прочь</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="Adv">ва</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="Adv">каршо</t><xg><x>мы не прочь</x><xt>минь аволь каршо</xt></xg><xg><x>прочь отсюда!</x><xt>ва тестэ!</xt></xg></tg></mg></e>
 <e><lg><l pos="Adv">прямо</l></lg><mg><tg xml:lang="myv"><t pos="Adv">витьстэ</t></tg></mg></e>
 <e><lg><l pos="Adv">публично</l></lg><mg><tg xml:lang="myv"><t pos="Adv">публична, ломань пингстэ, лома икеле</t></tg></mg></e>
 <e><lg><l pos="Adv">пугливо</l></lg><mg><tg xml:lang="myv"><t pos="Adv">тандадозь, пелезь, тандалезь</t></tg></mg></e>

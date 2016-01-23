@@ -77,7 +77,7 @@
 <e><lg><l pos="N" gen="Msc">адресант</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмань кучиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">адресат</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмань саиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">адыгеец</l></lg><mg><tg xml:lang="myv"><t pos="N">адыгеец</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">азарт</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">рожодома, мелень кепедема, азарт;</t><xg><x>входить в азарт</x><xt>рожодомомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">азарт</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">рожодома, мелень кепедема, азарт</t><xg><x>входить в азарт</x><xt>рожодомомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">азбука</l></lg><mg><tg xml:lang="myv"><t pos="N">азбука</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">азербайджанец</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>азербайджанцы</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t pos="N">азербайджанец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">азиат</l></lg><mg><tg xml:lang="myv"><t pos="N">Азиянь пеле эриця</t></tg></mg></e>
@@ -315,8 +315,8 @@
 <e><lg><l pos="N" gen="Fem">баба</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>старуха, женщина</i>) сыре баба, бабине, аваломань</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>жена</i>) ни, пола, васта</t><xg><x>снежная баба</x><xt>ловатя</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">баба-яга</l></lg><mg><field>фольк.</field><tg xml:lang="myv"><t pos="N">яга-баба, сырьжа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бабёнка</l></lg><mg><posType>прост.</posType><tg xml:lang="myv"><t pos="N">авине</t></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Fem">бабка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>бабушка</i>) бабине; (<i>обращение</i>) сырькай, бабай; (<i>старушка</i>) сыре бабине, сыре ава;</t><xg><x>повивальная бабка</x><xt>бабушка</xt></xg></tg></mg></e>
-<e><lg><l hid="Hom2" pos="N" gen="Fem">бабка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>надкопытный сустав</i>) козна</t></tg></mg><mg><arab>2.</arab><range>диал.</range><tg xml:lang="myv"><t pos="N">пелюмань чавома бабка</t></tg></mg><mg><arab>3.</arab><field>тех.</field><tg xml:lang="myv"><t pos="N">(<i>стойка</i>) бабка;</t><xg><x>играть в бабки</x><xt>кознасо налксемс</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Fem">бабка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>бабушка</i>) бабине; (<i>обращение</i>) сырькай, бабай; (<i>старушка</i>) сыре бабине, сыре ава</t><xg><x>повивальная бабка</x><xt>бабушка</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom2" pos="N" gen="Fem">бабка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>надкопытный сустав</i>) козна</t></tg></mg><mg><arab>2.</arab><range>диал.</range><tg xml:lang="myv"><t pos="N">пелюмань чавома бабка</t></tg></mg><mg><arab>3.</arab><field>тех.</field><tg xml:lang="myv"><t pos="N">(<i>стойка</i>) бабка</t><xg><x>играть в бабки</x><xt>кознасо налксемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">бабник</l></lg><mg><tg xml:lang="myv"><t pos="N">ававечкиця, ава мельга правтыця, бабаутирька</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бабочка</l></lg><mg><arab>1.</arab><field>зоол.</field><tg xml:lang="myv"><t pos="N">нимиляв</t><xg><x>ночная бабочка</x><xt>вень нимиляв</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>галстук</i>) бабочка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бабушка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">сыре ава, покш ава</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>бабушка по отцу</i>) сырька, баба, маласо баба; (<i>бабушка по матери</i>) вечкабаба, васолбаба, мазыбаба</t><xg><x>бабушка с внуком, внуками</x><xt>бабат-нуцькат, бабат-цёрат</xt></xg></tg></mg></e>
@@ -474,7 +474,7 @@
 <e><lg><l pos="N" gen="Fem">баталия</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="N">1. покш тюрема</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">сёвномкат-тюремат, пелькстамот-сёвномат</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">батальон</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="N">батальон</t><xg><x>стрелковый батальон</x><xt>леднемань батальон</xt></xg><xg><x>батальон связи</x><xt>связень батальон</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">батан</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>набилка в ткацком стане</i>) вигинештёкат</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">батарея</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">батарея;</t><xg><x>батарея бутылок</x><xt>куця бутолкат</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">батарея</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">батарея</t><xg><x>батарея бутылок</x><xt>куця бутолкат</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">батист</l></lg><mg><field>текст.</field><tg xml:lang="myv"><t pos="N">батист</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">батисфера</l></lg><mg><tg xml:lang="myv"><t pos="N">ведь алга якамонь сфера, батисфера</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">батон</l></lg><mg><tg xml:lang="myv"><t pos="N">ашо кши/булка</t></tg></mg></e>
@@ -577,7 +577,7 @@
 <e><lg><l pos="N" gen="Neu">безразличие</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">мелень аявома, мелень апутома, мельтемечи, мелень аявома, мелявкстомочи</t><xg><x>проявить безразличие</x><xt>мель а явомс/путомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">безрассудство</l></lg><mg><tg xml:lang="myv"><t pos="N">превтемечи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">безрукавка</l></lg><mg><tg xml:lang="myv"><t pos="N">ожавтомо панар/пальтыне</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">безрыбье</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">калтомочи;</t><xg><x>на безрыбье и рак рыба</x><xt>арасьчисэ салмуксоськак парочи</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">безрыбье</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">калтомочи</t><xg><x>на безрыбье и рак рыба</x><xt>арасьчисэ салмуксоськак парочи</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">безукоризненность</l></lg><mg><tg xml:lang="myv"><t pos="N">асатыкстэмечи, ильведевкстэмечи, ваньксстэ теема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">безумец</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>сумасшедший</i>) превтеме, превстэ лисезь, азаргадозь, пеляза</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">безумие</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">превстэ лисема, превтемечи, азаргадома, азарсьчи, пелязкадома</t></tg></mg></e>
@@ -590,7 +590,7 @@
 <e><lg><l pos="N" gen="Msc">бекас</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">чейбаран/чейбука, менельсея</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">бекон</l></lg><mg><tg xml:lang="myv"><t pos="N">карязсывель, салтонь/качадовтозь сывель, бекон</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">белёк</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">тюленьлевкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">белена</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">ормаза тикше, азарсь тикше, идем капста, верьгизэнь баляга, дурмантикше, кискань баяга, кискань мак;</t><xg><x>ты что, белены объелся?</x><xt>тон мезе, пелязкадыть?</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">белена</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">ормаза тикше, азарсь тикше, идем капста, верьгизэнь баляга, дурмантикше, кискань баяга, кискань мак</t><xg><x>ты что, белены объелся?</x><xt>тон мезе, пелязкадыть?</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">беление</l></lg><mg><tg xml:lang="myv"><t pos="N">ашолгавтома, петема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">белиберда</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">тамаша, стяконь/теварасень тев, стяконь валт</t><xg><x>нести белиберду</x><xt>ки соды мезть кортамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">белизна</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">ашочи, ашолкс</t><xg><x>белизна снега режет глаза</x><xt>ловонть ашочизэ сельметь кери</xt></xg></tg></mg></e>
@@ -609,7 +609,7 @@
 <e><lg><l pos="N" gen="Msc">бельведер</l></lg><mg><tg xml:lang="myv"><t pos="N">бельведер</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">бельгиец</l></lg><mg><tg xml:lang="myv"><t pos="N">бельгиянь цёра/ломань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">бельё</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">алгапанарт, алгапонкст, (<i>нательное</i>) понкст-панарт, потмопанар</t><xg><x>грязное бельё</x><xt>рудазов понкст-панарт</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>постельное</i>) ацамот, ацавкст</t><xg><x>постельное бельё</x><xt>ацамот, ацавкст</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>стирка</i>) муськемат</t><xg><x>вешать бельё</x><xt>муськемат понгавтнемс/ламбавтнемс</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">бельмо</l></lg><mg><tg xml:lang="myv"><t pos="N">абельсельме;</t><xg><x>как бельмо на глазу</x><xt>теке сардо сельмесэ</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">бельмо</l></lg><mg><tg xml:lang="myv"><t pos="N">абельсельме</t><xg><x>как бельмо на глазу</x><xt>теке сардо сельмесэ</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">бельэтаж</l></lg><mg><tg xml:lang="myv"><t pos="N">васенце этаж, бельэтаж</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">беляк</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">теленумоло</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">бемоль</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">бемоль</t></tg></mg></e>
@@ -650,7 +650,7 @@
 <e><lg><l pos="N" gen="Fem">бесконечность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">певтемечи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бескорыстность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">панжозь седей, стякочи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">бескультурье</l></lg><mg><tg xml:lang="myv"><t pos="N">коень-ладонь асодамо, коень-ладонь/коень-кирдань коламо, аволь коень коряс прянь ветямо, амазыйстэ прянь ветямо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">беспамятство</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">ёжовтомочи, ёжонь ёмавтома, аволь эсь ёжосо улема;</t><xg><x>впасть в беспамятство</x><xt>ёжовтомо прамс, ёжо ёмавтомс</xt></xg><xg><x>быть в беспамятстве</x><xt>ёжовтомо аштемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">беспамятство</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">ёжовтомочи, ёжонь ёмавтома, аволь эсь ёжосо улема</t><xg><x>впасть в беспамятство</x><xt>ёжовтомо прамс, ёжо ёмавтомс</xt></xg><xg><x>быть в беспамятстве</x><xt>ёжовтомо аштемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">беспечность</l></lg><mg><tg xml:lang="myv"><t pos="N">мелявкстомочи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бесплановость</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лувтомочи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">бесплодие</l></lg><mg><tg xml:lang="myv"><t pos="N">ведьнархоть, ачачтомачи, араштамочи</t></tg></mg></e>
@@ -819,7 +819,7 @@
 <e><lg><l pos="N" gen="Msc">блюститель</l></lg><mg><tg xml:lang="myv"><t pos="N">коень ванстыця/кирдиця, коень-кирдань коряс эриця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бляха</l></lg><mg><tg xml:lang="myv"><t pos="N">бляха</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">боа</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">инегуй</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">толгань шарф</t></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Msc">боб</l></lg><mg><tg xml:lang="myv"><t pos="N">боба;</t><xg><x>остаться на бобах</x><xt>чавонь кедть кадовомс</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Msc">боб</l></lg><mg><tg xml:lang="myv"><t pos="N">боба</t><xg><x>остаться на бобах</x><xt>чавонь кедть кадовомс</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">боб</l></lg><mg><tg xml:lang="myv"><t pos="N">боб (салазкеть)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">бобёр</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">миявонь кедь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">мияв</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">бобина</l></lg><mg><tg xml:lang="myv"><t pos="N">штере, почко, чеке</t></tg></mg></e>
@@ -1352,7 +1352,7 @@
 <e><lg><l pos="N" gen="Msc">взмах</l></lg><mg><tg xml:lang="myv"><t pos="N">аволдавкс, юхадевкс, аволкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">взморье</l></lg><mg><tg xml:lang="myv"><t pos="N">моря чире, иневедь чире</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">взнос</l></lg><mg><tg xml:lang="myv"><t pos="N">пандовкс, взнос</t><xg><x>вступительный взнос</x><xt>васенце пандовкс</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">взор</l></lg><mg><tg xml:lang="myv"><t pos="N">варштавкс; вановкс;</t><xg><x>потупить взор</x><xt>сельметнень модас нолдамс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">взор</l></lg><mg><tg xml:lang="myv"><t pos="N">варштавкс; вановкс</t><xg><x>потупить взор</x><xt>сельметнень модас нолдамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">взрыв</l></lg><mg><tg xml:lang="myv"><t pos="N">сезевема, пукштятевкс</t><xg><x>послышался взрыв снарядов</x><xt>марявсь снарядонь сезевема;</xt></xg><xg><x>взрывы смеха</x><xt>пейдемат</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">взыскание</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">саема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>наказание</i>) штрафовамо; наказамо</t><xg><x>наложить взыскание</x><xt>наказамс, штрафовамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">взятие</l></lg><mg><tg xml:lang="myv"><t pos="N">саема</t><xg><x>при взятии крепости</x><xt>крепостенть саемстэ</xt></xg></tg></mg></e>
@@ -1428,7 +1428,7 @@
 <e><lg><l pos="N" gen="Neu">внушение</l></lg><mg><tg xml:lang="myv"><t pos="N">мельс совавтома, внушения</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">вобла</l></lg><mg><tg xml:lang="myv"><t pos="N">вобла</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">вовлечение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">таргамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">вода</l></lg><mg><tg xml:lang="myv"><t pos="N">ведь; <b>питьевая вода</b> симема ведь; <b>проточная вода</b> чудиця ведь; <b>стоячая вода</b> а чудиця ведь; <b>холодная вода</b> кельме ведь; <b>тёплая вода</b> лембе ведь; <b>кипячёная вода</b> лаки ведь; <b>много воды утекло</b> ламо ведь чудесь; <b>вывести на чистую воду</b> <range>разг.</range> ливтемс лангс;</t><xg><x>выйти сухим из воды</x><xt>ведьстэ лисемс коськстэ;</xt></xg><xg><x>в мутной воде рыбу ловить</x><xt>бутрав ведьстэ калт кундсемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">вода</l></lg><mg><tg xml:lang="myv"><t pos="N">ведь; <b>питьевая вода</b> симема ведь; <b>проточная вода</b> чудиця ведь; <b>стоячая вода</b> а чудиця ведь; <b>холодная вода</b> кельме ведь; <b>тёплая вода</b> лембе ведь; <b>кипячёная вода</b> лаки ведь; <b>много воды утекло</b> ламо ведь чудесь; <b>вывести на чистую воду</b> <range>разг.</range> ливтемс лангс</t><xg><x>выйти сухим из воды</x><xt>ведьстэ лисемс коськстэ;</xt></xg><xg><x>в мутной воде рыбу ловить</x><xt>бутрав ведьстэ калт кундсемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">водевиль</l></lg><mg><tg xml:lang="myv"><t pos="N">водевиль</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">водитель</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>трамвая, автомобиля</i>) ветиця</t><xg><x>работать водителем автобуса</x><xt>важодемс автобусонь ветицякс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">водка</l></lg><mg><tg xml:lang="myv"><t pos="N">вина, ченгай</t></tg></mg></e>
@@ -1494,7 +1494,7 @@
 <e><lg><l pos="N" gen="Fem">война</l></lg><mg><tg xml:lang="myv"><t pos="N">тортинге, тюрема, кирвитол, война; <b>гражданская война</b> гражданской война; <b>Отечественная война</b> Отечественной война; <b>вести войну</b> <i>с кем, против кого</i> тюремс <i>кинь марто, кинь каршо</i></t><xg><x>война за свободу и независимость</x><xt>оляксчинь ды зависимостьсэ а улемань кис тортинге</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">войско</l></lg><mg><tg xml:lang="myv"><t pos="N">ушмо</t><xg><x>командовать войсками</x><xt>командовамс ушмотнесэ</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">вокзал</l></lg><mg><tg xml:lang="myv"><t pos="N">вокзал</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">вол</l></lg><mg><tg xml:lang="myv"><t pos="N">бука, пичкавтозь бука;</t><xg><x>работать как вол</x><xt>важодемс прок бука / букакс важодемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">вол</l></lg><mg><tg xml:lang="myv"><t pos="N">бука, пичкавтозь бука</t><xg><x>работать как вол</x><xt>важодемс прок бука / букакс важодемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">волан</l></lg><mg><tg xml:lang="myv"><t pos="N">волан, брижа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">Волга</l></lg><mg><tg xml:lang="myv"><t pos="N">Рав</t><xg><x>на Волге</x><xt>Равлангсо</xt></xg><xg><x>за Волгой</x><xt>Равонь томбале</xt></xg><xg><x>по Волге</x><xt>Равланга, Равонь кувалт</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">волдырь</l></lg><mg><tg xml:lang="myv"><t pos="N">путкотевкс</t></tg></mg></e>
@@ -1642,7 +1642,7 @@
 <e><lg><l pos="N" gen="Fem">выкройка</l></lg><mg><tg xml:lang="myv"><t pos="N">выкройка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">выкуп</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N"><i>мн. нет</i> (<i>действие</i>) идема</t><xg><x>выкуп вещей из ломбарда</x><xt>ломбардсто вещань идема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>плата</i>) питне</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">вылазка</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">лисема</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">вылет</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ливтямо туема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>на вылет</i>) пачк;</t><xg><x>ранен на вылет</x><xt>пачк ранязь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">вылет</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ливтямо туема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>на вылет</i>) пачк</t><xg><x>ранен на вылет</x><xt>пачк ранязь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">вылущивание</l></lg><mg><tg xml:lang="myv"><t pos="N">мендерямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">вымпел</l></lg><mg><tg xml:lang="myv"><t pos="N">вымпел</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">вымысел</l></lg><mg><tg xml:lang="myv"><t pos="N">арсевкс, ауликс</t></tg></mg></e>
@@ -1848,7 +1848,7 @@
 <e><lg><l pos="N" gen="Fem">гистология</l></lg><mg><tg xml:lang="myv"><t pos="N">гистология</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">гитара</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">гитара</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">гитлеризм</l></lg><mg><tg xml:lang="myv"><t pos="N">гитлеризма</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">глава</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>главное лицо</i>) прявт, азор</t><xg><x>глава рода</x><xt>каназоро</xt></xg><xg><x>глава дома</x><xt>кудонь прявт</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>раздел книги</i>) пелькс;</t><xg><x>стоять во главе</x><xt>аштемс прявтокс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">глава</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>главное лицо</i>) прявт, азор</t><xg><x>глава рода</x><xt>каназоро</xt></xg><xg><x>глава дома</x><xt>кудонь прявт</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>раздел книги</i>) пелькс</t><xg><x>стоять во главе</x><xt>аштемс прявтокс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">главарь</l></lg><mg><tg xml:lang="myv"><t pos="N">ветиця, прявт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">главнокомандующий</l></lg><mg><tg xml:lang="myv"><t pos="N">главнокомандующей</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">глагол</l></lg><mg><field>лингв.</field><tg xml:lang="myv"><t pos="N">глагол, тевлем</t></tg></mg></e>
@@ -1969,7 +1969,7 @@
 <e><lg><l pos="N" gen="Fem">горка</l></lg><mg><tg xml:lang="myv"><t pos="N">пандыне</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">горлинка</l></lg><mg><tg xml:lang="myv"><t pos="N">вирьгулькине</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">горлица</l></lg><mg><tg xml:lang="myv"><t pos="N">вирьгулька</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">горло</l></lg><mg><tg xml:lang="myv"><t pos="N">кирьгапарь, кирьгаваря;</t><xg><x>сыт по горло</x><xt>кирьгава пешксе</xt></xg><xg><x>стать поперёк горла</x><xt>кирьгапарень трокс арамс</xt></xg><xg><x>дыхательное горло</x><xt>лексема кирьгапарь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">горло</l></lg><mg><tg xml:lang="myv"><t pos="N">кирьгапарь, кирьгаваря</t><xg><x>сыт по горло</x><xt>кирьгава пешксе</xt></xg><xg><x>стать поперёк горла</x><xt>кирьгапарень трокс арамс</xt></xg><xg><x>дыхательное горло</x><xt>лексема кирьгапарь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">горлопан</l></lg><mg><tg xml:lang="myv"><t pos="N">ламо кортыця, рангиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">горлышко</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>уменьш. к горло</i>) кирьгапарне</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>бутылки и т. п.</i>)  курго</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">горн</l></lg><mg><tg xml:lang="myv"><t pos="N">горна</t></tg></mg></e>
@@ -2020,7 +2020,7 @@
 <e><lg><l pos="N" gen="Msc">гравилат</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">тантей ундокс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">гравировка</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">гравировка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">гравюра</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>иск.</i> гравюра</t></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Msc">град</l></lg><mg><tg xml:lang="myv"><t pos="N">цярахман;</t><xg><x>с него пот льётся градом</x><xt>лангстонзо ливезесь польдерьсэ чуди</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Msc">град</l></lg><mg><tg xml:lang="myv"><t pos="N">цярахман</t><xg><x>с него пот льётся градом</x><xt>лангстонзо ливезесь польдерьсэ чуди</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">град</l></lg><mg><range>уст.</range><tg xml:lang="myv"><t pos="N">(<i>город</i>) ош</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">градоначальник</l></lg><mg><tg xml:lang="myv"><t pos="N">ошонь прявт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">градостроение</l></lg><mg><tg xml:lang="myv"><t pos="N">ошонь теема</t></tg></mg></e>
@@ -2043,7 +2043,7 @@
 <e><lg><l pos="N" gen="Msc">графит</l></lg><mg><tg xml:lang="myv"><t pos="N">графит</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">грач</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">граць</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">грачонок</l></lg><mg><tg xml:lang="myv"><t pos="N">грацьлевкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">гребёнка</l></lg><mg><tg xml:lang="myv"><t pos="N">сурсемне;</t><xg><x>стричь под одну гребёнку</x><xt>вейкетьстэ нарамс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">гребёнка</l></lg><mg><tg xml:lang="myv"><t pos="N">сурсемне</t><xg><x>стричь под одну гребёнку</x><xt>вейкетьстэ нарамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">гребень</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">сурсема</t></tg></mg><mg><arab>2.</arab><field>тех.</field><tg xml:lang="myv"><t pos="N">(<i>прядильный</i>) пакарь</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>волны</i>) пря</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">гребец</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">милесэ миледиця</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>на сенокосе</i>) тикшень пурныця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">гребешок</l></lg><mg><tg xml:lang="myv"><t pos="N">саразонь паця</t></tg></mg></e>
@@ -2202,7 +2202,7 @@
 <e><lg><l pos="N" gen="Fem">дезинфекция</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">дезинфекция</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">дезорганизатор</l></lg><mg><tg xml:lang="myv"><t pos="N">тевень калавтыця, дезорганизатор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">дезорганизиция</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">калавтома, дезорганизация</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">действие</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>деятельность</i>) тевень теема, тевень молема; <i>или передаётся личными формами глаголов</i> важодемс, роботамс, молемс</t><xg><x>эта машина ещё вчера была в действии</x><xt>те машинась ештё исяк ульнесь тевсэ, те машинась ештё исяк важодсь</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>влияние</i>) действия</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>пребывание в силе</i>) вий (<i>сила</i>)</t><xg><x>договор сохраняет своё действие в течение пяти лет</x><xt>договорось вансты эсь виензэ вете иень перть</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="N">(<i>поступок, поведение</i>) тев, прянь ветямо</t><xg><x>предоставить полную свободу действий</x><xt>максомс тевсэ олячи</xt></xg></tg></mg><mg><arab>5.</arab><tg xml:lang="myv"><t pos="N">(<i>впечатление</i>) мельс туема</t><xg><x>игра актёра произвела сильное действие на зрителей</x><xt>актёронь налксемась ваныцятнень мельс пек тусь</xt></xg></tg></mg><mg><arab>6.</arab><tg xml:lang="myv"><t pos="N">(<i>событие в пьесе или повествовании</i>) тев, действия; 7 <field>театр.</field> действия</t></tg></mg><mg><arab>8.</arab><field>мат.</field><tg xml:lang="myv"><t pos="N">действия;</t><xg><x>военные действия</x><xt>военной действият</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">действие</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>деятельность</i>) тевень теема, тевень молема; <i>или передаётся личными формами глаголов</i> важодемс, роботамс, молемс</t><xg><x>эта машина ещё вчера была в действии</x><xt>те машинась ештё исяк ульнесь тевсэ, те машинась ештё исяк важодсь</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>влияние</i>) действия</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>пребывание в силе</i>) вий (<i>сила</i>)</t><xg><x>договор сохраняет своё действие в течение пяти лет</x><xt>договорось вансты эсь виензэ вете иень перть</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="N">(<i>поступок, поведение</i>) тев, прянь ветямо</t><xg><x>предоставить полную свободу действий</x><xt>максомс тевсэ олячи</xt></xg></tg></mg><mg><arab>5.</arab><tg xml:lang="myv"><t pos="N">(<i>впечатление</i>) мельс туема</t><xg><x>игра актёра произвела сильное действие на зрителей</x><xt>актёронь налксемась ваныцятнень мельс пек тусь</xt></xg></tg></mg><mg><arab>6.</arab><tg xml:lang="myv"><t pos="N">(<i>событие в пьесе или повествовании</i>) тев, действия; 7 <field>театр.</field> действия</t></tg></mg><mg><arab>8.</arab><field>мат.</field><tg xml:lang="myv"><t pos="N">действия</t><xg><x>военные действия</x><xt>военной действият</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">действительность</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>реальность</i>) алкуксчи, видечи; <b>современная действительность</b> неень шкань алкуксчись; <b>в действительности</b> (<i>в самом деле</i>) алкукс, виде</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>законность</i>) видечи</t><xg><x>действительность паспорта</x><xt>паспортонть видечизэ</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">декабрист</l></lg><mg><field>ист.</field><tg xml:lang="myv"><t pos="N">декабрист</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">декабрь</l></lg><mg><tg xml:lang="myv"><t pos="N">ацамков, декабря</t></tg></mg></e>
@@ -2376,7 +2376,7 @@
 <e><lg><l pos="N" gen="Neu">дозревание</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кенерема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">док</l></lg><mg><tg xml:lang="myv"><t pos="N">док</t><xg><x>сухой док</x><xt>коське док</xt></xg><xg><x>плавучий док</x><xt>уиця док</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">доказательство</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">невтема, доказательства</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">доклад</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">доклад;</t><xg><x>входить без доклада</x><xt>совамс (совсемс) апак кевксте</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">доклад</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">доклад</t><xg><x>входить без доклада</x><xt>совамс (совсемс) апак кевксте</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">докладчик</l></lg><mg><tg xml:lang="myv"><t pos="N">докладонь теиця, докладчик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">доктор</l></lg><mg><tg xml:lang="myv"><t pos="N">доктор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">докторант</l></lg><mg><tg xml:lang="myv"><t pos="N">докторант</t></tg></mg></e>
@@ -2698,7 +2698,7 @@
 <e><lg><l pos="N" gen="Fem">забавность</l></lg><mg><tg xml:lang="myv"><t pos="N">налксемачи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">забастовка</l></lg><mg><tg xml:lang="myv"><t pos="N">бастовамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">забастовщик</l></lg><mg><tg xml:lang="myv"><t pos="N">бастовиця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">забвение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">стувтома;</t><xg><x>предать забвению</x><xt>стувтомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">забвение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">стувтома</t><xg><x>предать забвению</x><xt>стувтомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">забег</l></lg><mg><tg xml:lang="myv"><t pos="N">чиема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">забелка</l></lg><mg><tg xml:lang="myv"><t pos="N">ашолгавтома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">забияка</l></lg><mg><tg xml:lang="myv"><t pos="N">и <gen>ж.</gen> <range>разг.</range> тюрьган</t></tg></mg></e>
@@ -2829,7 +2829,7 @@
 <e><lg><l pos="N" gen="Msc">закат</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>солнца</i>) чивалгома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>время захода</i>) чивалгома шка/ланго</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">пингепе, (<i>конец жизни</i>) эрямопе, ютамо, (<i>конец славы</i>) ёмамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">закваска</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чапавтома</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">обуця, кой</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">закидушка</l></lg><mg><tg xml:lang="myv"><t pos="N">кайсевема, кайсевкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">заклад</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>закладывание</i>) путома, закладс путома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>закладываемое</i>) путовкс, заклад, закладс путовкс;</t><xg><x>биться об заклад</x><xt>аштемс заклад лангсо, чавомс мезеяк лангс, каямс мезеяк лангс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">заклад</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>закладывание</i>) путома, закладс путома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>закладываемое</i>) путовкс, заклад, закладс путовкс</t><xg><x>биться об заклад</x><xt>аштемс заклад лангсо, чавомс мезеяк лангс, каямс мезеяк лангс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">закладка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>здания и т. п.</i>) вачкамо, путовкс, путома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>лошадей и т. п.</i>) кильдема-поводема</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>в книге</i>) путовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">закладчик</l></lg><mg><tg xml:lang="myv"><t pos="N">закладс ули-паронь путыця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">заклейка</l></lg><mg><tg xml:lang="myv"><t pos="N">педявкс, педявтовкс</t></tg></mg></e>
@@ -2875,7 +2875,7 @@
 <e><lg><l pos="N" gen="Msc">замах</l></lg><mg><tg xml:lang="myv"><t pos="N">аволдавкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">замачивание</l></lg><mg><tg xml:lang="myv"><t pos="N">лопавтнема, начтома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">замашка</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N"><i>неодобр.</i> обуця, кой</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">замедление</l></lg><mg><tg xml:lang="myv"><t pos="N">састыньгавтома, састыньгадома, кирдема;</t><xg><x>сделать без замедления</x><xt>теемс апак кирде</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">замедление</l></lg><mg><tg xml:lang="myv"><t pos="N">састыньгавтома, састыньгадома, кирдема</t><xg><x>сделать без замедления</x><xt>теемс апак кирде</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">замена</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>действие</i>) полавтома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>заменяющее лицо</i>) полавтыця, (<i>предмет</i>) полавтовкс</t><xg><x>быть заменой</x><xt>улемс полавтовксокс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">замерзание</l></lg><mg><tg xml:lang="myv"><t pos="N">кельмема; <field>физ.</field> <b>точка замерзания</b> кельмемань невтема точка, кельмема точка; &lt;&gt; <sense>перен.</sense> <b>быть на точке замерзания</b> аштемс ве таркасо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">замерщик</l></lg><mg><tg xml:lang="myv"><t pos="N">онкстниця</t></tg></mg></e>
@@ -2935,7 +2935,7 @@
 <e><lg><l pos="N" gen="Msc">заповедник</l></lg><mg><tg xml:lang="myv"><t pos="N">пертьпельксэнь ванстома тарка, заповедник</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">заповедь</l></lg><mg><tg xml:lang="myv"><t pos="N">кармавтома, кармавтовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">запоздание</l></lg><mg><tg xml:lang="myv"><t pos="N">поздаямо, кадовома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">запой</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>пьянство</i>) пек/виевстэ симема, шкань-шкань апак лотксе симема;</t><xg><x>читать запоем</x><xt>ловномс покш мельсэ / апак лотксе</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">запой</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>пьянство</i>) пек/виевстэ симема, шкань-шкань апак лотксе симема</t><xg><x>читать запоем</x><xt>ловномс покш мельсэ / апак лотксе</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">заполье</l></lg><mg><tg xml:lang="myv"><t pos="N">васоло умат, васоло пакся</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">запоминание</l></lg><mg><tg xml:lang="myv"><t pos="N">мельс кундамо, мельсэ кирдема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">запонка</l></lg><mg><tg xml:lang="myv"><t pos="N">запонка</t></tg></mg></e>
@@ -3050,7 +3050,7 @@
 <e><lg><l pos="N" gen="Neu">звучание</l></lg><mg><tg xml:lang="myv"><t pos="N">гайгема, гайнема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">звучность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">гайгема, гайгемачи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">здание</l></lg><mg><tg xml:lang="myv"><t pos="N">здания</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">здоровье</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">шумбрачи, менге;</t></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">здоровье</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">шумбрачи, менге</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">здоровяк</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">шумбрачисэ/шумбра-паро ломань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">здравоохранение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">шумбрачинь ванстома, здравоохранения</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">зев</l></lg><mg><field>анат.</field><tg xml:lang="myv"><t pos="N">кургопотмо</t></tg></mg></e>
@@ -3163,7 +3163,7 @@
 <e><lg><l pos="N" gen="Fem">иглотерапия</l></lg><mg><tg xml:lang="myv"><t pos="N">салмукссо пичкавтома/лечамо</t><xg><x>проходить иглотерапию</x><xt>салмукссо лечамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">иглоукалывание</l></lg><mg><tg xml:lang="myv"><t pos="N">салмукссо пичкавтома/лечамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">иго</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(киньгак) кедь ало улема-аштема, урексчи, сталмо</t><xg><x>Монголо-татарское иго</x><xt>Монголо-татаронь ало улемась/игась</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">иголка</l></lg><mg><tg xml:lang="myv"><t pos="N">салмукс;</t><xg><x>сидеть как на иголках</x><xt>прок салмукс лангсо аштемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">иголка</l></lg><mg><tg xml:lang="myv"><t pos="N">салмукс</t><xg><x>сидеть как на иголках</x><xt>прок салмукс лангсо аштемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">игольник</l></lg><mg><tg xml:lang="myv"><t pos="N">салмукс тодовне</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">игра</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">налксема</t><xg><x>игра в куклы</x><xt>някасо налксема</xt></xg><xg><x>игра в мяч</x><xt>оскасо налксема</xt></xg><xg><x>игра в шахматы</x><xt>шахматасо налксема</xt></xg><xg><x>настольная игра</x><xt>стуворлангонь налксема</xt></xg><xg><x>Олимпийские игры</x><xt>Олимпиянь пелькстамот/налксемат</xt></xg></tg></mg><mg><arab>2.</arab><field>муз.</field><tg xml:lang="myv"><t pos="N">(<i>на музыкальном инструменте</i>) седямо, налксема</t><xg><x>игра на гармошке</x><xt>гармошкасо седямо/налксема</xt></xg></tg></mg><mg><arab>3.</arab><field>театр.</field><tg xml:lang="myv"><t pos="N">налксема</t><xg><x>игра актёров</x><xt>налксицятнень налксемаст</xt></xg></tg></mg><mg><arab>4.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">налксема</t><xg><x>опасная игра</x><xt>зыянов налксема;</xt></xg><xg><x>игра слов</x><xt>валсо налксема, валвелявкс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">игривость</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">налкамо, эльневкс</t></tg></mg></e>
@@ -3440,7 +3440,7 @@
 <e><lg><l hid="Hom2" pos="N" gen="Msc">ирис</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>конфетка</i>) ириска, ирис</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ирландец</l></lg><mg><tg xml:lang="myv"><t pos="N">ирландиянь цёра/ломань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ирод</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>прост., презр.</i> ирод</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">ирония</l></lg><mg><tg xml:lang="myv"><t pos="N">пеедькшнема-мусколямо, згилямо;</t><xg><x>ирония судьбы</x><xt>эрямонть пеедькшнемазо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">ирония</l></lg><mg><tg xml:lang="myv"><t pos="N">пеедькшнема-мусколямо, згилямо</t><xg><x>ирония судьбы</x><xt>эрямонть пеедькшнемазо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ирригатор</l></lg><mg><tg xml:lang="myv"><t pos="N"><field>с.-х.</field> 1. валнома тевень содыця, ирригатор</t></tg></mg><mg><arab>2.</arab><field>мед.</field><tg xml:lang="myv"><t pos="N">ирригатор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ирригация</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N"><i>с- х.</i> валнома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ёрвалема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">иск</l></lg><mg><field>юр.</field><tg xml:lang="myv"><t pos="N">вешема, вешевкс, иск</t><xg><x>гражданский иск</x><xt>гражданской вешема/иск</xt></xg></tg></mg></e>
@@ -3470,7 +3470,7 @@
 <e><lg><l pos="N" gen="Fem">исповедь</l></lg><mg><tg xml:lang="myv"><t pos="N">споведамо, пежетте видькстамо, пежетень каявтома, оймень идема/идевтема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">исполин</l></lg><mg><tg xml:lang="myv"><t pos="N">покштояк покш ломань, исполин</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">исполнение</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">топавтома, теема</t><xg><x>исполнение желаний</x><xt>мелень топавтома</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N"><i>муз., театр.</i> (<i>игра</i>) налксема, (<i>пение</i>) морамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">исполнитель</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">топавтыця, теиця</t></tg></mg><mg><arab>2.</arab><field>театр.</field><tg xml:lang="myv"><t pos="N"><field>муз.</field> (<i>песен, арий и т. п.</i>) морыця, (<i>ролей</i>) налксиця;</t><xg><x>судебный исполнитель</x><xt>судонь тевень топавтыця</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">исполнитель</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">топавтыця, теиця</t></tg></mg><mg><arab>2.</arab><field>театр.</field><tg xml:lang="myv"><t pos="N"><field>муз.</field> (<i>песен, арий и т. п.</i>) морыця, (<i>ролей</i>) налксиця</t><xg><x>судебный исполнитель</x><xt>судонь тевень топавтыця</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">исполнительность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">топавтомачи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">исправление</l></lg><mg><tg xml:lang="myv"><t pos="N">витема, витнема, витевкс-петевкс</t><xg><x>исправление ошибок</x><xt>ильведевксэнь витнема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">испражнение</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чурамо начко</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ваце, вацть, сернема</t></tg></mg></e>
@@ -3536,7 +3536,7 @@
 <e><lg><l pos="N" gen="Fem">кадушка</l></lg><mg><tg xml:lang="myv"><t pos="N">парне, стойкине, вишка парь/стойка</t><xg><x>кадушка с водой</x><xt>ведьпарне, ведь марто парне</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">кадык</l></lg><mg><field>анат.</field><tg xml:lang="myv"><t pos="N">кирьгапакш, кирьгаал</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">каёмка</l></lg><mg><tg xml:lang="myv"><t pos="N">каймине, теине кайма</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">казак</l></lg><mg><tg xml:lang="myv"><t pos="N">казак;</t><xg><x>вольный казак</x><xt>оля ломань</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">казак</l></lg><mg><tg xml:lang="myv"><t pos="N">казак</t><xg><x>вольный казак</x><xt>оля ломань</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">казарма</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="N">ушманонь/солдатонь эрямо тарка, казарма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">казах</l></lg><mg><tg xml:lang="myv"><t pos="N">казахонь цёра/ломань, казах, казахстанонь ломань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">казачество</l></lg><mg><posType>собир.</posType><tg xml:lang="myv"><t pos="N">казакт, казачества</t></tg></mg></e>
@@ -3559,7 +3559,7 @@
 <e><lg><l pos="N" gen="Msc">калач</l></lg><mg><tg xml:lang="myv"><t pos="N">калаця, ашо кши</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">калека</l></lg><mg><tg xml:lang="myv"><t pos="N">и <gen>ж.</gen> убогой/томбазь (ломань), стака ормасо сэредиця, калека</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">календарь</l></lg><mg><tg xml:lang="myv"><t pos="N">ковкерькс, ковкирькс, календарь</t><xg><x>отрывочный календарь</x><xt>сезневиця лопа марто ковкерькс/ковкирькс/календарь</xt></xg><xg><x> мама купила новый календарь</x><xt>авам рамась од ковкерькс/ковкирькс/календарь</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">каление</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">сыртема, калямо; калявкс, сыртевема;</t><xg><x>довести до белого каления</x><xt>азаргавтомс, пизякавтомс, пек кежейгавтомс, сыртемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">каление</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">сыртема, калямо; калявкс, сыртевема</t><xg><x>довести до белого каления</x><xt>азаргавтомс, пизякавтомс, пек кежейгавтомс, сыртемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">калибр</l></lg><mg><arab>1.</arab><field>воен.</field><tg xml:lang="myv"><t pos="N"><field>тех.</field> калибра</t><xg><x>орудие крупного калибра</x><xt>покш калибрань орудия</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(мезеньгак) форма-покшолма</t><xg><x>стаканы разного калибра</x><xt>эрьва кодамо формань-покшолмань стопкат</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">калий</l><morphNote>мн. нет</morphNote></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">калий</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">калина</l><morphNote>мн. нет</morphNote></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">1. (<i>плод</i>) чевге, чевгель</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>дерево</i>) чевгечувто,   чевгельчувто, чевгелина</t></tg></mg></e>
@@ -3923,7 +3923,7 @@
 <e><lg><l pos="N" gen="Fem">клюква</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">чейумарь, чеядавксонь умарь</t></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Msc">ключ</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">ключ</t><xg><x>скрипичный ключ</x><xt>скрипкань/скрипичной ключ</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">ключ</l></lg><mg><tg xml:lang="myv"><t pos="N">панжома, ключ</t><xg><x>дверной ключ</x><xt>кенкш/кенкшень панжома</xt></xg></tg></mg></e>
-<e><lg><l hid="Hom3" pos="N" gen="Msc">ключ</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>источник</i>) лисьмапря;</t><xg><x>жизнь в нем бьёт ключом</x><xt>эрямось эйсэнзэ лисьмапрякс чави</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom3" pos="N" gen="Msc">ключ</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>источник</i>) лисьмапря</t><xg><x>жизнь в нем бьёт ключом</x><xt>эрямось эйсэнзэ лисьмапрякс чави</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ключица</l></lg><mg><field>анат.</field><tg xml:lang="myv"><t pos="N">лавтовловажа, лавтовонь троксловажа, печкема ловажа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">клюшка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">крюка марто мандо/палка, жарпалка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">клюшка</t><xg><x>хоккейная клюшка</x><xt>хоккейсэ налксема палка/клюшка</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">клякса</l></lg><mg><tg xml:lang="myv"><t pos="N">(чернилань) пацькавкс, вадневкс, петнявкс</t></tg></mg></e>
@@ -3965,7 +3965,7 @@
 <e><lg><l pos="N" gen="Msc">кожевник</l></lg><mg><tg xml:lang="myv"><t pos="N">кедень теиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">кожура</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кедь, лукш, куво, ваткавкс(т)</t><xg><x>кожура картошки</x><xt>модамарень лукшт/ваткавкст</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">кожух</l></lg><mg><tg xml:lang="myv"><t pos="N">ревекедень оршамопель; кожух</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">коза</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>животное</i>) сея</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>самка</i>) авака сея;</t><xg><x>драть как сидорову козу</x><xt>пек / апак жаля чавомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">коза</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>животное</i>) сея</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>самка</i>) авака сея</t><xg><x>драть как сидорову козу</x><xt>пек / апак жаля чавомс</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Msc">козёл</l></lg><mg><tg xml:lang="myv"><t pos="N">атяка сея</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">козёл</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>гимнастический снаряд</i>) козёл</t><xg><x>прыгать через козла</x><xt>козёл велькска кирнявтнемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">козерог</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>животное</i>) пандонь идем сея</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>знак зодиака</i>) Козерог</t></tg></mg></e>
@@ -3985,7 +3985,7 @@
 <e><lg><l pos="N" gen="Msc">кокос</l></lg><mg><tg xml:lang="myv"><t pos="N">кокос</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">кокс</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кокс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">коктейль</l></lg><mg><tg xml:lang="myv"><t pos="N">коктейль</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">кол</l></lg><mg><tg xml:lang="myv"><t pos="N">пезэмкс, пшти палка, колия;</t><xg><x>не иметь ни кола, ни двора</x><xt>а пизэть, а ашкот арасть; а пизэзэ, а ашконзо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">кол</l></lg><mg><tg xml:lang="myv"><t pos="N">пезэмкс, пшти палка, колия</t><xg><x>не иметь ни кола, ни двора</x><xt>а пизэть, а ашкот арасть; а пизэзэ, а ашконзо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">колба</l></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">колба</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">колбаса</l></lg><mg><tg xml:lang="myv"><t pos="N">колбаса</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">колбасная</l></lg><mg><tg xml:lang="myv"><t pos="N">колбасань микшнема тарка</t></tg></mg></e>
@@ -3994,11 +3994,11 @@
 <e><lg><l pos="N" gen="Msc">колдун</l></lg><mg><tg xml:lang="myv"><t pos="N">муниця, орожия, ведун, ведунломань, каиця-ядыця, апаро оймень кандыця, колдун</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">колдунья</l></lg><mg><tg xml:lang="myv"><t pos="N">муниця ава, орожияава, ведунава, ведунбаба, ведунпатя, колдунава</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">колебание</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>струны и т. п.</i>) сорнома; (<i>маятника</i>) лыкамо, шатамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>изменение</i>) кавтолдома, полавтома</t><xg><x>колебание цен</x><xt>питнень кавтолдома/полавтома</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>сомнение</i>) кавтолдома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">коленкор</l></lg><mg><tg xml:lang="myv"><t pos="N">крахмалязь кодст, коленкор;</t><xg><x>это совсем другой коленкор</x><xt>те овсе лия тевесь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">коленкор</l></lg><mg><tg xml:lang="myv"><t pos="N">крахмалязь кодст, коленкор</t><xg><x>это совсем другой коленкор</x><xt>те овсе лия тевесь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">колено</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кумажа</t><xg><x>ушибить колено</x><xt>кумажа томбамс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">эле</t><xg><x>посадить на колени</x><xt>элес / кумажа лангс озавтомс</xt></xg></tg></mg><mg><arab>2.</arab><field>бот.</field><tg xml:lang="myv"><t pos="N">эзне, пелькс</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>реки</i>) пурдавкс, мендявкс, леймурдавкс, лейпурдавкс</t></tg></mg><mg><arab>4.</arab><field>тех.</field><tg xml:lang="myv"><t pos="N">турбапурдавкс, турбамендявкс</t></tg></mg><mg><arab>5.</arab><tg xml:lang="myv"><t pos="N">(<i>разветвление рода</i>) раське; &lt;&gt; <b>по колени</b> и<b> по колено</b> кумажава, кумажа видьс/видьга</t><xg><x>ему море по колено</x><xt>сонензэ ялатеке, сон мездеяк а пели</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">колер</l></lg><mg><tg xml:lang="myv"><t pos="N">тюс, артовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">колесо</l></lg><mg><tg xml:lang="myv"><t pos="N">чары</t><xg><x>колесо автомобиля</x><xt>автомобилень/машинань чары;</xt></xg><xg><x>вставлять палки в колёса</x><xt>чарыс палкат ёвкстнемс, мешамс (киненьгак)</xt></xg><xg><x>ноги колесом</x><xt>чарыпильге, пильгензэ чарынь кондят, пильгензэ кирькс ёнов молить</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">колея</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чарынь ки</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<field>ж.-д.</field>) чугункань ки;</t><xg><x>войти в колею</x><xt>эсь эрямонь лувс совамс, эсь килангс прамс/лисемс</xt></xg><xg><x>выбитый из колеи</x><xt>(эсь) эрямонь лувсто ливтезь, эсь ёжосто ливтезь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">колея</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чарынь ки</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<field>ж.-д.</field>) чугункань ки</t><xg><x>войти в колею</x><xt>эсь эрямонь лувс совамс, эсь килангс прамс/лисемс</xt></xg><xg><x>выбитый из колеи</x><xt>(эсь) эрямонь лувсто ливтезь, эсь ёжосто ливтезь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">колибри</l></lg><mg><tg xml:lang="myv"><t pos="N">и <gen>ж.</gen> <morphNote>нескл.</morphNote> колибри</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">количество</l></lg><mg><tg xml:lang="myv"><t pos="N">ламочи, ламоксчи, количества</t><xg><x>количество предметов</x><xt>предметэнь ламочи/ламоксчи</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">колка</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лазнома</t><xg><x>колка дров</x><xt>пенгень лазнома</xt></xg></tg></mg></e>
@@ -4039,7 +4039,7 @@
 <e><lg><l pos="N" gen="Fem">колхозница</l></lg><mg><tg xml:lang="myv"><t pos="N">колхозсо важодиця ава, колхозница</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">колчан</l></lg><mg><tg xml:lang="myv"><t pos="N">налкескав, налонь кирдема, юдма, колчан</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">колчедан</l></lg><mg><field>минер.</field><tg xml:lang="myv"><t pos="N">колчедан</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">	колыбель</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">лавсь</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">чачома тарка;</t><xg><x>с колыбели</x><xt>эйкакш 	пингестэ/порасто</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">	колыбель</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">лавсь</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">чачома тарка</t><xg><x>с колыбели</x><xt>эйкакш 	пингестэ/порасто</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">колымага</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>разг., ирон.</i> стака улав</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">колье</l></lg><mg><tg xml:lang="myv"><t pos="N">кирьгаша, колье</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">кольраби</l><morphNote>нескл.</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кольраби(капста)</t></tg></mg></e>
@@ -4079,7 +4079,7 @@
 <e><lg><l pos="N" gen="Msc">комментатор</l></lg><mg><tg xml:lang="myv"><t pos="N">чарькодевтиця, толковиця, комментатор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">коммерсант</l></lg><mg><tg xml:lang="myv"><t pos="N">микшниця, микшниця-рамсиця, торговиця, микшнемань-рамсемань тевень топавтыця, коммерсант</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">коммерция</l></lg><mg><tg xml:lang="myv"><t pos="N">миема-рамамо, микшнема-рамсема, торговамо, микшнемань-рамсемань тевть, коммерция</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">коммуна</l></lg><mg><tg xml:lang="myv"><t pos="N">вейсэнь куро, коммуна;</t><xg><field>ист.</field><x>Парижская Коммуна</x><xt>Парижень Коммуна</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">коммуна</l></lg><mg><tg xml:lang="myv"><t pos="N">вейсэнь куро, коммуна</t><xg><field>ист.</field><x>Парижская Коммуна</x><xt>Парижень Коммуна</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">коммуналка</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">ламо семияс эрямо тарка, ламо семиянь туртов квартира, коммуналка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">коммунар</l></lg><mg><field>ист.</field><tg xml:lang="myv"><t pos="N">коммунар</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">коммунизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">коммунизма</t></tg></mg></e>
@@ -4132,7 +4132,7 @@
 <e><lg><l pos="N" gen="Neu">коневодство</l></lg><mg><tg xml:lang="myv"><t pos="N">лишмень трямо-раштамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">конец</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">пе; <b>без конца</b> певтеме, апак лотксе; &lt;&gt; <range>разг.</range> <b>конца-краю нет</b> пеяк арась, пе а неяви; <b>из конца в конец</b> ве пестэ омбоце пес; <range>разг.</range> <b>палка о двух концах</b> палканть кавто пензэ; <b>приехали со всех концов</b> эрьва ёндо/косто састь; <b>положить конец</b> путомс пе (мезненьгак); <b>в конце концов</b> окойники, меельцекс; <b>под конец</b> пе/прядома малав; <range>разг.</range> <b>один конец</b> ве(йке) пе</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">конечность</l></lg><mg><tg xml:lang="myv"><t pos="N">кедть-пильгеть, рунгопелькс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">конёк</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>уменьш.-ласк. к конь</i>) айгорнэ, лишмине</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>для катанья</i>) конька</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>крыши</i>) кудоконякс, кудоконя</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">(<i>излюбленная тема</i>) вечкема тема;</t><xg><x>конёк-горбунок</x><xt>горбун айгорнэ, лишме-тулпаро</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">конёк</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>уменьш.-ласк. к конь</i>) айгорнэ, лишмине</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>для катанья</i>) конька</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>крыши</i>) кудоконякс, кудоконя</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">(<i>излюбленная тема</i>) вечкема тема</t><xg><x>конёк-горбунок</x><xt>горбун айгорнэ, лишме-тулпаро</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">конина</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лишмень сывель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">конкурент</l></lg><mg><tg xml:lang="myv"><t pos="N">пелькстыялга, конкурент</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">конкуренция</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">пелькстамо, конкуренция; &lt;&gt; <range>разг.</range> <b>вне конкуренции</b> пелькстамовтомо, апак пелькста, аволь конкуренциясо, конкуренциявтомо</t></tg></mg></e>
@@ -4278,7 +4278,7 @@
 <e><lg><l pos="N" gen="Msc">коршун</l></lg><mg><tg xml:lang="myv"><t pos="N">вадов, ципакань салы, карциган, кавал</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">корыстолюбие</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">сюпавчис бажамо, ярмаконь вечкема, жаднойчи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">корысть</l></lg><mg><tg xml:lang="myv"><t pos="N">сюпавчис бажамо, ярмаконь вечкема, жаднойчи; лезэ, лезэвчи</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">корыто</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">очко</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>для рубки капусты</i>) ковол;</t><xg><x>у разбитого корыта</x><xt>тапазь/каладо очко вакссо кадовомс, теке марто кадовомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">корыто</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">очко</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>для рубки капусты</i>) ковол</t><xg><x>у разбитого корыта</x><xt>тапазь/каладо очко вакссо кадовомс, теке марто кадовомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">корь</l><morphNote>мн. нет</morphNote></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">кшнат, кшнят</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">корюшка</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">корюшка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">коряга</l></lg><mg><tg xml:lang="myv"><t pos="N">сюрдов-сярдов тарад</t></tg></mg></e>
@@ -4363,8 +4363,8 @@
 <e><lg><l pos="N" gen="Msc">краболов</l></lg><mg><tg xml:lang="myv"><t pos="N">крабонь кундыця/кундсиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">краеведение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">чачома ёнксонь тонавтнема/содамо, тиринь ёнксонь / пертьпельксэнь тонавтнема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">кража</l></lg><mg><tg xml:lang="myv"><t pos="N">саламо</t><xg><x>кража со взломом</x><xt>кенкш панжомань синтрезь/яжазь саламо</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">край</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>конец</i>) пе, край</t><xg><x>он живёт на краю города</x><xt>сон эри ошонть песэ/крайсэ;</xt></xg><xg><x>литься через край</x><xt>велькска чудемс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>страна</i>) ёнкс,  чачома ёнкс, мастор, край;</t><xg><x>слышать краем уха</x><xt>ве(йке) пилесэ марямс, пилепесэ кунсоломс</xt></xg><xg><x>конца краю нет</x><xt>певтеме</xt></xg><xg><x>из края в край</x><xt>ве пестэ омбоце пес, ве пестэ омбоцес</xt></xg><xg><x>быть на краю могилы</x><xt>калмо чиресэ аштемс, калмос ваномс</xt></xg><xg><x>край света</x><xt>масторпе</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">крайность</l></lg><mg><tg xml:lang="myv"><t pos="N">меельце/остатка пе; нужачи;</t><xg><x>довести до крайности</x><xt>меельце/остатка пес ветямс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">край</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>конец</i>) пе, край</t><xg><x>он живёт на краю города</x><xt>сон эри ошонть песэ/крайсэ;</xt></xg><xg><x>литься через край</x><xt>велькска чудемс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>страна</i>) ёнкс,  чачома ёнкс, мастор, край</t><xg><x>слышать краем уха</x><xt>ве(йке) пилесэ марямс, пилепесэ кунсоломс</xt></xg><xg><x>конца краю нет</x><xt>певтеме</xt></xg><xg><x>из края в край</x><xt>ве пестэ омбоце пес, ве пестэ омбоцес</xt></xg><xg><x>быть на краю могилы</x><xt>калмо чиресэ аштемс, калмос ваномс</xt></xg><xg><x>край света</x><xt>масторпе</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">крайность</l></lg><mg><tg xml:lang="myv"><t pos="N">меельце/остатка пе; нужачи</t><xg><x>довести до крайности</x><xt>меельце/остатка пес ветямс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">краля</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">мазылька, краля</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">крамола</l></lg><mg><range>устар.</range><tg xml:lang="myv"><t pos="N">коень/закононь каршо молема; (<i>заговор</i>) лиянь каршо салавань тев, каршо стямо/кепетема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">крамольник</l></lg><mg><tg xml:lang="myv"><t pos="N">коень/закононь каршо молиця</t></tg></mg></e>
@@ -4494,7 +4494,7 @@
 <e><lg><l pos="N" gen="Msc">круг</l></lg><mg><arab>1.</arab><field>мат.</field><tg xml:lang="myv"><t pos="N">круг; кирькс</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">(<i>в кругу</i>) ютксо</t><xg><x>в кругу знакомых</x><xt>содазь ломань ютксо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">круговерть</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">велямо, чарамо-велямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">круговорот</l></lg><mg><tg xml:lang="myv"><t pos="N">велямо, перька велявтома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">кругозор</l></lg><mg><tg xml:lang="myv"><t pos="N">содамочить, варштавкс;</t><xg><x>научный кругозор</x><xt>наукасо содамочить</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">кругозор</l></lg><mg><tg xml:lang="myv"><t pos="N">содамочить, варштавкс</t><xg><x>научный кругозор</x><xt>наукасо содамочить</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">кружево</l></lg><mg><tg xml:lang="myv"><t pos="N">кружала, кружова</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">кружение</l></lg><mg><tg xml:lang="myv"><t pos="N">велямо, чарамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">кружка</l></lg><mg><tg xml:lang="myv"><t pos="N">кружка</t></tg></mg></e>
@@ -4516,7 +4516,7 @@
 <e><lg><l pos="N" gen="Msc">крысолов</l></lg><mg><tg xml:lang="myv"><t pos="N">крысань кундыця/кундсиця/маштыця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">крыша</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>кровля</i>) кудопря, лато, латопря, вельтявкс</t><xg><x>крыша дома</x><xt>кудопря</xt></xg><xg><x>железная крыша</x><xt>жестень кудопря</xt></xg><xg><x>крыша амбара</x><xt>утомпря</xt></xg><xg><x>крыть крышу</x><xt>кудопря/лато/латопря вельтямс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>жилище</i>) эрямо тарка, кудо</t><xg><x>остаться без крыши</x><xt>эрямо таркавтомо / кудовтомо кадовомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">крышка</l></lg><mg><tg xml:lang="myv"><t pos="N">велькс, велькске, тавадкс, вельтявкс, кундо</t><xg><x>крышка чайника</x><xt>чайниквелькс</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">крюк</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кечказ, крюка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>окольный путь</i>) перька молиця ки, вепельга молиця/ютыця ки;</t><xg><x>сделать крюк</x><xt>вепельга молемс/ютамс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">крюк</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кечказ, крюка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>окольный путь</i>) перька молиця ки, вепельга молиця/ютыця ки</t><xg><x>сделать крюк</x><xt>вепельга молемс/ютамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">крючок</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>у одежды</i>) кечказ, кечказнэ, крюкине, крючка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>рыболовный</i>) ульмакечказ</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">кряж</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">пандопуло, пандов тарка</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">мукорь, парма, кряж</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">кряканье</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кернема, гогордома, крякаема</t></tg></mg></e>
@@ -4614,7 +4614,7 @@
 <e><lg><l pos="N" gen="Msc">курень</l></lg><mg><tg xml:lang="myv"><t pos="N">велень кудо, курень</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">курилка</l></lg><mg><tg xml:lang="myv"><t pos="N">таргамо нупаль/комната, таргамо тарка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">курильщик</l></lg><mg><tg xml:lang="myv"><t pos="N">таргиця, куриця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">курица</l></lg><mg><tg xml:lang="myv"><t pos="N">сараз;</t><xg><x>денег куры не клюют</x><xt>сонзэ пешксе/доволь ярмаконзо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">курица</l></lg><mg><tg xml:lang="myv"><t pos="N">сараз</t><xg><x>денег куры не клюют</x><xt>сонзэ пешксе/доволь ярмаконзо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">курок</l></lg><mg><tg xml:lang="myv"><t pos="N">курок</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">куропатка</l></lg><mg><tg xml:lang="myv"><t pos="N">паксяпов(о), паксясараз</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">курорт</l></lg><mg><tg xml:lang="myv"><t pos="N">лечамо/оймсема тарка, курорт</t></tg></mg></e>
@@ -4667,7 +4667,7 @@
 <e><lg><l pos="N" gen="Neu">лавирование</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ёнсто ютамо, лавировамо</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">ёнсто-ёжовсто теема</t></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Fem">лавка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>скамейка</i>) эзем</t><xg><x>лавка для кухни</x><xt>вешкезем</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Fem">лавка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>магазин</i>) лавка</t><xg><x>хлебная лавка</x><xt>кшинь лавка</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">лавр</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">лавра, лаврань чувто</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">лаврань каштаз;</t><xg><x>пожинать лавры</x><xt>саткст пурнамс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">лавр</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">лавра, лаврань чувто</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">лаврань каштаз</t><xg><x>пожинать лавры</x><xt>саткст пурнамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лавра</l></lg><mg><tg xml:lang="myv"><t pos="N">лавра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лавсан</l></lg><mg><tg xml:lang="myv"><t pos="N">лавсан</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лаг</l></lg><mg><field>мор.</field><tg xml:lang="myv"><t pos="N">1. молемачинь онкстамопель, лаг</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">венччире</t></tg></mg><mg><arab>3.</arab><field>экон.</field><tg xml:lang="myv"><t pos="N">лаг</t></tg></mg></e>
@@ -4675,9 +4675,9 @@
 <e><lg><l pos="N" gen="Msc">лагерь</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">войскань аштема тарка, лагерь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">шкас эрямо тарка</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">пекстамо тарка, лагерь</t><xg><x>концентрационный лагерь</x><xt>концентрационной пекстамо тарка / лагерь</xt></xg></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="N">эйкакшкужо, кужо, лагерь</t><xg><x>летний лагерь</x><xt>кизэнь эйкакшкужо/лагерь</xt></xg><xg><x>спортивый лагерь</x><xt>спортивной кужо/лагерь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лагун</l></lg><mg><arab>1.</arab><range>устар.</range><tg xml:lang="myv"><t pos="N">парь, лагун</t></tg></mg><mg><arab>2.</arab><field>мор.</field><tg xml:lang="myv"><t pos="N">лагун</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лагуна</l></lg><mg><tg xml:lang="myv"><t pos="N">лагуна</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">лад</l></lg><mg><arab>1.</arab><range>разг.</range><tg xml:lang="myv"><t pos="N">сэтьмечи, лад, ладямо, вемель, велув, вемельс прамо, велувсо эрямо, ялгаксчи</t><xg><x>между нами нет согласия</x><xt>кодамояк ялгаксчи арась ютксонок</xt></xg><xg><x>на новый лад</x><xt>одс</xt></xg><xg><x>на свой лад</x><xt>эсь кондя</xt></xg><xg><x>жить в ладу</x><xt>велувсо эрямс</xt></xg><xg><x>не в ладу</x><xt>аволь ладнойстэ/ялгаксчисэ</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ладсо, кондя</t></tg></mg><mg><arab>3.</arab><field>муз.</field><tg xml:lang="myv"><t pos="N">(<i>тональность</i>) гайгема лув</t></tg></mg><mg><arab>4.</arab><field>муз.</field><tg xml:lang="myv"><t pos="N">(<i>деление на грифе</i>) плаштят, лада;</t><xg><x>дело идёт на лад</x><xt>тевесь моли/вадрялгады</xt></xg><xg><x>на все лады</x><xt>эрьва кода/ладсо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">лад</l></lg><mg><arab>1.</arab><range>разг.</range><tg xml:lang="myv"><t pos="N">сэтьмечи, лад, ладямо, вемель, велув, вемельс прамо, велувсо эрямо, ялгаксчи</t><xg><x>между нами нет согласия</x><xt>кодамояк ялгаксчи арась ютксонок</xt></xg><xg><x>на новый лад</x><xt>одс</xt></xg><xg><x>на свой лад</x><xt>эсь кондя</xt></xg><xg><x>жить в ладу</x><xt>велувсо эрямс</xt></xg><xg><x>не в ладу</x><xt>аволь ладнойстэ/ялгаксчисэ</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ладсо, кондя</t></tg></mg><mg><arab>3.</arab><field>муз.</field><tg xml:lang="myv"><t pos="N">(<i>тональность</i>) гайгема лув</t></tg></mg><mg><arab>4.</arab><field>муз.</field><tg xml:lang="myv"><t pos="N">(<i>деление на грифе</i>) плаштят, лада</t><xg><x>дело идёт на лад</x><xt>тевесь моли/вадрялгады</xt></xg><xg><x>на все лады</x><xt>эрьва кода/ладсо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лада</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>народно-поэт.</i> седейпелькс, вечкема/вечкевикс ломань</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">ладан</l></lg><mg><tg xml:lang="myv"><t pos="N">сувтамопель, ладан;</t><xg><x>дышать на ладан</x><xt>куломалангсо улемс, эль-эль а куломс</xt></xg><xg><x>бояться как чёрт ладана</x><xt>пек пелемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">ладан</l></lg><mg><tg xml:lang="myv"><t pos="N">сувтамопель, ладан</t><xg><x>дышать на ладан</x><xt>куломалангсо улемс, эль-эль а куломс</xt></xg><xg><x>бояться как чёрт ладана</x><xt>пек пелемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ладанка</l></lg><mg><tg xml:lang="myv"><t pos="N">ладанка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ладность</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">видечи-парочи, ёнчи, ладнойчи</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ёлганячи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ладонь</l></lg><mg><tg xml:lang="myv"><t pos="N">кедьлапа, кедьлапушка, кедькуншка</t><xg><x>ширина ладони</x><xt>кедькеле</xt></xg><xg><x>отпечаток ладони</x><xt>кедьрукшна</xt></xg><xg><x>хлопать в ладоши</x><xt>цяпамс;</xt></xg><xg><x>как на ладони</x><xt>теке кедьлапушкасо, вадрясто неявикс</xt></xg></tg></mg></e>
@@ -4717,7 +4717,7 @@
 <e><lg><l pos="N" gen="Fem">лампада</l></lg><mg><tg xml:lang="myv"><t pos="N">лампада, лампадка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лампас</l></lg><mg><tg xml:lang="myv"><t pos="N">лампас</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лампион</l></lg><mg><tg xml:lang="myv"><t pos="N">лампион</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">лампочка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>элекрическая</i>) лампочка;</t><xg><x>ему до лампочки</x><xt>сонензэ ялатеке</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">лампочка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>элекрическая</i>) лампочка</t><xg><x>ему до лампочки</x><xt>сонензэ ялатеке</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лангет</l></lg><mg><tg xml:lang="myv"><t pos="N">лангет</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лангуст</l></lg><mg><tg xml:lang="myv"><t pos="N">лангуст</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ландшафт</l></lg><mg><tg xml:lang="myv"><t pos="N">масторчама, ландшафт</t></tg></mg></e>
@@ -4751,7 +4751,7 @@
 <e><lg><l pos="N" gen="Msc">ласт</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">ведьракшань лапа, ласта</t></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Msc">ластик</l></lg><mg><tg xml:lang="myv"><t pos="N">ластик (кодстонь ёнкс)</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">ластик</l></lg><mg><tg xml:lang="myv"><t pos="N">нардтнемка, стёрка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">ласточка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">цянав</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">цянавне (аванень чевтестэ пшкадема)</t></tg></mg><mg><arab>3.</arab><field>спорт.</field><tg xml:lang="myv"><t pos="N">цянав/ласточка (рунгонь аштема ёнкс);</t><xg><x>первая ласточка</x><xt>васенцесь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">ласточка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">цянав</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">цянавне (аванень чевтестэ пшкадема)</t></tg></mg><mg><arab>3.</arab><field>спорт.</field><tg xml:lang="myv"><t pos="N">цянав/ласточка (рунгонь аштема ёнкс)</t><xg><x>первая ласточка</x><xt>васенцесь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лат</l></lg><mg><tg xml:lang="myv"><t pos="N">лата (ярмаконь ёнкс)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">латвиец</l></lg><mg><tg xml:lang="myv"><t pos="N">латвиянь цёра/ломань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">латвийка</l></lg><mg><tg xml:lang="myv"><t pos="N">латвиянь ава</t></tg></mg></e>
@@ -5056,7 +5056,7 @@
 <e><lg><l pos="N" gen="Neu">лоно</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(<i>природы</i>) масторэле</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лопасть</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>весла</i>) милелапа, чарылапа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лопата</l></lg><mg><tg xml:lang="myv"><t pos="N">койме</t><xg><x>деревянная лопата</x><xt>чувтокойме</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">лопатка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">коймине</t></tg></mg><mg><arab>2.</arab><field>анат.</field><tg xml:lang="myv"><t pos="N">лавтовпря;</t><xg><x>положить на обе лопатки</x><xt>лавтов лангс путомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">лопатка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">коймине</t></tg></mg><mg><arab>2.</arab><field>анат.</field><tg xml:lang="myv"><t pos="N">лавтовпря</t><xg><x>положить на обе лопатки</x><xt>лавтов лангс путомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лопотун</l></lg><mg><tg xml:lang="myv"><t pos="N">лебердиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лопух</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">1. кирмарав, рукшналопа, бабалопа, лапужа кермарав, овтолапа, скарябабань лопа</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">превтеме</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лорд</l></lg><mg><tg xml:lang="myv"><t pos="N">лорд</t></tg></mg></e>
@@ -5085,7 +5085,7 @@
 <e><lg><l pos="N" gen="Msc">луб</l></lg><mg><tg xml:lang="myv"><t pos="N">керь, суд</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">лубок</l></lg><mg><tg xml:lang="myv"><t pos="N">керь</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">луг</l></lg><mg><tg xml:lang="myv"><t pos="N">луганар, нар</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">лужа</l></lg><mg><tg xml:lang="myv"><t pos="N">ведьпурнавкс, ведьваловкс, лужа;</t><xg><x>сесть в лужу</x><xt>чавонь кедть кадовомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">лужа</l></lg><mg><tg xml:lang="myv"><t pos="N">ведьпурнавкс, ведьваловкс, лужа</t><xg><x>сесть в лужу</x><xt>чавонь кедть кадовомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лужайка</l></lg><mg><tg xml:lang="myv"><t pos="N">кужо, наркуро, нартарка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">луза</l></lg><mg><tg xml:lang="myv"><t pos="N">луза</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">лузга</l></lg><mg><posType>собир.</posType><tg xml:lang="myv"><t pos="N">калгавкст</t></tg></mg></e>
@@ -5256,7 +5256,7 @@
 <e><lg><l pos="N" gen="Fem">манишка</l></lg><mg><tg xml:lang="myv"><t pos="N">панарикелькс, манишка</t><xg><x>белая манишка</x><xt>ашо панарикелькс/манишка</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мания</l></lg><mg><tg xml:lang="myv"><t pos="N">азарсьчи, мания</t><xg><x>мания величия</x><xt>эсь прянь покшокс/важнойкс тейнема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">манка</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">манка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">манна</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">манна;</t><xg><x>ждать как манны небесной</x><xt>кирдевтеме/пек учомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">манна</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">манна</t><xg><x>ждать как манны небесной</x><xt>кирдевтеме/пек учомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">манометр</l></lg><mg><field>тех.</field><tg xml:lang="myv"><t pos="N">манометра</t><xg><x>ртутный манометр</x><xt>эрексиянь/ртутень манометра</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мансарда</l></lg><mg><tg xml:lang="myv"><t pos="N">вере нупаль/комната, лато ало нупаль/комната, мансарда</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">манси</l></lg><mg><tg xml:lang="myv"><t pos="N">и <gen>ж.</gen> <morphNote>нескл.</morphNote> мансинь цёра/ломань, манси, вогул</t></tg></mg></e>
@@ -5330,7 +5330,7 @@
 <e><lg><l pos="N" gen="Fem">мастика</l></lg><mg><tg xml:lang="myv"><t pos="N">ваднемапель, мастика</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">мастит</l></lg><mg><tg xml:lang="myv"><t pos="N">потень таргозема, потеорма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">масть</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">пона, тюс, масть</t><xg><x>эта лошадь какой масти?</x><xt>те алашась кодамо понань/тюсонь/мастень?</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">масть</t><xg><x>бубновая масть</x><xt>бубновой масть</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">масштаб</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">покшолма, покшолмачи, масштаб</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>охват</i>) онкс, келе;</t><xg><x>в городском масштабе</x><xt>ошонь келес</xt></xg><xg><x>учёный мирового масштаба</x><xt>мирэнь-масторонь / масторлангонь келес содавикс учёной, мировой лем марто учёной</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">масштаб</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">покшолма, покшолмачи, масштаб</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>охват</i>) онкс, келе</t><xg><x>в городском масштабе</x><xt>ошонь келес</xt></xg><xg><x>учёный мирового масштаба</x><xt>мирэнь-масторонь / масторлангонь келес содавикс учёной, мировой лем марто учёной</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Msc">мат</l></lg><mg><field>шахм.</field><tg xml:lang="myv"><t pos="N">мат</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">мат</l></lg><mg><tg xml:lang="myv"><t pos="N">калгодо ацамка/ацамопель, мата</t></tg></mg></e>
 <e><lg><l hid="Hom3" pos="N" gen="Msc">мат</l></lg><mg><tg xml:lang="myv"><t pos="N">визьксстэ / амазый валсо кортамо, позорямо, кроямо, бранямо</t><xg><x>орать благим матом</x><xt>апаро вайгельсэ/шумсо пижнемс, весе вийсэ пижнемс/рангомс</xt></xg></tg></mg></e>
@@ -5354,7 +5354,7 @@
 <e><lg><l pos="N" gen="Fem">мать-и-мачеха</l></lg><mg><tg xml:lang="myv"><t pos="N">од авань (чама) лопа, одажа лопа, ватракшлопа, лейтикше, начко лопа, ожопря, ожопря цеця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">маузер</l></lg><mg><tg xml:lang="myv"><t pos="N">маузер</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мафия</l></lg><mg><tg xml:lang="myv"><t pos="N">зыянонь / берянь тевень теицят; берянь тевень теицянь вейсэндявкс, мафия</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">мах</l></lg><mg><tg xml:lang="myv"><t pos="N">яходема, аволдамо, аволдавкс, аволкс;</t><xg><x>с маху</x><xt>апак учо, куроксто, эрязасто</xt></xg><xg><x>дать маху</x><xt>ильведемс, ильведькс нолдамс/теемс, манявомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">мах</l></lg><mg><tg xml:lang="myv"><t pos="N">яходема, аволдамо, аволдавкс, аволкс</t><xg><x>с маху</x><xt>апак учо, куроксто, эрязасто</xt></xg><xg><x>дать маху</x><xt>ильведемс, ильведькс нолдамс/теемс, манявомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">махаон</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">раужо петныне марто ожо нимиляв, махаон</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">махина</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">покш сталмо; покш рунго (ломань)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">махинация</l></lg><mg><tg xml:lang="myv"><t pos="N">манямо, манчема тев</t></tg></mg></e>
@@ -5371,7 +5371,7 @@
 <e><lg><l pos="N" gen="Msc">маяк</l></lg><mg><tg xml:lang="myv"><t pos="N">кинь невтиця толнэ/башня, маяк</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">маятник</l></lg><mg><tg xml:lang="myv"><t pos="N">шатамо, маятник</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мгла</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">сув, чемень, чопода</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">мгновение</l></lg><mg><tg xml:lang="myv"><t pos="N">пек нурькине шка, мгновения; <range>разг.</range> кивчкадема;</t><xg><x>в мгновение ока</x><xt>сельгень прамс, кивчкадемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">мгновение</l></lg><mg><tg xml:lang="myv"><t pos="N">пек нурькине шка, мгновения; <range>разг.</range> кивчкадема</t><xg><x>в мгновение ока</x><xt>сельгень прамс, кивчкадемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мебель</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">стуворт-эземть, стольть-эземть, мебель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">меблировка</l></lg><mg><tg xml:lang="myv"><t pos="N">стуворсо-эземсэ / мебельсэ пештямо, мебелень аравтнема/путнема, меблировка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">мегабайт</l></lg><mg><tg xml:lang="myv"><t pos="N">мегабайт</t></tg></mg></e>
@@ -5452,7 +5452,7 @@
 <e><lg><l pos="N" gen="Fem">мерзость</l></lg><mg><tg xml:lang="myv"><t pos="N">нулгодькс (тев), тюнголькс (тев)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">меридиан</l></lg><mg><field>геогр.</field><tg xml:lang="myv"><t pos="N">меридиан</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">мерило</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>единица измерения</i>) онкс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>оценка</i>) онкс, онкстамо,  онкстамопель, мерила</t><xg><x>мерило стоимости</x><xt>питнень онкс/онкстамо</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">мерин</l></lg><mg><tg xml:lang="myv"><t pos="N">пичкавтозь айгор;</t><xg><x>врёт, как сивый мерин</x><xt>визьксэнь апак сода манчемс/кенгелемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">мерин</l></lg><mg><tg xml:lang="myv"><t pos="N">пичкавтозь айгор</t><xg><x>врёт, как сивый мерин</x><xt>визьксэнь апак сода манчемс/кенгелемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мерка</l></lg><mg><tg xml:lang="myv"><t pos="N">онкске, онкс, мерка</t><xg><x>снимать мерку</x><xt>онкске/онкс/мерка саемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">меркантилизм</l></lg><mg><tg xml:lang="myv"><t pos="N">эсь туртов лезэнь саема, меркантилизма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мерлушка</l></lg><mg><tg xml:lang="myv"><t pos="N">теезь ревень кедь, мерлушка</t></tg></mg></e>
@@ -5592,7 +5592,7 @@
 <e><lg><l pos="N" gen="Fem">минута</l></lg><mg><tg xml:lang="myv"><t pos="N">минута</t><xg><x>с минуты на минуту</x><xt>минутадо/минутасто минутас</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">миокард</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="N">миокард(а)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">миома</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="N">аволь зыянов таргозькс, миома</t></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Msc">мир</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>свет, вселенная, земной шар</i>) мастор, масторланго, модамастор, менельть-масторт, мир-мастор, мир</t><xg><x>происхождение мира</x><xt>масторонь/масторлангонь/менелень-масторонь теевемась</xt></xg><xg><x>он объездил весь мир</x><xt>сон весе масторонть/масторлангонть/мирэнть-масторонть ардтнизе</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(мезеньгак) башка вейсэндявкс</t><xg><x>мир растений</x><xt>касовксонь вейсэндявкс, касовкст</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>народ, часть человечества</i>) ломанень вейсэндявкс, мир <b>капиталистический мир</b> капиталистэнь/капиталистической мир;</t><xg><x>пойти по миру</x><xt>кшисускомонь пурнамо кармамс, кажовчис/нужачис/беднойчис прамс</xt></xg><xg><x> всем миром</x><xt>весе вейсэ, вейсэнь вийсэ</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Msc">мир</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>свет, вселенная, земной шар</i>) мастор, масторланго, модамастор, менельть-масторт, мир-мастор, мир</t><xg><x>происхождение мира</x><xt>масторонь/масторлангонь/менелень-масторонь теевемась</xt></xg><xg><x>он объездил весь мир</x><xt>сон весе масторонть/масторлангонть/мирэнть-масторонть ардтнизе</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(мезеньгак) башка вейсэндявкс</t><xg><x>мир растений</x><xt>касовксонь вейсэндявкс, касовкст</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>народ, часть человечества</i>) ломанень вейсэндявкс, мир <b>капиталистический мир</b> капиталистэнь/капиталистической мир</t><xg><x>пойти по миру</x><xt>кшисускомонь пурнамо кармамс, кажовчис/нужачис/беднойчис прамс</xt></xg><xg><x> всем миром</x><xt>весе вейсэ, вейсэнь вийсэ</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">мир</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(<i>спокойствие</i>) сэтьмечи, сэтьмелма, сэтьмечисэ эрямо, мир</t><xg><x>мы стоим за мир</x><xt>минь аштетяно сэтьмечинь/мирэнь кис(э)</xt></xg><xg><x>жить в мире</x><xt>сэтьмечисэ/мирсэ эрямс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">мираж</l></lg><mg><tg xml:lang="myv"><t pos="N">неявкс, цюдавкс; мираж</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мировая</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">мирямо, ладямо</t><xg><x>пойти на мировую</x><xt>мирямс, ладямс</xt></xg></tg></mg></e>
@@ -5618,7 +5618,7 @@
 <e><lg><l pos="N" gen="Fem">митра</l></lg><mg><tg xml:lang="myv"><t pos="N">митра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">митрополит</l></lg><mg><tg xml:lang="myv"><t pos="N">митрополит</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">миф</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кезэрень ёвтнема, миф</t><xg><x>миф о Прометее</x><xt>Прометейде кезэрень ёвтнема / миф</xt></xg></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">арсевкс, миф</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">мифология</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кезэрень ёвтнемань кочкавкс</t><xg><x>греческая мифология</x><xt>грециянь кезэрень ёвтнемань кочкавкс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">кезэрень ёвтнемадо / мифтэ тонавтнема, мифология;</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">мифология</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кезэрень ёвтнемань кочкавкс</t><xg><x>греческая мифология</x><xt>грециянь кезэрень ёвтнемань кочкавкс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">кезэрень ёвтнемадо / мифтэ тонавтнема, мифология</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">мичман</l></lg><mg><field>мор.</field><tg xml:lang="myv"><t pos="N">флотонь офицер, мичман</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мишень</l></lg><mg><tg xml:lang="myv"><t pos="N">леднема лаз, мишень</t><xg><x>стрелять по мишени</x><xt>леднема лазга / мишеньга леднемс;</xt></xg><xg><x>служить мишенью для насмешек</x><xt>пейдема таркакс улемс/аштемс, пейдемакс улемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мишура</l></lg><mg><tg xml:lang="myv"><t pos="N">цитерька, цивтёрдомка, мишура</t></tg></mg></e>
@@ -5685,7 +5685,7 @@
 <e><lg><l pos="N" gen="Msc">моллюск</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">моллюска</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">молния</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ёндол, ёндол пикс</t><xg><x>молния сверкает</x><xt>ёндолось кивчкаи</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">чочамо, чочамка, чочамопель</t><xg><x>молния сломалась</x><xt>чочамось/чочамкась/чочамопелесь яжавсь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">молодёжь</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>собир. мн. нет</i> од ломанть, од тейтерть-цёрат</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">молодец</l></lg><mg><tg xml:lang="myv"><t pos="N">аля, цёра;</t><xg><x>добрый молодец</x><xt>андямо, мараля, богатырь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">молодец</l></lg><mg><tg xml:lang="myv"><t pos="N">аля, цёра</t><xg><x>добрый молодец</x><xt>андямо, мараля, богатырь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">молодняк</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>собир. мн. нет</i> 1. (<i>о людях</i>) од ломанть</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>о животных</i>) од ракшат/скотина</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>о лесе</i>) од вирне</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">молодогвардеец</l></lg><mg><tg xml:lang="myv"><t pos="N">одгвардеец, молодогвардеец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">молодожён</l></lg><mg><tg xml:lang="myv"><t pos="N">ансяк/ней урьвакстозь цёра; <morphNote>мн.</morphNote> <b>молодожёны</b> ансяк урьвакстозь/венчазь мирдеть-полат, урьвакстозь-венчазь од ломанть</t></tg></mg></e>
@@ -5885,7 +5885,7 @@
 <e><lg><l pos="N" gen="Fem">мышка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>уменьш.-ласк.</i>) чеерне, чеерьлевкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">мышление</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">арсема лув, мышления; арсема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мышца</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>см.</i> <b>мускул</b></t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">мышь</l></lg><mg><arab>1.</arab><field>зоол.</field><tg xml:lang="myv"><t pos="N">чеерь;</t><xg><x>летучая мышь</x><xt>кедьнимиляв, кедьмиляв, кедьсёвна, кедьмимиляв, кедьнармунь</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>компьютера</i>) чеерне</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">мышь</l></lg><mg><arab>1.</arab><field>зоол.</field><tg xml:lang="myv"><t pos="N">чеерь</t><xg><x>летучая мышь</x><xt>кедьнимиляв, кедьмиляв, кедьсёвна, кедьмимиляв, кедьнармунь</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>компьютера</i>) чеерне</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">мышьяк</l><morphNote>мн. нет</morphNote></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">мышьяк</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">мэр</l></lg><mg><tg xml:lang="myv"><t pos="N">ошонь прявт, мэр</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мэрия</l></lg><mg><tg xml:lang="myv"><t pos="N">ошонь прявт кудо / управления, мэрия</t></tg></mg></e>
@@ -5906,7 +5906,7 @@
 <e><lg><l pos="N" gen="Neu">мяуканье</l></lg><mg><tg xml:lang="myv"><t pos="N">мявкстнема, мявкаема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">мяч</l></lg><mg><tg xml:lang="myv"><t pos="N">оска, мець, мецьке, мяч</t><xg><x>кожаный мяч</x><xt>кедень оска/мець/мецьке/мяч</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">набалдашник</l></lg><mg><tg xml:lang="myv"><t pos="N">палкапря</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">набат</l></lg><mg><tg xml:lang="myv"><t pos="N">половт, баягань чавома;</t><xg><x>бить в набат</x><sense>перен.</sense><xt>половт чавомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">набат</l></lg><mg><tg xml:lang="myv"><t pos="N">половт, баягань чавома</t><xg><x>бить в набат</x><sense>перен.</sense><xt>половт чавомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">набег</l></lg><mg><tg xml:lang="myv"><t pos="N">каявома, каявовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">набережная</l></lg><mg><tg xml:lang="myv"><t pos="N">лейчире</t><xg><x>идти по набережной</x><xt>молемс лейчирева</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">набивка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">эцнема, эцема, пештнема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">чавнома</t></tg></mg></e>
@@ -5914,7 +5914,7 @@
 <e><lg><l pos="N" gen="Fem">наблюдательность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">неемачи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">наблюдение</l></lg><mg><tg xml:lang="myv"><t pos="N">ванома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">набойка</l></lg><mg><tg xml:lang="myv"><t pos="N">кочкаряалкс, кшникочкаря</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">набор</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кочкамо, пурнамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>наём рабочих</i>) сиведема, тердема</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>комплект</i>) кочкавкс, пусмо;</t><xg><x>набор слов</x><xt>стяконь валт /чаво валт</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">набор</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кочкамо, пурнамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>наём рабочих</i>) сиведема, тердема</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>комплект</i>) кочкавкс, пусмо</t><xg><x>набор слов</x><xt>стяконь валт /чаво валт</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">наборщик</l></lg><mg><tg xml:lang="myv"><t pos="N">издательствасо пурныця, наборщик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">набросок</l></lg><mg><tg xml:lang="myv"><t pos="N">артовкс, рисовавкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">навар</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">пидевкс, навар</t><xg><x>грибной навар</x><xt>пангонь пидевкс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">куявкс</t><xg><x>уха с наваром</x><xt>куявксов калъям</xt></xg></tg></mg></e>
@@ -6015,7 +6015,7 @@
 <e><lg><l pos="N" gen="Msc">наплыв</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(<i>публики, посетителей и т. п.</i>) само, пурнавомо <i>или</i> <i>переводится выражениями</i> састь ламо, пурнавсть ламо</t><xg><x>наплыв заявлений</x><xt>ламо яволявкст пурнавсть</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">напоминание</l></lg><mg><tg xml:lang="myv"><t pos="N">мельс ледстнема,  мельс ледстема, мельс ледстямо, мельс ледстявкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">напор</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лепштямо, лепштявкс, нежедькс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">направление</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ёнкс</t><xg><x>восточное направление</x><xt>чилисема ёнкс</xt></xg><xg><x>литературные направления</x><xt>литературань ёнкст</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>документ</i>) ильтема конев;</t><xg><x>в этом направлении ничего не сделано</x><xt>тень кувалт мезеяк апак тее</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">направление</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ёнкс</t><xg><x>восточное направление</x><xt>чилисема ёнкс</xt></xg><xg><x>литературные направления</x><xt>литературань ёнкст</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>документ</i>) ильтема конев</t><xg><x>в этом направлении ничего не сделано</x><xt>тень кувалт мезеяк апак тее</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">напряжение</l></lg><mg><arab>1.</arab><field>физ.</field><tg xml:lang="myv"><t pos="N">напряжения</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N"><i>мн. нет</i> (<i>усилие</i>) илык, виень пурнамо, сэставтома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">напуск</l></lg><mg><tg xml:lang="myv"><t pos="N">ланга нолдазь/нолдавт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">напутствие</l></lg><mg><tg xml:lang="myv"><t pos="N">килангов вал / килангонь вал</t></tg></mg></e>
@@ -6079,7 +6079,7 @@
 <e><lg><l hid="Hom1" pos="N" gen="Neu">наступление</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="N">эртевема, эцема, каявома</t><xg><x>перейти в наступление</x><xt>молемс/сыргамс эртевемас</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Neu">наступление</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(<i>начало</i>) ушодома, само <i>или переводится глаголом</i> самс</t><xg><x>с наступлением весны дни стали теплее</x><xt>тундонь самсто читне седе лембелгадсть</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">насыпь</l></lg><mg><tg xml:lang="myv"><t pos="N">модамар, (модасо) валявкс, губорькс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">натиск</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">эцема, эцевкс</t><xg><x>сдерживать натиск противника</x><xt>кирдемс ятонь эцеманть</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">каявома</t><xg><x>натиск воды</x><xt>ведень каявома</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">лепштямо;</t><xg><x>под натиском</x><xt>лепштямонть ало</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">натиск</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">эцема, эцевкс</t><xg><x>сдерживать натиск противника</x><xt>кирдемс ятонь эцеманть</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">каявома</t><xg><x>натиск воды</x><xt>ведень каявома</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">лепштямо</t><xg><x>под натиском</x><xt>лепштямонть ало</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">натрий</l></lg><mg><tg xml:lang="myv"><t pos="N">натрий</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">натурализм</l></lg><mg><tg xml:lang="myv"><t pos="N">натурализма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">натуралист</l></lg><mg><tg xml:lang="myv"><t pos="N">пертьпельксэнь тонавтниця, натуралист</t></tg></mg></e>
@@ -6267,7 +6267,7 @@
 <e><lg><l pos="N" gen="Neu">низовье</l></lg><mg><tg xml:lang="myv"><t pos="N">(леень) прамо тарка</t><xg><x>низовье Волги</x><xt>Равонь прамо тарка</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">никель</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">никель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">нитка</l></lg><mg><tg xml:lang="myv"><t pos="N">суре; &lt;&gt; <b>вытянуть в нитку</b> <range>разг.</range> таргамс сурекс; <b>промокнуть до нитки</b> <range>разг.</range> начкомс суреньпес; <b>шито белыми нитками</b> <range>разг.</range> ашо суресэ стазь</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">нить</l></lg><mg><tg xml:lang="myv"><t pos="N">суре;</t><xg><x>красной нитью</x><xt>якстере сурекс моли/таргавсь</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">нить</l></lg><mg><tg xml:lang="myv"><t pos="N">суре</t><xg><x>красной нитью</x><xt>якстере сурекс моли/таргавсь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ниша</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">стенасо латкине</t></tg></mg><mg><arab>2.</arab><field>спец.</field><tg xml:lang="myv"><t pos="N">модасо латкине</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">нищета</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кажовчи, кажочи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">новатор</l></lg><mg><tg xml:lang="myv"><t pos="N">новатор, од арсемань арсиця-совавтыця</t></tg></mg></e>
@@ -6295,7 +6295,7 @@
 <e><lg><l pos="N" gen="Fem">норма</l></lg><mg><tg xml:lang="myv"><t pos="N">норма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">нормирование</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">нормировамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">норов</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">обуця, кор</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">кеждямо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">нос</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">судо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>у птиц, корябля</i>) нерь;</t><xg><x>остаться с носом</x><xt>манявомс</xt></xg><xg><x>не видеть дальше своего носа</x><xt>эсь судодот васов а неемс</xt></xg><xg><x>поднять нос</x><xt>верьга пря кандомс/ветямс</xt></xg><xg><x>водить за нос</x><xt>судодо ветнемс/усксемс, манчемс</xt></xg><xg><x>повесить нос</x><xt>пря нолдамс</xt></xg><xg><x>из-под носу (взять)</x><xt>судо алдо</xt></xg><xg><x>под носом</x><xt>судо ало</xt></xg><xg><x>говорить под нос</x><xt>моткодемс судо алов</xt></xg><xg><x>не кажет носа</x><xt>а лисни</xt></xg><xg><x>нос сует куда-нибудь</x><xt>судонзо эци ков понгсь</xt></xg><xg><x>на носу</x><xt>судо лангсо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">нос</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">судо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>у птиц, корябля</i>) нерь</t><xg><x>остаться с носом</x><xt>манявомс</xt></xg><xg><x>не видеть дальше своего носа</x><xt>эсь судодот васов а неемс</xt></xg><xg><x>поднять нос</x><xt>верьга пря кандомс/ветямс</xt></xg><xg><x>водить за нос</x><xt>судодо ветнемс/усксемс, манчемс</xt></xg><xg><x>повесить нос</x><xt>пря нолдамс</xt></xg><xg><x>из-под носу (взять)</x><xt>судо алдо</xt></xg><xg><x>под носом</x><xt>судо ало</xt></xg><xg><x>говорить под нос</x><xt>моткодемс судо алов</xt></xg><xg><x>не кажет носа</x><xt>а лисни</xt></xg><xg><x>нос сует куда-нибудь</x><xt>судонзо эци ков понгсь</xt></xg><xg><x>на носу</x><xt>судо лангсо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">носик</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">судыне</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>у птиц</i>) нерне</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">носильщик</l></lg><mg><tg xml:lang="myv"><t pos="N">кандтниця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">носка</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кандтнема</t></tg></mg></e>
@@ -6424,7 +6424,7 @@
 <e><lg><l pos="N" gen="Neu">обоснование</l></lg><mg><tg xml:lang="myv"><t pos="N">кемекстамо, лувонь аравтома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">обострение</l></lg><mg><tg xml:lang="myv"><t pos="N">пштилгадома, обострения</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">обработка</l></lg><mg><tg xml:lang="myv"><t pos="N">обработка, сокамо-изамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">образ</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>облик, вид</i>) чачо, тюс</t></tg></mg><mg><arab>2.</arab><field>лит.</field><tg xml:lang="myv"><t pos="N">(<i>тип, характер</i>) образ</t><xg><x>создать образ Чичикова</x><xt>теемс Чичиковонь образонть</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>икона</i>) пазава;</t><xg><x>главным образом</x><xt>васняяк</xt></xg><xg><x>таким образом</x><xt>истяня</xt></xg><xg><x>по образу и подобию</x><xt>сонзэ чачосо ды понасо, сонзэ ладсо</xt></xg><xg><x>рыцарь печального образа</x><xt>нусманя чачосо рыцаресь</xt></xg><xg><x>ровным образом</x><xt>истя жо, текень ладсо, вейкеть</xt></xg><xg><x>никоим образом</x><xt>кодаяк арась</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">образ</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>облик, вид</i>) чачо, тюс</t></tg></mg><mg><arab>2.</arab><field>лит.</field><tg xml:lang="myv"><t pos="N">(<i>тип, характер</i>) образ</t><xg><x>создать образ Чичикова</x><xt>теемс Чичиковонь образонть</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">(<i>икона</i>) пазава</t><xg><x>главным образом</x><xt>васняяк</xt></xg><xg><x>таким образом</x><xt>истяня</xt></xg><xg><x>по образу и подобию</x><xt>сонзэ чачосо ды понасо, сонзэ ладсо</xt></xg><xg><x>рыцарь печального образа</x><xt>нусманя чачосо рыцаресь</xt></xg><xg><x>ровным образом</x><xt>истя жо, текень ладсо, вейкеть</xt></xg><xg><x>никоим образом</x><xt>кодаяк арась</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">образец</l></lg><mg><tg xml:lang="myv"><t pos="N">невтевкс, невтевксэкс аштиця, образец</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">образина</l></lg><mg><tg xml:lang="myv"><t pos="N">амазый чама</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">образование</l></lg><mg><tg xml:lang="myv"><t pos="N">тонавтома, образования</t></tg></mg></e>
@@ -6456,7 +6456,7 @@
 <e><lg><l pos="N" gen="Neu">обсуждение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кортавтома, обсуждения</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">обтирание</l></lg><mg><tg xml:lang="myv"><t pos="N">нардтнема, ваднемапель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">обточка</l></lg><mg><tg xml:lang="myv"><t pos="N">човамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">обтяжка</l></lg><mg><tg xml:lang="myv"><t pos="N">таргавкс;</t><xg><x>в обтяжку</x><xt>рунгонь коряс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">обтяжка</l></lg><mg><tg xml:lang="myv"><t pos="N">таргавкс</t><xg><x>в обтяжку</x><xt>рунгонь коряс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">обувка</l></lg><mg><tg xml:lang="myv"><t pos="N">карсемапель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">обувь</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">карсемапель, карть-пракстат, цюлкат-котат</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">обуза</l></lg><mg><tg xml:lang="myv"><t pos="N">мелявкс, прябезарькс</t></tg></mg></e>
@@ -6528,7 +6528,7 @@
 <e><lg><l pos="N" gen="Neu">одеяние</l></lg><mg><tg xml:lang="myv"><t pos="N">оршамопель, сэрьсэ пурнавт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">один</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>числ.</i> 1. вейке, ве</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>в одиночестве</i>) ськамонзо; &lt;&gt; <b>один на один</b> ськамонзо; <b>все как один</b> весе вейкекс; <b>один-единственный</b> ськамонзо вейкесь; <b>одним словом</b> вевалсо мерезь; <b>в один прекрасный день</b> вепаро шкасто; <b>один раз</b> веенькирда; <b>заодно</b> <pos>нареч.</pos> велангс</t><xg><x>один за другим</x><xt>кавто-пецек</xt></xg><xg><x>по одному</x><xt>вейке-вейке мельга, вейкень-вейкень, вейте-вейте</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">одиночество</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">ськамочи</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">одиночка</l></lg><mg><tg xml:lang="myv"><t pos="N">и <gen>ж.</gen>; <range>разг.</range> ськамонзо;</t><xg><x>по одиночке</x><xt>вейке-вейке, вейкень-вейкень, вейте-вейте</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">одиночка</l></lg><mg><tg xml:lang="myv"><t pos="N">и <gen>ж.</gen>; <range>разг.</range> ськамонзо</t><xg><x>по одиночке</x><xt>вейке-вейке, вейкень-вейкень, вейте-вейте</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">одичание</l></lg><mg><tg xml:lang="myv"><t pos="N">идемгадома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">одна</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>числ. см.</i> <b>один</b></t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">одно</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>числ. см.</i> <b>один</b></t></tg></mg></e>
@@ -6631,7 +6631,7 @@
 <e><lg><l pos="N" gen="Fem">опаска</l><morphNote>мн. нет</morphNote></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">пелема</t><xg><x>идти с опаской</x><xt>пелезь молемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">опасность</l></lg><mg><tg xml:lang="myv"><t pos="N">пелемачи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">опахивание</l></lg><mg><tg xml:lang="myv"><t pos="N">сокамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">опека</l></lg><mg><tg xml:lang="myv"><t pos="N">опека;</t><xg><x>взять под свою опеку</x><xt>саемс эсь кедь алов</xt></xg><xg><x>выйти из-под опеки</x><xt>лисемс кедь алдо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">опека</l></lg><mg><tg xml:lang="myv"><t pos="N">опека</t><xg><x>взять под свою опеку</x><xt>саемс эсь кедь алов</xt></xg><xg><x>выйти из-под опеки</x><xt>лисемс кедь алдо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">опекун</l></lg><mg><tg xml:lang="myv"><t pos="N">лездыця, опекун</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">опёнок</l></lg><mg><tg xml:lang="myv"><t pos="N">опёнка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">опера</l></lg><mg><tg xml:lang="myv"><t pos="N">театр, опера</t></tg></mg></e>
@@ -6731,7 +6731,7 @@
 <e><lg><l pos="N" gen="Msc">осмотр</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">ваннома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">оснастка</l></lg><mg><tg xml:lang="myv"><t pos="N">топавтовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">оснащение</l></lg><mg><tg xml:lang="myv"><t pos="N">кемекстамо, топавтома</t><xg><x>оснащение техникой</x><xt>кемекстазь/топавтозь техникасо</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">основа</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">основа, лув, тарка, юр</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>в ткацком деле</i>) лийма;</t><xg><x>лежать в основе чего-л</x><xt>. аштемс юрокс мезненьгак</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">основа</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">основа, лув, тарка, юр</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>в ткацком деле</i>) лийма</t><xg><x>лежать в основе чего-л</x><xt>. аштемс юрокс мезненьгак</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">основание</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>фундамент</i>) юр; <b>основание пальца</b> суронь юр / сурюр; <b>основание косы</b> (<i>девичьей</i>) пулоюр</t><xg><x>основание дома</x><xt>кудоюр</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>довод</i>) тувтал</t><xg><x>на основании</x><xt>тувталонь коряс</xt></xg><xg><x>нет оснований</x><xt>арась тувтал;</xt></xg><xg><x>до основания</x><xt>педе-пес</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">основатель</l></lg><mg><tg xml:lang="myv"><t pos="N">путыця, теиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">основоположник</l></lg><mg><tg xml:lang="myv"><t pos="N">путыця, лувонь путыця, основоположник</t></tg></mg></e>
@@ -6777,11 +6777,11 @@
 <e><lg><l pos="N" gen="Neu">отверстие</l></lg><mg><tg xml:lang="myv"><t pos="N">варя</t><xg><x>отверстие сусика</x><xt>сусиккурго</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">отвёртка</l></lg><mg><tg xml:lang="myv"><t pos="N">пурдамопель, отвёртка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">отвес</l></lg><mg><tg xml:lang="myv"><t pos="N">отвес, сталмо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">ответ</l></lg><mg><tg xml:lang="myv"><t pos="N">ответ, пшкадема, каршо вал;</t><xg><x>быть в ответе</x><xt>кирдемс ответ, улемс ответсэ</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">ответ</l></lg><mg><tg xml:lang="myv"><t pos="N">ответ, пшкадема, каршо вал</t><xg><x>быть в ответе</x><xt>кирдемс ответ, улемс ответсэ</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">ответвление</l></lg><mg><tg xml:lang="myv"><t pos="N">тарад, явовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ответчик</l></lg><mg><tg xml:lang="myv"><t pos="N">каршо валонь ёвтыця, отвечиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">отвлечение</l></lg><mg><tg xml:lang="myv"><t pos="N">тевстэ явома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">отвод</l></lg><mg><tg xml:lang="myv"><t pos="N">ветямо;</t><xg><x>для отвода глаз</x><xt>сельмень велявтомакс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">отвод</l></lg><mg><tg xml:lang="myv"><t pos="N">ветямо</t><xg><x>для отвода глаз</x><xt>сельмень велявтомакс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">отворот</l></lg><mg><tg xml:lang="myv"><t pos="N">пурдавкс, илештявкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">отвращение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">нулгодема, нильтякадома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">отгадка</l></lg><mg><tg xml:lang="myv"><t pos="N">содамо, чарькодема</t></tg></mg></e>
@@ -6939,7 +6939,7 @@
 <e><lg><l pos="N" gen="Fem">пальма</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">пальма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пальто</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>нескл., мн. нет</i> пальто</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">памятник</l></lg><mg><tg xml:lang="myv"><t pos="N">памятник</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">память</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">память, мель ёжо; <b>подарить на память</b> ледстнемакс каземс; (<i>в память</i> <i>чего-л.</i>) ледстнемань кувалт, ледстнемга;</t><xg><x>читать на память</x><xt>книгавтомо ловномс</xt></xg><xg><x>по старой памяти</x><xt>ледстнемга</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">память</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">память, мель ёжо; <b>подарить на память</b> ледстнемакс каземс; (<i>в память</i> <i>чего-л.</i>) ледстнемань кувалт, ледстнемга</t><xg><x>читать на память</x><xt>книгавтомо ловномс</xt></xg><xg><x>по старой памяти</x><xt>ледстнемга</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">паника</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">пек тандадома</t><xg><x>впасть в панику</x><xt>пек тандадомс; тарнома</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">паникёр</l></lg><mg><tg xml:lang="myv"><t pos="N">пелиця, тандадыця, тарныця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">панорама</l></lg><mg><tg xml:lang="myv"><t pos="N">вановт, васов неявома</t></tg></mg></e>
@@ -7073,14 +7073,14 @@
 <e><lg><l pos="N" gen="Fem">передача</l></lg><mg><tg xml:lang="myv"><t pos="N">максома, ёвтамо, пачтямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">передвижение</l></lg><mg><tg xml:lang="myv"><t pos="N">якамо-пакамо, шаштнема, шаштневема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">передвижка</l></lg><mg><tg xml:lang="myv"><t pos="N">якамо-пакамо, шаштневкс, аравтовкс, шаштнема, аравтнема</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">переделка</l></lg><mg><tg xml:lang="myv"><t pos="N">лиякс/одс теема, лия превень-мелень путома;</t><xg><x>попасть в переделку</x><xt>стака тевс понгомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">переделка</l></lg><mg><tg xml:lang="myv"><t pos="N">лиякс/одс теема, лия превень-мелень путома</t><xg><x>попасть в переделку</x><xt>стака тевс понгомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">передержка</l></lg><mg><tg xml:lang="myv"><t pos="N">куватьс кирдема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">передник</l></lg><mg><tg xml:lang="myv"><t pos="N">икельга паця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">передовик</l></lg><mg><tg xml:lang="myv"><t pos="N">икеле молиця/ютыця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">передовица</l></lg><mg><tg xml:lang="myv"><t pos="N">прявкс сёрмадовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">передышка</l></lg><mg><tg xml:lang="myv"><t pos="N">оймень таргамо, оймсема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">перед</l></lg><mg><tg xml:lang="myv"><t pos="N">икелькс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">переезд</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>действие</i>) печтема, печкема, ютамо, лия таркас туема;</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>место</i>) печтема тарка, печкема тарка, ютамо тарка</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">переезд</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>действие</i>) печтема, печкема, ютамо, лия таркас туема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>место</i>) печтема тарка, печкема тарка, ютамо тарка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">переживание</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>радостное</i>) кенярдома; (<i>неприятное, тяжелое</i>) седеень ризнэма, прява печтема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">пережиток</l></lg><mg><tg xml:lang="myv"><t pos="N">кадовкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">перезвон</l></lg><mg><tg xml:lang="myv"><t pos="N">гайгема</t></tg></mg></e>
@@ -7092,13 +7092,13 @@
 <e><lg><l pos="N" gen="Fem">перекись</l></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">перекись</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">перекладина</l></lg><mg><tg xml:lang="myv"><t pos="N">пайме</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">перекличка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>проверка присутствующих</i>) лемень сеерема; лемень кундсема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>друг с другом</i>) (<i>на далёком расстоянии</i>) сеерема, вайгелень максома  (<i>на близком расстоянии</i>)  валсо кайсетема</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">перекрёсток</l></lg><mg><tg xml:lang="myv"><t pos="N">киуло;</t><xg><x>на всех перекрёстках</x><xt>эрьва киулосо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">перекрёсток</l></lg><mg><tg xml:lang="myv"><t pos="N">киуло</t><xg><x>на всех перекрёстках</x><xt>эрьва киулосо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">перекрытие</l></lg><mg><tg xml:lang="myv"><t pos="N">строит, одс вельтямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">перелесок</l></lg><mg><tg xml:lang="myv"><t pos="N">вирьколка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">перелёт</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">ливтямо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>снаряда и т. п.</i>) велькска ливтямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">переливание</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">валома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>крови</i>) верень максома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">перелом</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>действие</i>) сивема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>место</i>) сивема тарка, сивевкс;</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">тевень лиялгадома, тевень пурдавкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">перемена</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">полавтома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>перерыв между уроками</i>) ютко, оймсема шка;</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">перелом</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>действие</i>) сивема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>место</i>) сивема тарка, сивевкс</t></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">тевень лиялгадома, тевень пурдавкс</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">перемена</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">полавтома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>перерыв между уроками</i>) ютко, оймсема шка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">перемещение</l></lg><mg><tg xml:lang="myv"><t pos="N">лия таркас аравтома/арамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">перемирие</l></lg><mg><tg xml:lang="myv"><t pos="N">шкас мирямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">перенос</l></lg><mg><tg xml:lang="myv"><t pos="N">кандома, кандовкс</t></tg></mg></e>
@@ -7110,7 +7110,7 @@
 <e><lg><l pos="N" gen="Fem">переписка</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>с кем-л.</i>) сёрмалема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>чего-л.</i>) сёрмалема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">переписывание</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">сёрмалема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">перепись</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмалема, сёрмадстомс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">переплёт</l></lg><mg><tg xml:lang="myv"><t pos="N">переплёт;</t><xg><x>попасть в переплёт</x><xt>минес-сюнос понгонемс, кальдявомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">переплёт</l></lg><mg><tg xml:lang="myv"><t pos="N">переплёт</t><xg><x>попасть в переплёт</x><xt>минес-сюнос понгонемс, кальдявомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">переплётчик</l></lg><mg><tg xml:lang="myv"><t pos="N">переплётчик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">переподготовка</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">одс тонавтома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">переполох</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">шалт, лажнома</t></tg></mg></e>
@@ -7275,7 +7275,7 @@
 <e><lg><l pos="N" gen="Fem">плетёнка</l></lg><mg><tg xml:lang="myv"><t pos="N">кодавкс, плетюшка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">плеть</l></lg><mg><tg xml:lang="myv"><t pos="N">локшо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">плечико</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>уменьш.-ласк.</i> лавтовне</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">плечо</l></lg><mg><tg xml:lang="myv"><t pos="N">лавтов;</t><xg><x>это дело мне не по плечу</x><xt>те тевесь аволь монь вийга</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">плечо</l></lg><mg><tg xml:lang="myv"><t pos="N">лавтов</t><xg><x>это дело мне не по плечу</x><xt>те тевесь аволь монь вийга</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">плешь</l></lg><mg><tg xml:lang="myv"><t pos="N">штапо коня, лысой тарка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">плёнка</l></lg><mg><tg xml:lang="myv"><t pos="N">келькш</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">плита</l></lg><mg><tg xml:lang="myv"><t pos="N">плита<b>; каменная плита</b> кевень плита</t></tg></mg></e>
@@ -7462,7 +7462,7 @@
 <e><lg><l pos="N" gen="Msc">поединок</l></lg><mg><tg xml:lang="myv"><t pos="N">бороцямо, вейке-вейке марто бороцямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">поезд</l></lg><mg><tg xml:lang="myv"><t pos="N">поезд</t><xg><x>скорый поезд</x><xt>куроксто ардыця/молиця поезд</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">поездка</l></lg><mg><tg xml:lang="myv"><t pos="N">туема, молема, якамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">пожар</l></lg><mg><tg xml:lang="myv"><t pos="N">пожар, палома;</t><xg><x>как на пожар</x><xt>прок пожарс, теке кудозо палы</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">пожар</l></lg><mg><tg xml:lang="myv"><t pos="N">пожар, палома</t><xg><x>как на пожар</x><xt>прок пожарс, теке кудозо палы</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пожарище</l></lg><mg><tg xml:lang="myv"><t pos="N">палома тарка, палозь</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пожелание</l></lg><mg><tg xml:lang="myv"><t pos="N">арсема, бажамо</t><xg><x>пожелание счастья</x><xt>паронь арсема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пожертвование</l></lg><mg><tg xml:lang="myv"><t pos="N">жертвовамо</t></tg></mg></e>
@@ -7507,7 +7507,7 @@
 <e><lg><l hid="Hom2" pos="N" gen="Msc">пол</l></lg><mg><field>биол.</field><tg xml:lang="myv"><t pos="N">пол, сыме</t><xg><x>женский пол</x><xt>ава сымень, авака</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">полба</l></lg><mg><tg xml:lang="myv"><t pos="N">виш</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">полдень</l></lg><mg><tg xml:lang="myv"><t pos="N">пельчи, обедшка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">поле</l></lg><mg><tg xml:lang="myv"><t pos="N">пакся;</t><xg><x>поле брани</x><xt>тюрема тарка, тортинге</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">поле</l></lg><mg><tg xml:lang="myv"><t pos="N">пакся</t><xg><x>поле брани</x><xt>тюрема тарка, тортинге</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">полеводство</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">полеводства</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">полезность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лезэчи, лезксчи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">полемика</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">пелькстамо</t></tg></mg></e>
@@ -7572,7 +7572,7 @@
 <e><lg><l pos="N" gen="Neu">полушарие</l></lg><mg><tg xml:lang="myv"><t pos="N">полушария</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">полушубок</l></lg><mg><tg xml:lang="myv"><t pos="N">нурька шуба</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">полынь</l><morphNote>мн. нет</morphNote></lg><mg><field>бот.</field><tg xml:lang="myv"><t pos="N">нартемкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">польза</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лезэ;</t><xg><x>говорить в пользу кого-л.</x><xt>киньгак лезэс кортамс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">польза</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лезэ</t><xg><x>говорить в пользу кого-л.</x><xt>киньгак лезэс кортамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пользование</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">тевс нолдамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">лезэнь максома, лезэнь саема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">пользователь</l></lg><mg><tg xml:lang="myv"><t pos="N">тевс нолдыця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">полюс</l></lg><mg><tg xml:lang="myv"><t pos="N">полюс</t></tg></mg></e>
@@ -7621,7 +7621,7 @@
 <e><lg><l pos="N" gen="Neu">поражение</l></lg><mg><tg xml:lang="myv"><t pos="N">изнямо, маштома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">порез</l></lg><mg><tg xml:lang="myv"><t pos="N">керявкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">порицание</l></lg><mg><tg xml:lang="myv"><t pos="N">корямо, визделгавтнема, сёвнома, мурнема</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">порог</l></lg><mg><tg xml:lang="myv"><t pos="N">поровт;</t><xg><x>за порог (из дому)</x><xt>кенкш удалов</xt></xg><xg><x>на порог не пускают</x><xt>кенкш лангс а нолдыть</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">порог</l></lg><mg><tg xml:lang="myv"><t pos="N">поровт</t><xg><x>за порог (из дому)</x><xt>кенкш удалов</xt></xg><xg><x>на порог не пускают</x><xt>кенкш лангс а нолдыть</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">порода</l></lg><mg><tg xml:lang="myv"><t pos="N">порода, плема, сыме</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">порок</l></lg><mg><tg xml:lang="myv"><t pos="N">асатыкс, пежетькс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">поросёнок</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>мн. поросята</i>) туволевкс, пурцуз</t></tg></mg></e>
@@ -7734,7 +7734,7 @@
 <e><lg><l pos="N" gen="Fem">поэма</l></lg><mg><tg xml:lang="myv"><t pos="N">моро, поэма</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">поэт</l></lg><mg><tg xml:lang="myv"><t pos="N">морыця, поэт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">появление</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь невтема, лисема, появамо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">пояс</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">каркс</t></tg></mg><mg><arab>2.</arab><field>геогр.</field><tg xml:lang="myv"><t pos="N">пояс;</t><xg><x>спасательный пояс</x><xt>идемакаркс</xt></xg><xg><x>кланяться в пояс</x><xt>карксамос соконякшномс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">пояс</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">каркс</t></tg></mg><mg><arab>2.</arab><field>геогр.</field><tg xml:lang="myv"><t pos="N">пояс</t><xg><x>спасательный пояс</x><xt>идемакаркс</xt></xg><xg><x>кланяться в пояс</x><xt>карксамос соконякшномс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пояснение</l></lg><mg><tg xml:lang="myv"><t pos="N">чарькодевтема, чарькодстема</t><xg><x>сделать пояснения</x><xt>максомс чарькодстемат, чарькодевтема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">поясница</l></lg><mg><tg xml:lang="myv"><t pos="N">карксамо, карксэзем</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">правда</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алкуксчи, видечи</t></tg></mg></e>
@@ -7917,7 +7917,7 @@
 <e><lg><l pos="N" gen="Fem">пристань</l></lg><mg><tg xml:lang="myv"><t pos="N">пристань</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">пристрастие</l></lg><mg><tg xml:lang="myv"><t pos="N">покш мель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">пристройка</l></lg><mg><tg xml:lang="myv"><t pos="N">пристройка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">приступ</l></lg><mg><tg xml:lang="myv"><t pos="N">куродома;</t><xg><x>приступу нет (к кому)</x><xt>малазонзо а молеват</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">приступ</l></lg><mg><tg xml:lang="myv"><t pos="N">куродома</t><xg><x>приступу нет (к кому)</x><xt>малазонзо а молеват</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">присутствие</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">улема, аштема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">присяга</l></lg><mg><tg xml:lang="myv"><t pos="N">присяга, нежедема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">притворство</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">манчема, пря невтема</t></tg></mg></e>
@@ -7948,7 +7948,7 @@
 <e><lg><l pos="N" gen="Fem">пробирка</l></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">пробирка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">пробка</l></lg><mg><tg xml:lang="myv"><t pos="N">потомкс, туло</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">проблема</l></lg><mg><tg xml:lang="myv"><t pos="N">зыян, кажо</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">проблеск</l></lg><mg><tg xml:lang="myv"><t pos="N">валдо ян, цитнема;</t><xg><x>проблеск сознания</x><xt>превс само</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">проблеск</l></lg><mg><tg xml:lang="myv"><t pos="N">валдо ян, цитнема</t><xg><x>проблеск сознания</x><xt>превс само</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">пробоина</l></lg><mg><tg xml:lang="myv"><t pos="N">варя</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">пробой</l></lg><mg><tg xml:lang="myv"><t pos="N">варя</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">пробор</l></lg><mg><tg xml:lang="myv"><t pos="N">явкс, касмоявкс, касом, явовкс</t></tg></mg></e>
@@ -8005,7 +8005,7 @@
 <e><lg><l pos="N" gen="Neu">произношение</l></lg><mg><tg xml:lang="myv"><t pos="N">мерема, ёвтамо</t><xg><x>произношение слова</x><xt>валонть меремазо, ёвтамозо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">происхождение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">чачома, лисема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">происшествие</l></lg><mg><tg xml:lang="myv"><t pos="N">тамаша, тевлисема</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">прок</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лезэ;</t><xg><x>запасать в прок</x><xt>анокстамс лезэс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">прок</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">лезэ</t><xg><x>запасать в прок</x><xt>анокстамс лезэс</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Fem">проказа</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>шалость</i>) минень-сюнонь тейниця, эльняка</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Fem">проказа</l><morphNote>мн. нет</morphNote></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">проказа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">проказник</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>шалун</i>) эльниця, кольниця</t></tg></mg></e>
@@ -8160,7 +8160,7 @@
 <e><lg><l pos="N" gen="Fem">путёвка</l></lg><mg><tg xml:lang="myv"><t pos="N">путёвка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">путина</l></lg><mg><tg xml:lang="myv"><t pos="N">калонь кундамоланго</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">путник</l></lg><mg><tg xml:lang="myv"><t pos="N">якиця, васолдо сыця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">путь</l></lg><mg><tg xml:lang="myv"><t pos="N">ки;</t><xg><x>Млечный путь</x><xt>Каргонь ки</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">путь</l></lg><mg><tg xml:lang="myv"><t pos="N">ки</t><xg><x>Млечный путь</x><xt>Каргонь ки</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">пух</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">пух</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">пучина</l></lg><mg><tg xml:lang="myv"><t pos="N">ведьвелявкс, ведень чарамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">пучок</l></lg><mg><tg xml:lang="myv"><t pos="N">керьмине, пусмо</t></tg></mg></e>
@@ -8248,7 +8248,7 @@
 <e><lg><l pos="N" gen="Fem">разгадка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">содамо, чарькодекшнема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ответ</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">разгар</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">пси шка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">разгильдяй</l></lg><mg><tg xml:lang="myv"><t pos="N">варакань кундси</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">разговор</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>результат</i>) кортамо, (<i>действие</i>) кортнема; <b>завязать разговор</b> ушодомс кортамо/кортнема<i>;</i> <b>идут разговоры</b> молить кортамот;</t><xg><x>без лишних разговоров</x><xt>ламо кортамовтомо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">разговор</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>результат</i>) кортамо, (<i>действие</i>) кортнема; <b>завязать разговор</b> ушодомс кортамо/кортнема<i>;</i> <b>идут разговоры</b> молить кортамот</t><xg><x>без лишних разговоров</x><xt>ламо кортамовтомо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">разговорник</l></lg><mg><tg xml:lang="myv"><t pos="N">кортамо лезкс</t><xg><x>русско-эрзянский разговорник</x><xt>рузонь-эрзянь кортамо лезкс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">разгон</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">пансема</t><xg><x>разгон демонстрации</x><xt>демонстрациянь пансема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>о скорости</i>) разгон, кепетема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">разграбление</l></lg><mg><tg xml:lang="myv"><t pos="N">саламо</t></tg></mg></e>
@@ -8307,7 +8307,7 @@
 <e><lg><l pos="N" gen="Neu">разрушение</l></lg><mg><tg xml:lang="myv"><t pos="N">1 калавтома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>о здоровье</i>) ёмавтома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">разрыв</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>и</i> <sense>в разн. знач.</sense> сезема, сезевема, сезевкс</t><xg><x>место разрыва</x><xt>сезема тарка</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">разряд</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">разряд</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">сыме</t><xg><x>разряд людей</x><xt>ломань сыме</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">кужо</t><xg><x>гостиница первого разряда</x><xt>васенце кужонь инжекудо</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">разум</l></lg><mg><tg xml:lang="myv"><t pos="N">превть;</t><xg><x>потерять разум</x><xt>превстэ лисемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">разум</l></lg><mg><tg xml:lang="myv"><t pos="N">превть</t><xg><x>потерять разум</x><xt>превстэ лисемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">разучивание</l></lg><mg><tg xml:lang="myv"><t pos="N">тонавтнема</t><xg><x> разучивание песни</x><xt>моронь тонавтнема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">разъяснение</l></lg><mg><tg xml:lang="myv"><t pos="N">чарькодевтема, толковамо</t><xg><x>официальное разъяснение</x><xt>официальной толковамо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">разыскание</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">вешнема-муема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">наукань тев</t></tg></mg></e>
@@ -8355,7 +8355,7 @@
 <e><lg><l pos="N" gen="Fem">распорка</l></lg><mg><tg xml:lang="myv"><t pos="N">чувтопене, нежедемапель</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">распорядитель</l></lg><mg><tg xml:lang="myv"><t pos="N">тевмаксыця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">распорядок</l></lg><mg><tg xml:lang="myv"><t pos="N">чинь лув, тевень аравтома, распорядка</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">распоряжение</l></lg><mg><tg xml:lang="myv"><t pos="N">тевень максома, распоряжения;</t><xg><x>быть в распоряжении кого-л</x><xt>. киньгак кедь ало улемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">распоряжение</l></lg><mg><tg xml:lang="myv"><t pos="N">тевень максома, распоряжения</t><xg><x>быть в распоряжении кого-л</x><xt>. киньгак кедь ало улемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">расправа</l></lg><mg><tg xml:lang="myv"><t pos="N">расправа</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">распределение</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">аравтнема, явшема</t><xg><x>распределение работы</x><xt>тевень явшема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>на работу</i>) кучома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">распределитель</l></lg><mg><tg xml:lang="myv"><t pos="N">явшиця</t></tg></mg></e>
@@ -8435,8 +8435,8 @@
 <e><lg><l pos="N" gen="Fem">реальность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">алкуксчи</t><xg><x>объективная реальность</x><xt>алкуксчи</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">реанимация</l></lg><mg><tg xml:lang="myv"><t pos="N">вельмевтема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ребёнок</l></lg><mg><tg xml:lang="myv"><t pos="N">эйкакш, эйде, пакша, тяка, жаба</t><xg><x>ребенок, похожий на мать</x><xt>авака левкс</xt></xg><xg><x>ребенок, похожий на отца</x><xt>тетяка левкс</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">ребро</l></lg><mg><tg xml:lang="myv"><t pos="N">ирдез, ирдекс;</t><xg><x>поставить вопрос ребром</x><xt>витьстэ кевкстемс, витьстэ аравтомс кевкстеманть</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">ребячество</l></lg><mg><range>устар.</range><tg xml:lang="myv"><t pos="N">1. (<i>детство</i>) эйкакшпора;</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">эйкакшчи</t></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">ребро</l></lg><mg><tg xml:lang="myv"><t pos="N">ирдез, ирдекс</t><xg><x>поставить вопрос ребром</x><xt>витьстэ кевкстемс, витьстэ аравтомс кевкстеманть</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">ребячество</l></lg><mg><range>устар.</range><tg xml:lang="myv"><t pos="N">1. (<i>детство</i>) эйкакшпора</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">эйкакшчи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">рёв</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>коровы</i>) парамо; (<i>медведя</i>) урномо</t></tg></mg><mg><arab>2.</arab><range>разг.</range><tg xml:lang="myv"><t pos="N">(<i>плач</i>) рангома, парамо, лажамо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ревень</l></lg><mg><tg xml:lang="myv"><t pos="N">ревень</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ревизия</l></lg><mg><tg xml:lang="myv"><t pos="N">ревизия, ловнома-ванома</t><xg><x>провести ревизию</x><xt>теемс/ютавтомс ловнома-ванома</xt></xg></tg></mg></e>
@@ -8526,7 +8526,7 @@
 <e><lg><l pos="N" gen="Msc">рефлектор</l></lg><mg><tg xml:lang="myv"><t pos="N">рефлектор</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">реформа</l></lg><mg><tg xml:lang="myv"><t pos="N">полавтома, полавтомат, реформа</t><xg><x>денежная реформа</x><xt>ярмаконь полавтома</xt></xg><xg><x>школьная реформа</x><xt>школасо/школань полавтомат</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">реформатор</l></lg><mg><tg xml:lang="myv"><t pos="N">реформань теиця; <range>разг.</range> полавтомань теиця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">рецензент</l></lg><mg><tg xml:lang="myv"><t pos="N">рецензент, питнень максыця/путыця;</t></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">рецензент</l></lg><mg><tg xml:lang="myv"><t pos="N">рецензент, питнень максыця/путыця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">рецензия</l></lg><mg><tg xml:lang="myv"><t pos="N">питнень максома вал</t><xg><x>положительная рецензия</x><xt>паро питнень максома вал</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">рецепт</l></lg><mg><tg xml:lang="myv"><t pos="N">рецепт</t><xg><x>выписать рецепт</x><xt>рецепт сёрмадомс</xt></xg><xg><x>купить по рецепту</x><xt>рамамс рецептэнь коряс</xt></xg><xg><x>кулинарный рецепт</x><xt>пидемань рецепт</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">речка</l></lg><mg><tg xml:lang="myv"><t pos="N">лейне</t><xg><x>небольшая речка</x><xt>вишкине лейне</xt></xg></tg></mg></e>
@@ -8574,7 +8574,7 @@
 <e><lg><l pos="N" gen="Neu">рождество</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>с прописной буквы</i>) Роштова</t><xg><x>на Рождество</x><xt>Роштовасто</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">роженица</l></lg><mg><tg xml:lang="myv"><t pos="N">чачтыця ава</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">рожок</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>маленький рог</i>) 1. сюрыне, торама</t><xg><x>играть на рожке</x><xt>сюрынесэ/торамасо седямс/вешкамс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">кшисюрыне</t><xg><x>испечь рожок</x><xt>кшисюрынеть панемс</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">лапшат</t><xg><x>купить рожки</x><xt>рамамс лапшат</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">рожон</l></lg><mg><range>устар.</range><tg xml:lang="myv"><t pos="N">колия, цётмар, пезэмкс;</t><xg><x>лезть на рожон</x><xt>апак арсе молемс каршо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">рожон</l></lg><mg><range>устар.</range><tg xml:lang="myv"><t pos="N">колия, цётмар, пезэмкс</t><xg><x>лезть на рожон</x><xt>апак арсе молемс каршо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">рожь</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">розь</t><xg><x>ржаное поле</x><xt>розьпакся</xt></xg><xg><x>семенная рожь</x><xt>розьвидьметь</xt></xg><xg><x>ржаной хлеб</x><xt>рошксе</xt></xg><xg><x>колос ржи</x><xt>розьпря</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">роза</l></lg><mg><tg xml:lang="myv"><t pos="N">роза; <b>дикая роза</b> <range>разг.</range> овтоумарь</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">розга</l></lg><mg><tg xml:lang="myv"><t pos="N">ёло, илев/илей, тарадке</t><xg><x>высечь розгами</x><xt>илейсэ чавомс</xt></xg></tg></mg></e>
@@ -8643,7 +8643,7 @@
 <e><lg><l pos="N" gen="Msc">рупор</l></lg><mg><tg xml:lang="myv"><t pos="N">рупор, вайгелень виевгавтыця</t><xg><x>говорить в рупор</x><xt>кортамс вайгелень виевгавтыця вельде</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">русак</l></lg><mg><tg xml:lang="myv"><t pos="N">нумоло</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">русалка</l></lg><mg><tg xml:lang="myv"><t pos="N">наяда,  ведьава</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">русло</l></lg><mg><tg xml:lang="myv"><t pos="N">леень чудема тарка;</t><xg><x>войти в русло</x><sense>перен.</sense><xt>совамс тевенть молевксэнтень</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">русло</l></lg><mg><tg xml:lang="myv"><t pos="N">леень чудема тарка</t><xg><x>войти в русло</x><sense>перен.</sense><xt>совамс тевенть молевксэнтень</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">рутина</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">рутина</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">ручательство</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">валкаямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ручей</l></lg><mg><tg xml:lang="myv"><t pos="N">чудерькс, чудикерькс, чудикикс</t></tg></mg></e>
@@ -8760,7 +8760,7 @@
 <e><lg><l pos="N" gen="Fem">сбивчивость</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">тапавкшномачи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">сближение</l></lg><mg><tg xml:lang="myv"><t pos="N">малавгавтома, малавиксстэ арамо, васодема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сбой</l></lg><mg><tg xml:lang="myv"><t pos="N">яжамо, яжавома, тапавома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">сбор</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>фруктов, хлебов и т. п.</i>) пурнамо, кочкамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">промома, промкс, пуромкс;</t></tg></mg><mg><arab>3.</arab><field>воен.</field><tg xml:lang="myv"><t pos="N">(<i>кого-л.</i>) пурнамо-сэрнямо, пурнавома, промома</t></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="N">анокстамо, пурнамо-сэрнямо</t><xg><x>сборы в дорогу</x><xt>ки лангс анокстамот</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">сбор</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>фруктов, хлебов и т. п.</i>) пурнамо, кочкамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">промома, промкс, пуромкс</t></tg></mg><mg><arab>3.</arab><field>воен.</field><tg xml:lang="myv"><t pos="N">(<i>кого-л.</i>) пурнамо-сэрнямо, пурнавома, промома</t></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t pos="N">анокстамо, пурнамо-сэрнямо</t><xg><x>сборы в дорогу</x><xt>ки лангс анокстамот</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">сборка</l><morphNote>мн. нет</morphNote></lg><mg><field>тех.</field><tg xml:lang="myv"><t pos="N">пурнамо, пурнамо-сэрнямо</t><xg><x>сборка машины</x><xt>машинань пурнамо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">сборка</l><morphNote><morphNote>мн.</morphNote> <b>сборки</b></morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(<i>на платье и т. п.</i>) сормавкст, менчевкс</t><xg><x>платье в сборку</x><xt>сормавкс марто паля/платия</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сборник</l></lg><mg><tg xml:lang="myv"><t pos="N">пурнавкс, пусмо</t><xg><x>сборник загадок на эрзянском языке</x><xt>эрзянь кельсэ содамоёвксонь пусмо</xt></xg></tg></mg></e>
@@ -8789,7 +8789,7 @@
 <e><lg><l pos="N" gen="Neu">свёртывание</l></lg><mg><tg xml:lang="myv"><t pos="N">тапардамо, тапарямо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сверстник</l></lg><mg><tg xml:lang="myv"><t pos="N">кирдаж, вешкань, веиень</t><xg><x>мы с ним сверстники</x><xt>минь мартонзо кирдажт</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сверчок</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">цирькун</t></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Msc">свет</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">валдо, валдочи; <b>дневной свет</b> чи валдо; <b>лунный свет</b> ков валдо; <b>электрический свет</b> электричествань валдо; <b>светло-зелёный</b> валдо-пиже; <b>подойти ближе к свету</b> молемс малав валдонтень; <b>бросить свет</b> (<i>на что-л.</i>) валдосто невтемс; <b>невзвидеть света</b> (<i>напр. от боли</i>) чи валдо а неемс</t><xg><x>ни свет ни заря</x><xt>чоподава/ранаяк/пек рана</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">тол, толвалдо</t><xg><x>зажечь свет</x><xt>кирвазтемс валдо; 3 вановт</xt></xg><xg><x>солнечный свет</x><xt>чинь вановт</xt></xg></tg></mg><mg><arab>4.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">(<i>знание</i>)  валдочи;</t><xg><x>ученье – свет, а неученье тьма</x><xt>тонавтнемась – валдочи, а тонавтнемась – чопода ве</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Msc">свет</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">валдо, валдочи; <b>дневной свет</b> чи валдо; <b>лунный свет</b> ков валдо; <b>электрический свет</b> электричествань валдо; <b>светло-зелёный</b> валдо-пиже; <b>подойти ближе к свету</b> молемс малав валдонтень; <b>бросить свет</b> (<i>на что-л.</i>) валдосто невтемс; <b>невзвидеть света</b> (<i>напр. от боли</i>) чи валдо а неемс</t><xg><x>ни свет ни заря</x><xt>чоподава/ранаяк/пек рана</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">тол, толвалдо</t><xg><x>зажечь свет</x><xt>кирвазтемс валдо; 3 вановт</xt></xg><xg><x>солнечный свет</x><xt>чинь вановт</xt></xg></tg></mg><mg><arab>4.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">(<i>знание</i>)  валдочи</t><xg><x>ученье – свет, а неученье тьма</x><xt>тонавтнемась – валдочи, а тонавтнемась – чопода ве</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">свет</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">(<i>мир</i>) 1. мастор, масторланго, модамастор, менель-мастор</t><xg><x>страны света</x><xt>масторонь пелькст</xt></xg><xg><x>выпустить в свет</x><xt>масторс нолдамс</xt></xg><xg><x>произвести на свет</x><xt>мастор лангс чачтомс</xt></xg><xg><x>отправиться на тот свет</x><xt>тоначив туемс, куломс</xt></xg><xg><x>выйти в свет</x><xt>лисемс ломань юткс</xt></xg><xg><x>конец света</x><xt>масторлангонь ёмамо</xt></xg><xg><x>на всём белом свете краше нет</x><xt>менельсэ-масторсо седе мазы арась</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ушолкс, ушо</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">светёлка</l></lg><mg><range>устар.</range><tg xml:lang="myv"><t pos="N">нупаль</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">светило</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">валдонь максыця; <b>дневное светило</b> (<i>солнце</i>) чинь валдонь максыця, чипай</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">содый</t><xg><x>светило науки</x><xt>наукань содый</xt></xg></tg></mg></e>
@@ -8966,7 +8966,7 @@
 <e><lg><l pos="N" gen="Neu">сито</l></lg><mg><tg xml:lang="myv"><t pos="N">сувтеме</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ситуация</l></lg><mg><tg xml:lang="myv"><t pos="N">ситуация: <b>попасть в неприятную ситуация</b> авадря ситуацияс понгомс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сифилис</l><morphNote>мн. нет</morphNote></lg><mg><field>мед.</field><tg xml:lang="myv"><t pos="N">аванькс орма, апаро орма, амазы орма, ламбамо орма</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">сияние</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">цитнема, цивтёрдома, цильдердема, пиндолдома, палома, валдо, вандолкс, вандолдома</t><xg><x>сияние звёзд</x><xt>тештень цитнема</xt></xg><xg><x>в лунном сиянии</x><xt>коввалдосо;</xt></xg><xg><x>Северное сияние</x><xt>Пелевеёнксонь валдо/цитнема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">палома, цитнема</t><xg><x>сияние глаз</x><xt>сельмень цитнема</xt></xg></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">покш кенярдома;</t></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">сияние</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">цитнема, цивтёрдома, цильдердема, пиндолдома, палома, валдо, вандолкс, вандолдома</t><xg><x>сияние звёзд</x><xt>тештень цитнема</xt></xg><xg><x>в лунном сиянии</x><xt>коввалдосо;</xt></xg><xg><x>Северное сияние</x><xt>Пелевеёнксонь валдо/цитнема</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">палома, цитнема</t><xg><x>сияние глаз</x><xt>сельмень цитнема</xt></xg></tg></mg><mg><arab>3.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">покш кенярдома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">сказание</l></lg><mg><tg xml:lang="myv"><t pos="N">ёвтнема</t><xg><x>сказание о Тюште</x><xt>Тюштядо ёвтнема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сказитель</l></lg><mg><tg xml:lang="myv"><t pos="N">ёвксонь ёвтниця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">сказительница</l></lg><mg><tg xml:lang="myv"><t pos="N">ёвксонь ёвтниця (<i>ава ломань</i>)</t></tg></mg></e>
@@ -8987,7 +8987,7 @@
 <e><lg><l pos="N" gen="Fem">скатерть</l></lg><mg><tg xml:lang="myv"><t pos="N">стувор вельтявкс, стольлангонь вельтявкс, стольпаця, столешник</t><xg><x>поспелить скатерть</x><xt>стувор вельтявксонть ацамс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">скачок</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кирнявтома</t><xg><x>резкий скачок</x><xt>виев/бойка кирнявтома</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">полавтома</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N"><b>скачок температуры</b> температурань полавтома</t><xg><x>скачок в настроении</x><xt>мелень/мельёжонь полавтома</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">скашивание</l></lg><mg><tg xml:lang="myv"><t pos="N">ледема</t><xg><x>скашивание сена</x><xt>тикшень ледема</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">скважина</l></lg><mg><tg xml:lang="myv"><t pos="N">варя;</t><xg><x>замочная скважина</x><xt>панжома варя</xt></xg><xg><x>вставить ключ в замочную скважину</x><xt>панжома варяс панжоманть путомс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">скважина</l></lg><mg><tg xml:lang="myv"><t pos="N">варя</t><xg><x>замочная скважина</x><xt>панжома варя</xt></xg><xg><x>вставить ключ в замочную скважину</x><xt>панжома варяс панжоманть путомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сквозняк</l></lg><mg><tg xml:lang="myv"><t pos="N">вармакошт, апокш ковол, покш зэхэлть</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">скворец</l></lg><mg><tg xml:lang="myv"><t pos="N">письмар</t><xg><x>скворцы прилетели</x><xt>письмартнэ састь</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">скворечник</l></lg><mg><tg xml:lang="myv"><t pos="N">письмаркудо</t></tg></mg></e>
@@ -9034,7 +9034,7 @@
 <e><lg><l pos="N" gen="Neu">скрещивание</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>биол.</i>вейс прамо/сюлмавома/тема-путома/човорявома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">скрип</l></lg><mg><tg xml:lang="myv"><t pos="N">чикоркс, чикордома, цятордома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">скрипач</l></lg><mg><tg xml:lang="myv"><t pos="N">кайгасо/скрипкасо седиця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">скрипка</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">кайга, дикамо, седямопель;</t><xg><x>играть первую скрипку</x><xt>васенцекс улемс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">скрипка</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">кайга, дикамо, седямопель</t><xg><x>играть первую скрипку</x><xt>васенцекс улемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">скромность</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">визькс, виздема, сэтьмечи</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">скромняга</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">виздиця,</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">скряга</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">игриней</t></tg></mg></e>
@@ -9091,7 +9091,7 @@
 <e><lg><l pos="N" gen="Msc">слом</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">калавтома, синдтрема, яжамо</t><xg><x>слом дома</x><xt>кудонь яжамо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">слон</l></lg><mg><tg xml:lang="myv"><t pos="N">слон; <b>делать из мухи слона</b> <range>разг.</range> карвосто слон теемс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">слуга</l></lg><mg><tg xml:lang="myv"><t pos="N">варда, важо, тиун</t><xg><x>нанять слугу</x><xt>сиведемс варда</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">служба</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>разн. знач.</i> служба;</t><xg><x>сослужить службу</x><xt>мелезэ ваномс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">служба</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>разн. знач.</i> служба</t><xg><x>сослужить службу</x><xt>мелезэ ваномс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">служитель</l></lg><mg><tg xml:lang="myv"><t pos="N">служиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">слух</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N"><i>мн. нет</i> (<i>мезень-бути</i>) марямо, пилемарямо, марямочи, кулямот</t><xg><x>у него хороший слух</x><xt>сонзэ вадря марямочизэ / сон вадрясто мари</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>молва</i>) куля, кортавт, кулямот, марсевкс</t><xg><x>пустить слух</x><xt>куля нолдамс</xt></xg><xg><x>ложные слухи</x><xt>авиде кулят</xt></xg><xg><x>о нём ходят нехорошие слухи</x><xt>апаро/авадря кулят/кортавт сондензэ якить</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">случай</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>факт, происшествие</i>) тев</t><xg><x>несчастный случай</x><xt>зыянонь тев</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>случайность</i>) апак фатя, апак учо</t><xg><x>на всякий случай</x><xt>зыянонь/маштовомань кисэ</xt></xg><xg><x>по случаю</x><xt>эрявомань кувалт</xt></xg></tg></mg></e>
@@ -9165,7 +9165,7 @@
 <e><lg><l pos="N" gen="Fem">сноска</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кандовома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">кандовкс, невтевкс, саевкс</t><xg><x>сделать сноску</x><xt>невтевкс теемс / саевкс путомс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">сноха</l></lg><mg><tg xml:lang="myv"><t pos="N">урьва (<i>общее понятие</i>)<i>,</i> одирьва, кияло, урьвине (<i>младшая</i>), вежава/пенерьва (<i>младшая по отношению к старшей</i>), покшурьва (<i>старшая</i>)</t><xg><x>молодая сноха</x><xt>од урьва</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">соавтор</l></lg><mg><tg xml:lang="myv"><t pos="N">сёрмадыця ялга, омбоце сёрмадыця</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">собака</l></lg><mg><tg xml:lang="myv"><t pos="N">киска, пине; <sense>прям., перен.</sense> <b>злая собака</b> кежей киска</t><xg><x>собаке собачья смерть</x><xt>кисканень кискань кулома</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">собака</l></lg><mg><tg xml:lang="myv"><t pos="N">киска, пине</t><xg><sense>прям., перен.</sense><x>злая собака</x><xt>кежей киска</xt></xg><xg><x>собаке собачья смерть</x><xt>кисканень кискань кулома</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">собаковод</l></lg><mg><tg xml:lang="myv"><t pos="N">кискань раштыця-кастыця,  кискань мельга якиця</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">собаководство</l></lg><mg><tg xml:lang="myv"><t pos="N">кискань раштамо-кастома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">собеседник</l></lg><mg><tg xml:lang="myv"><t pos="N">кортниця ялга, басиця</t><xg><x>интересный собеседник</x><xt>мельс туиця басиця</xt></xg></tg></mg></e>
@@ -9383,7 +9383,7 @@
 <e><lg><l pos="N" gen="Neu">средство</l></lg><mg><tg xml:lang="myv"><t pos="N">ули-паро, тувтал, средства</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">срез</l></lg><mg><tg xml:lang="myv"><t pos="N">керявкс, керявома, керямо, керямо/керязь/керявт/керявкс тарка</t><xg><x>срез бревна</x><xt>чочко керявкс</xt></xg><xg><x>место среза</x><xt>керявома тарка</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">срок</l></lg><mg><tg xml:lang="myv"><t pos="N">шка</t><xg><x>в кратчайший срок</x><xt>сехте нурькине шкас</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">сруб</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чаповкс, кундо (<i>колодца</i>), сруб</t><xg><x>ухватиться за край сруба колодца</x><xt>лисьма кундонь чирес кундавомс</xt></xg><xg><x>сруб избы</x><xt>кудонь чаповкс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">керявкс тарка;</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">керямо</t><xg><x>сруб леса</x><xt>вирень керямо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">сруб</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чаповкс, кундо (<i>колодца</i>), сруб</t><xg><x>ухватиться за край сруба колодца</x><xt>лисьма кундонь чирес кундавомс</xt></xg><xg><x>сруб избы</x><xt>кудонь чаповкс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">керявкс тарка</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">керямо</t><xg><x>сруб леса</x><xt>вирень керямо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">срубание</l></lg><mg><tg xml:lang="myv"><t pos="N">керсема</t><xg><x>срубание льда</x><xt>эень керсема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">срыв</l></lg><mg><sense>в разн. знач.</sense><tg xml:lang="myv"><t pos="N">сезема</t><xg><x>срыв дела</x><xt>тевтнень сезема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ссадина</l></lg><mg><tg xml:lang="myv"><t pos="N">скирдавкс, ваткавкс, ангоркс, ангорявкс</t><xg><x>кровавая ссадина</x><xt>верев ваткавкс</xt></xg><xg><x>ссадина зажила</x><xt>ангорявксось пичкась</xt></xg></tg></mg></e>
@@ -9479,7 +9479,7 @@
 <e><lg><l pos="N" gen="Fem">столовая</l></lg><mg><tg xml:lang="myv"><t pos="N">ярсамо тарка</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">столяр</l></lg><mg><tg xml:lang="myv"><t pos="N">чувтосто теиця-керсиця, столяр</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">стон</l></lg><mg><tg xml:lang="myv"><t pos="N">кувсема, оркаема</t><xg><x>раздался стон</x><xt>кувсема марявсь</xt></xg></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Fem">стопа</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>ноги</i>) пильгелапа;</t><xg><x>идти по его стопам</x><xt>молемс сонзэ киява</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Fem">стопа</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>ноги</i>) пильгелапа</t><xg><x>идти по его стопам</x><xt>молемс сонзэ киява</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Fem">стопа</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>бумаги</i>) мар</t><xg><x>стопа бумаг</x><xt>конёвонь мар</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N" gen="Fem">стопка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>кучка</i>) марнэ</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Fem">стопка</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>чарка</i>) цярка</t></tg></mg></e>
@@ -9533,7 +9533,7 @@
 <e><lg><l pos="N" gen="Fem">стряпня</l><morphNote>мн. нет</morphNote></lg><mg><range>разг.</range><tg xml:lang="myv"><t pos="N">пидема-панема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">стряпуха</l></lg><mg><tg xml:lang="myv"><t pos="N">пидиця-паниця</t><xg><x>хорошая стряпуха</x><xt>вадря пидиця-паниця</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">студент</l></lg><mg><tg xml:lang="myv"><t pos="N">тонавтниця, студент</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">студенчество</l></lg><mg><posType>собир.</posType><tg xml:lang="myv"><t pos="N">тонавтницятне, студенчества;</t></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">студенчество</l></lg><mg><posType>собир.</posType><tg xml:lang="myv"><t pos="N">тонавтницятне, студенчества</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">студень</l></lg><mg><tg xml:lang="myv"><t pos="N">терьге, студин</t><xg><x>говяжий студень</x><xt>ракшань терьге</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">студия</l></lg><mg><tg xml:lang="myv"><t pos="N">студия</t><xg><x>студия художника</x><xt>художникень студия</xt></xg><xg><x>театральная студия</x><xt>театрань/театральной студия</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">стужа</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">тарькс, кельме</t><xg><x>зимняя стужа</x><xt>телень кельмесь; осенная стужа сёксень тарькс</xt></xg></tg></mg></e>
@@ -9543,7 +9543,7 @@
 <e><lg><l pos="N" gen="Fem">ступа</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">човар, стядо човар (<i>для пшена</i>)</t><xg><x>толочь просо в ступе</x><xt>стядо човарсо шкамс суро ямкст;</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">вакан</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ступень</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>лестницы и т.п.</i>) чалгамо, кустема, кустемланго, кустемпря</t></tg></mg><mg><arab>2.</arab><sense>перен.</sense><tg xml:lang="myv"><t pos="N">(<i>стадия</i>) эскелькс; <b>начальная ступень в развитии</b> (<i>кого-л., чего-л.</i>) васенце эскелькс касомасо-раштамосо (<i>кинь, мезень</i>)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ступенька</l></lg><mg><tg xml:lang="myv"><t pos="N">чалгамне, кустемтрокске, кустемлангине, кустемприне</t><xg><x>подниматься по ступенькам</x><xt>куземс чалгамне ланга</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">ступка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">човарнэ;</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ваканнэ</t></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">ступка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">човарнэ</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">ваканнэ</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ступня</l><mini_paradigm><analysis ms="Pl_Nom"><wordform>ступни</wordform></analysis></mini_paradigm></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>стопа</i>) пильгелапа</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>подошва</i>) алкс, карсемапелень алкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">стыд</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">визькс, визьксчама, виздемачи;  <b>испытывать стыд</b> (<i>за</i> <i>кого-либо</i>) визьксчама кирдемс (<i>кинь-бути кис</i>)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">стычка</l></lg><mg><tg xml:lang="myv"><t pos="N">тюрема, пальдямо, недявкс, стычка; <b>большая стычка</b> покш недявкс <b>стяг</b>  <gen>м.</gen> 1. <i>обл.</i> (<i>жердь</i>) недь</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N"><i>поэт.</i> (<i>знамя</i>) флаг</t></tg></mg></e>
@@ -9565,7 +9565,7 @@
 <e><lg><l pos="N" gen="Neu">сужение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">теиньгадома</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">сук</l></lg><mg><tg xml:lang="myv"><t pos="N">морго</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">сука</l></lg><mg><tg xml:lang="myv"><t pos="N">авака: авака киска, авака пине</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">сукно</l></lg><mg><tg xml:lang="myv"><t pos="N">кодст, сумань;</t><xg><x>положить дело под сукно</x><xt>тевенть путомс сумань/кодст алов</xt></xg><xg><x>рулон сукна</x><xt>сумань тапаркс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">сукно</l></lg><mg><tg xml:lang="myv"><t pos="N">кодст, сумань</t><xg><x>положить дело под сукно</x><xt>тевенть путомс сумань/кодст алов</xt></xg><xg><x>рулон сукна</x><xt>сумань тапаркс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">сумасшествие</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">азарьсчи, превстэ лисема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">суматоха</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">тамашат</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">сумка</l></lg><mg><tg xml:lang="myv"><t pos="N">кескав, питере, кедьпарго, кедькептере, кедьюдма, кандома кескав; <b>кожаная сумка</b> кедень кескав; <b>купить новую сумку</b> од кескав рамас &lt;&gt; <b>пастушья сумка</b> (<i>трава</i>) пильгень шлямо тикше, репстикше</t></tg></mg></e>
@@ -10182,7 +10182,7 @@
 <e><lg><l pos="N" gen="Neu">удлинение</l></lg><mg><tg xml:lang="myv"><t pos="N">кувалгавтома, кувалгадома</t><xg><x>удлинение платья</x><xt>платиянь кувалгавтома</xt></xg><xg><x>удлинение рабочего дня</x><xt>важодема чинь кувалгавтома</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">удобрение</l></lg><mg><tg xml:lang="myv"><t pos="N">удобрения; навозиямо (<i>только навозом</i>)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">удобство</l></lg><mg><tg xml:lang="myv"><t pos="N">удобства</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">удовлетворение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">мельс паро, седеень пештема, седей петема, седей витема, мель витема;</t><xg><x>испытать моральное удовлетворение</x><xt>марямс оймеёжонь пешкедема</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">удовлетворение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">мельс паро, седеень пештема, седей петема, седей витема, мель витема</t><xg><x>испытать моральное удовлетворение</x><xt>марямс оймеёжонь пешкедема</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">удовлетворённость</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">седей петема/витема, седеень пештема, мель витема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">удовольствие</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">седей петема, седейтансть, мельс паро</t><xg><x>испытывать удовольствие</x><xt>марямс седей петема</xt></xg><xg><x>прочитать книгу с удовольствием</x><xt>ловномс книганть мельс паросо</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">мельс туема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">удой</l></lg><mg><tg xml:lang="myv"><t pos="N"><i>мн. нет.</i> 1. (<i>выдаивание</i>) потявтома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>количество выдоенного молока</i>) потявтовкс</t></tg></mg></e>
@@ -10298,7 +10298,7 @@
 <e><lg><l pos="N" gen="Neu">установление</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">аравтома, путома</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">теема</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N">муема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">устранение</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">а нолдамо; каямо, панема (<i>от должности и т. п.</i>)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">устройство</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N"><i>мн. нет</i> (<i>действие</i>) <i>теема;</i></t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>оборудование</i>) теевкс, устройства</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t pos="N"><i>мн. нет</i> (<i>на работу</i>) аравтома, арамо, ладямо, путома</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">уступка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">потавкс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">алкалгавтома, лавшомгавтома;</t><xg><x>идти на уступки</x><xt>тейнемс лавшомгавтомат</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">уступка</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">потавкс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">алкалгавтома, лавшомгавтома</t><xg><x>идти на уступки</x><xt>тейнемс лавшомгавтомат</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">устье</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>реки</i>) лейпрамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>жерло</i>) курго</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">утварь</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">кудопотмонь минеть-сюнот, чакшт-пачалгот</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">утверждение</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">кемекстамо</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">кортамо, арсема</t></tg></mg></e>
@@ -10325,7 +10325,7 @@
 <e><lg><l pos="N" gen="Msc">ухват</l></lg><mg><tg xml:lang="myv"><t pos="N">ухад</t><xg><x>длинный ухват</x><xt>кувака ухад</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">ухищрение</l></lg><mg><tg xml:lang="myv"><t pos="N">киткавсто/ёжовсто теема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">ухмылка</l></lg><mg><tg xml:lang="myv"><t pos="N">мизолкс</t></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">ухо</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>мн. уши</i>) пиле;</t><xg><x>держать ухо востро</x><xt>кирдемс пилетнень аноксто</xt></xg><xg><x>пропустить мимо ушей</x><xt>пиле вакска нолдамс</xt></xg><xg><x>насторожить уши</x><xt>пилетнень аноксто кирдемс</xt></xg><xg><x>слышать краем уха</x><xt>пиле прясо марямс</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">ухо</l></lg><mg><tg xml:lang="myv"><t pos="N">(<i>мн. уши</i>) пиле</t><xg><x>держать ухо востро</x><xt>кирдемс пилетнень аноксто</xt></xg><xg><x>пропустить мимо ушей</x><xt>пиле вакска нолдамс</xt></xg><xg><x>насторожить уши</x><xt>пилетнень аноксто кирдемс</xt></xg><xg><x>слышать краем уха</x><xt>пиле прясо марямс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">уход</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">(<i>действие</i>) туема</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>забота</i>) мельга якамо, мелявкс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">ухудшение</l></lg><mg><tg xml:lang="myv"><t pos="N">беряньгадома, беряньгалема</t><xg><x>ухудшение здоровья</x><xt>шумбрачинь беряньгадома</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">участие</l><morphNote>мн. нет</morphNote></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">участия</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">седеймарямо, седейпетямо</t></tg></mg></e>
@@ -10388,7 +10388,7 @@
 <e><lg><l pos="N" gen="Fem">фантастика</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">а арсевикс тев, аулемань/арсезь тев, фантастика</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фантик</l></lg><mg><tg xml:lang="myv"><t pos="N">ламбамкань/конфеткань конёв, фантик</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фантом</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">чопача, цюдавкс, неявкс, прояв</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>вымысел</i>) арсевкс, арсезь тев</t></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">фанфара</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">фанфара;</t><xg><x>под звуки фанфар</x><xt>фанфарань гайть марто</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">фанфара</l></lg><mg><field>муз.</field><tg xml:lang="myv"><t pos="N">фанфара</t><xg><x>под звуки фанфар</x><xt>фанфарань гайть марто</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фанфарон</l></lg><mg><tg xml:lang="myv"><t pos="N">прянь шныця/невтниця (ломань)</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">фара</l></lg><mg><tg xml:lang="myv"><t pos="N">машинань валдо, килангонь валдомтома(пель), фара</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фараон</l></lg><mg><tg xml:lang="myv"><t pos="N">египетэнь кезэрень инязор, фараон</t></tg></mg></e>
@@ -10506,7 +10506,7 @@
 <e><lg><l pos="N" gen="Msc">фон</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">лувонь тюс, фон</t><xg><x>светлый фон</x><xt>валдо тюс</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">(<i>задний план</i>) удалце пелькс/ёнкс, кекшезь ёнкс</t><xg><x>на заднем фоне картины</x><xt>артовксонть удалце пелькссэнть</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фонарик</l></lg><mg><tg xml:lang="myv"><t pos="N">вишка лампа, лампине, фонарик</t><xg><x>карманный фонарик</x><xt>зепсэ кандтнема лампине/фонарик</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фонарь</l></lg><mg><tg xml:lang="myv"><t pos="N">лампа, фонарь</t></tg></mg></e>
-<e><lg><l pos="N" gen="Msc">фонд</l></lg><mg><tg xml:lang="myv"><t pos="N">таштавкс, пурнавкс, фонд;</t><xg><x>золотой фонд страны</x><xt>масторонть сырнень/сырнесэ таштавксонзо</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">фонд</l></lg><mg><tg xml:lang="myv"><t pos="N">таштавкс, пурнавкс, фонд</t><xg><x>золотой фонд страны</x><xt>масторонть сырнень/сырнесэ таштавксонзо</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">фонема</l></lg><mg><tg xml:lang="myv"><t pos="N">кортамонь гайть, фонема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">фонетика</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">гайтте тонавтома, фонетика</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фонетист</l></lg><mg><tg xml:lang="myv"><t pos="N">гайтень/фонетикань тонавтниця</t></tg></mg></e>
@@ -10527,7 +10527,7 @@
 <e><lg><l pos="N" gen="Neu">фортепьяно</l><morphNote>нескл.</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">фортепьяно</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">фортификация</l></lg><mg><tg xml:lang="myv"><t pos="N">фортификация</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">форточка</l></lg><mg><tg xml:lang="myv"><t pos="N">вальмаваря, вальмасельме, форточка</t><xg><x>открыть форточку</x><xt>вальмаварянть/вальмасельменть/форточканть панжомс</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Fem">фортуна</l></lg><mg><tg xml:lang="myv"><t pos="N">уцяска, чансть, фортуна;</t><xg><x>фортуна улыбнулась ей</x><xt>уцяскась велявтсь ёнонзо, уцяскась муизе сонзэ</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Fem">фортуна</l></lg><mg><tg xml:lang="myv"><t pos="N">уцяска, чансть, фортуна</t><xg><x>фортуна улыбнулась ей</x><xt>уцяскась велявтсь ёнонзо, уцяскась муизе сонзэ</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">форум</l></lg><mg><tg xml:lang="myv"><t pos="N">покш промкс, форум</t><xg><x>научный форум</x><xt>наукань коряс / научной промкс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фосген</l><morphNote>мн. нет</morphNote></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">фосген</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">фосфат</l></lg><mg><field>хим.</field><tg xml:lang="myv"><t pos="N">фосфоронь чапамонь/кислотань сал, фосфат</t><xg><x>фосфат кальция</x><xt>кальциень фосфат</xt></xg></tg></mg></e>
@@ -10700,7 +10700,7 @@
 <e><lg><l pos="N" gen="Msc">царевич</l></lg><mg><tg xml:lang="myv"><t pos="N">инязоронь цёра</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">царевна</l></lg><mg><tg xml:lang="myv"><t pos="N">инязоронь тейтерь</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">царица</l></lg><mg><tg xml:lang="myv"><t pos="N">инязорава</t><xg><x>молодая царица</x><xt>од инязорава;</xt></xg><xg><x>царица небесная</x><xt>вере паз</xt></xg></tg></mg></e>
-<e><lg><l pos="N" gen="Neu">царство</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">инязорксчи</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">инязоронь мастор;</t><xg><x>царство мёртвых</x><xt>тоначи</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Neu">царство</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">инязорксчи</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N">инязоронь мастор</t><xg><x>царство мёртвых</x><xt>тоначи</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Neu">царствование</l></lg><mg><tg xml:lang="myv"><t pos="N">инязорокс аштема</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">царь</l></lg><mg><tg xml:lang="myv"><t pos="N">инязор</t><xg><x>мудрый царь</x><xt>превей инязор</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">цаца</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">налшке</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="N"><i>прост. пренебр.</i> цельця</t></tg></mg></e>
@@ -10806,7 +10806,7 @@
 <e><lg><l pos="N" gen="Fem">часовня</l></lg><mg><tg xml:lang="myv"><t pos="N">ознома тарка</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Msc">часовой</l></lg><mg><field>воен.</field><tg xml:lang="myv"><t pos="N">ванстыця ушман, часовой</t><xg><x>смена часовых</x><xt>ванстыця ушмантнэнь полавтома</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">часовщик</l></lg><mg><tg xml:lang="myv"><t pos="N">часонь теиця</t></tg></mg></e>
-<e><lg><l hid="Hom1" pos="N" gen="Fem">частица</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">пелькс, паморькс</t><xg><x>мельчайшая частица</x><xt>сехте вишкине пелькс</xt></xg></tg></mg><mg><arab>2.</arab><field>спец.</field><tg xml:lang="myv"><t pos="N">частица, пелькс;</t><xg><x>элементарная частица</x><xt>элементарной/уликс частица/пелькс</xt></xg></tg></mg></e>
+<e><lg><l hid="Hom1" pos="N" gen="Fem">частица</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="N">пелькс, паморькс</t><xg><x>мельчайшая частица</x><xt>сехте вишкине пелькс</xt></xg></tg></mg><mg><arab>2.</arab><field>спец.</field><tg xml:lang="myv"><t pos="N">частица, пелькс</t><xg><x>элементарная частица</x><xt>элементарной/уликс частица/пелькс</xt></xg></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N" gen="Fem">частица</l></lg><mg><field>лингв.</field><tg xml:lang="myv"><t pos="N">частица</t></tg></mg></e>
 <e><lg><l pos="N" gen="Fem">частичка</l></lg><mg><tg xml:lang="myv"><t pos="N">пелькске, паморькске</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">частник</l></lg><mg><tg xml:lang="myv"><t pos="N">азор; <range>разг.</range> микшниця</t></tg></mg></e>
