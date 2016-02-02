@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="rusmyv" xml:lang="rus">
+<e><lg><l pos="N" gen="Msc">абазин</l></lg><mg><tg xml:lang="myv"><t>абазин</t><xg><x>абазинский язык</x><xt>абазинэнь кель</xt></xg></tg></mg></e>
+<e><lg><l pos="N" gen="Msc">авран</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t>ойметикше</t></tg></mg></e>
+<e><lg><l pos="N" nb="Pl">автосани</l><morphNote>мн., ед. нет</morphNote></lg><mg><tg xml:lang="myv"><t>автонурдт</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абажур</l></lg><mg><tg xml:lang="myv"><t pos="N">лампавелькс</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">абаз</l></lg><mg><tg xml:lang="myv"><t pos="N">сырнень монета</t></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">аббат</l></lg><mg><tg xml:lang="myv"><t pos="N">аббат (цёрань католической монастырень прявт)</t></tg></mg></e>
@@ -11285,4 +11288,36 @@
 <e><lg><l pos="N" gen="Fem">ящерица</l></lg><mg><field>зоол.</field><tg xml:lang="myv"><t pos="N">метьказ, кадкспуло</t><xg><x>увидеть ящерицу</x><xt>метьказ неемс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ящик</l></lg><mg><tg xml:lang="myv"><t pos="N">парго, ящик</t><xg><x>почтовый ящик</x><xt>сёрмань туртов парго/ящик</xt></xg><xg><x>ящик стола</x><xt>стуворпотмо/стольпотмо</xt></xg><xg><x>откладывать в долгий ящик</x><xt>кадномс мейленень/куватьс</xt></xg></tg></mg></e>
 <e><lg><l pos="N" gen="Msc">ящур</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t pos="N">азарьсчи, ящур</t></tg></mg></e>
+<e><lg><l pos="N">аджарец</l></lg><mg><tg xml:lang="myv"><t>аджаронь ломань</t></tg></mg></e>
+<e><lg><l pos="N">алатырский камень</l></lg><mg><tg xml:lang="myv"><t>алатырь кев</t></tg></mg></e>
+<e><lg><l pos="N">алеут</l></lg><mg><tg xml:lang="myv"><t>алеут</t></tg></mg></e>
+<e><lg><l pos="N">алжирец</l></lg><mg><tg xml:lang="myv"><t>алжирец</t></tg></mg></e>
+<e><lg><l pos="N">алиментщик</l></lg><mg><tg xml:lang="myv"><t>м алиментэнь пандыця</t></tg></mg></e>
+<e><lg><l pos="N">алименты</l><morphNote>мн., ед. нет</morphNote></lg><mg><tg xml:lang="myv"><t>алиментт</t></tg></mg></e>
+<e><lg><l pos="N">аденоиды</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t>аденоидт</t></tg></mg></e>
+<e><lg><l pos="N">азиаты</l><mini_paradigm><analysis ms="Sg_Nom"><wordform>азиат</wordform></analysis></mini_paradigm></lg><mg><tg xml:lang="myv"><t>азиатт, азиянь ломанть</t></tg></mg></e>
+<e><lg><l pos="N">алтаец</l></lg><mg><tg xml:lang="myv"><t>алтаец</t></tg></mg></e>
+<e><lg><l pos="N">альвеолы</l><morphNote>мн. ч.</morphNote></lg><mg><tg xml:lang="myv"><t>альвеолат</t></tg></mg></e>
+<e><lg><l pos="N">альпинизм</l><morphNote>мн. нет</morphNote></lg><mg><tg xml:lang="myv"><t>альпинизма</t></tg></mg></e>
+<e><lg><l pos="N">ампер</l></lg><mg><field>физ.</field><tg xml:lang="myv"><t>ампер</t></tg></mg></e>
+<e><lg><l pos="N">анапест</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t>анапест</t></tg></mg></e>
+<e><lg><l pos="N">антенна</l></lg><mg><tg xml:lang="myv"><t>антенна</t></tg></mg></e>
+<e><lg><l pos="N">анты</l><morphNote>мн. ч.</morphNote></lg><mg><tg xml:lang="myv"><t>антт</t></tg></mg></e>
+<e><lg><l pos="N">апельсин</l></lg><mg><field>бот.</field><tg xml:lang="myv"><t>апельсин</t></tg></mg></e>
+<e><lg><l pos="N">аплодисменты</l><morphNote>мн., ед. нет</morphNote></lg><mg><tg xml:lang="myv"><t>цяпамот</t><xg><x>продолжительные аплодисменты</x><xt>кувать молиця цяпамот</xt></xg></tg></mg></e>
+<e><lg><l pos="N">атрибут</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t>признак <range>книжн.</range></t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t><i>опред-е</i> <field>грам.</field> определения</t></tg></mg></e>
+<e><lg><l pos="N">аэросани</l><morphNote>мн., ед. нет</morphNote></lg><mg><tg xml:lang="myv"><t>аэронурдо</t></tg></mg></e>
+<e><lg><l pos="N">бакены</l></lg><mg><morphNote>мн.</morphNote><tg xml:lang="myv"><t><i>см.</i> <b>бакенбарды</b></t></tg></mg></e>
+<e><lg><l pos="N">баклуши</l><morphNote><morphNote>мн.</morphNote> <b>бить баклуши</b></morphNote></lg><mg><tg xml:lang="myv"><t>нузялдомс, лужалемс, ватракшт чавномс, пря кайсемс, тевтеме/стяко аштемс</t></tg></mg></e>
+<e><lg><l pos="N">барашки</l></lg><mg><morphNote>мн.</morphNote><tg xml:lang="myv"><t>1. ведьчавовкст, ведьчов, ведьбарашкат</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t>ашо пель; 3 килейпилекст</t></tg></mg></e>
+<e><lg><l pos="N">батюшка</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t>1. тетя</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t>(<i>обращение</i>) тетяй</t></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t>(<i>обращение</i>) ялгакай, оякай</t></tg></mg><mg><arab>4.</arab><tg xml:lang="myv"><t>(<i>священник</i>) бачка, поп</t><xg><x>батюшки мои!</x><xt>Вере Паз!</xt></xg></tg></mg></e>
+<e><lg><l pos="N">нотация</l></lg><mg><tg xml:lang="myv"><t>тонавтома валт</t></tg></mg></e>
+<e><lg><l pos="N">ноты</l><morphNote>мн., ед. нет</morphNote></lg><mg><tg xml:lang="myv"><t>нотат</t></tg></mg></e>
+<e><lg><l pos="N">ночлежка</l></lg><mg><range>уст.</range><tg xml:lang="myv"><t>удома кудо</t></tg></mg></e>
+<e><lg><l pos="N">нравы</l><morphNote>мн., ед. нет</morphNote></lg><mg><tg xml:lang="myv"><t>(<i>обычаи</i>) койть, койть-кирдат, обуцят</t></tg></mg></e>
+<e><lg><l pos="N">нырок</l></lg><mg><tg xml:lang="myv"><t>чопавтыця</t></tg></mg></e>
+<e><lg><l pos="N">обескровление</l></lg><mg><tg xml:lang="myv"><t>вертеме кадовома</t></tg></mg></e>
+<e><lg><l pos="N">обечайка сита</l></lg><mg><tg xml:lang="myv"><t>(<i>обод, обруч сита</i>) сувтемкирькс</t></tg></mg></e>
+<e><lg><l pos="N">обмораживание</l></lg><mg><tg xml:lang="myv"><t>кельмевтема</t></tg></mg></e>
+
 </r>

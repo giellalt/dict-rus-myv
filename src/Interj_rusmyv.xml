@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusmyv" xml:lang="rus">
+<e><lg><l pos="Interj">бис!</l></lg><mg><tg xml:lang="myv"><t>пек паро!</t><t>вадрядояк вадря!</t><t>бис</t><xg><x>спеть на бис</x><xt>пек вадрясто морамс</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">ага!</l></lg><mg><tg xml:lang="myv"><t>ага!</t></tg></mg></e>
+<e><lg><l pos="Interj">ай!</l></lg><mg><tg xml:lang="myv"><t>ой!</t></tg></mg></e>
+<e><lg><l pos="Interj">айда</l></lg><mg><posType>прост.</posType><tg xml:lang="myv"><t><pos>частица</pos> адя</t></tg></mg></e>
+<e><lg><l pos="Interj">алло</l></lg><mg><tg xml:lang="myv"><t>алло!</t></tg></mg></e>
+<e><lg><l>аминь</l></lg><mg><posType>утвер. част.</posType><tg xml:lang="myv"><t><field>рел.</field> аминь, видечи, алкукс</t></tg></mg></e>
+<e><lg><l pos="Interj">ах!</l></lg><mg><tg xml:lang="myv"><t>ах!</t></tg></mg></e>
+<e><lg><l pos="Interj">баиньки</l></lg><mg><tg xml:lang="myv"><t>балю-балю, бай-бай</t></tg></mg></e>
+<e><lg><l pos="Interj">бах</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t>бах, зэрьк</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t>(<i>бахнуть об пол</i>) бахадемс, вачкодемс, эшкемс</t></tg></mg></e>
+<e><lg><l pos="Interj">бац</l></lg><mg><tg xml:lang="myv"><t>хроп</t><xg><x>бац по спине</x><xt>хроп кутьмеренть ланга</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">баю-бай, баюшки-баю</l></lg><mg><tg xml:lang="myv"><t>балю-балю, бай-бай, утю-балю, цюли-бали, цюлю-балю</t></tg></mg></e>
+<e><lg><l pos="Interj">браво!</l></lg><mg><tg xml:lang="myv"><t>пек паро! пек вадря!</t></tg></mg></e>
+<e><lg><l pos="Interj">брысь</l></lg><mg><tg xml:lang="myv"><t>кшу!</t><xg><x>брысь отсюда!</x><xt>кшу тестэ!</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">бултых</l></lg><mg><tg xml:lang="myv"><t>болдорк, болдорк-меремс/-теемс</t><xg><x>бултых в воду</x><xt>болдорк ведьс</xt></xg></tg></mg></e>
+<e><lg><l pos="Interj">бух</l></lg><mg><tg xml:lang="myv"><t>буньк, грох</t></tg></mg></e>
+</r>

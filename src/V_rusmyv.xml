@@ -8893,4 +8893,15 @@
 <e><lg><l pos="V" asp="Imp">якать</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t pos="V">якснемс/акснемс</t><xg><x>якающие говоры</x><xt>я-кснема/а-кснема кортавкст</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t pos="V">мон-кснемс</t></tg></mg></e>
 <e><lg><l pos="V" asp="Imp">яловеть</l></lg><mg><field>спец.</field><tg xml:lang="myv"><t pos="V">авазыямс, улемс аволь вазов</t></tg></mg></e>
 <e><lg><l pos="V" asp="Imp">яснеть</l></lg><mg><tg xml:lang="myv"><t pos="V">манейгадомс, валдомгадомс</t><xg><x>небо яснеет</x><xt>менелесь манейгады</xt></xg></tg></mg></e>
+<e><lg><l>обалдеть</l></lg><mg><tg xml:lang="myv"><t><i>сов. разг.</i> абунгадомс</t></tg></mg></e>
+<e><lg><l>обезножеть</l></lg><mg><tg xml:lang="myv"><t>сов. кадовомс пильгевтеме</t></tg></mg></e>
+<e><lg><l>облениться</l></lg><mg><tg xml:lang="myv"><t><i>сов. разг.</i> нузякскадомс, нузялгадомс</t></tg></mg></e>
+<e><lg><l>обметать</l></lg><mg><tg xml:lang="myv"><t>вельтявомс</t><xg><x>покрыться сыпью</x><xt>вельтявомс тазсо</xt></xg></tg></mg></e>
+<e><lg><l>обморозить</l></lg><mg><tg xml:lang="myv"><t>(<i>что</i>) <asp>Prf</asp> кельмевтемс</t></tg></mg></e>
+<e><lg><l>обмочить</l></lg><mg><tg xml:lang="myv"><t>(<i>кого-что</i>) <asp>Prf</asp> начтомс</t></tg></mg></e>
+<e><lg><l>анкетировать</l></lg><mg><tg xml:lang="myv"><t>анкетировамс</t></tg></mg></e>
+<e><lg><l>атрофироваться</l></lg><mg><tg xml:lang="myv"><t>атрофировавомс, катардомс, кундатомс</t><xg><x>рука атрофировалась</x><xt>кедесь кундатсь</xt></xg></tg></mg></e>
+<e><lg><l>афишировать</l></lg><mg><tg xml:lang="myv"><t>(<i>кого-что</i>) <asp>Imp</asp> афишировамс, яволявтнемс</t></tg></mg></e>
+<e><lg><l>ахать</l></lg><mg><tg xml:lang="myv"><t>вайкстнемс, ойкстнемс</t></tg></mg></e>
+<e><lg><l>ахнуть</l></lg><mg><tg xml:lang="myv"><t><i>сов. однокр.</i> 1. (<i>воскликнуть</i>) ах меремс</t></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t><i>разг. фам.</i> (<i>ударить</i>) вачкодемс</t></tg></mg></e>
 </r>
