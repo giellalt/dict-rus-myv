@@ -1,33 +1,397 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="rusmyv" xml:lang="rus">
-<e><lg><l pos="Pron">эта</l></lg><mg><tg xml:lang="myv"><t>те</t></tg></mg></e>
-<e><lg><l>этак</l></lg><mg><range>разг.</range><tg xml:lang="myv"><t>истяня</t></tg></mg></e>
-<e><lg><l pos="Pron">это</l></lg><mg><tg xml:lang="myv"><t>те</t><xg><x>это видно</x><xt>те неяви</xt></xg><xg><x>я это вижу</x><xt>мон неса тень</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">этот</l></lg><mg><tg xml:lang="myv"><t>те</t></tg></mg></e>
-<e><lg><l pos="Pron">я</l></lg><mg><tg xml:lang="myv"><t>мон</t><xg><x>это я</x><xt>те мон</xt></xg><xg><x>я пришёл</x><xt>мон сынь</xt></xg><xg><x>я учитель</x><xt>мон тонавтыцян</xt></xg><xg><x>я мыслю, следовательно, я существую</x><xt>мон арсян, секскак мон улян</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">вам</l></lg><mg><tg xml:lang="myv"><t>(<i>дат. п. от</i> <b>вы</b>) тыненк</t></tg></mg></e>
-<e><lg><l pos="Pron">вас</l></lg><mg><tg xml:lang="myv"><t>(<i>родит. и винит. п. от</i> <b>вы</b>) тынк</t></tg></mg></e>
-<e><lg><l pos="Pron">ваш</l></lg><mg><tg xml:lang="myv"><t>тынк</t></tg></mg></e>
-<e><lg><l pos="Pron">весь</l></lg><mg><arab>1.</arab><tg xml:lang="myv"><t>весе</t><xg><x>весь мир</x><xt>весе масторось</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t>(<i>в знач. времени</i>) перть</t><xg><x>весь год работали</x><xt>иень перть важодинек</xt></xg><xg><x>весь день ходили</x><xt>чинь-чоп якасть</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">вы</l></lg><mg><tg xml:lang="myv"><t>тынь</t></tg></mg><mg><tg xml:lang="myv"><t pos="Pron" src="jmr">тон</t></tg></mg></e>
-<e><lg><l pos="Pron">его</l></lg><mg><tg xml:lang="myv"><t>(<i>родит. и вин. п. от</i> <b>он</b>) сонзэ</t></tg></mg></e>
-<e><lg><l pos="Pron">кое-кто</l></lg><mg><tg xml:lang="myv"><t><i>неопред.</i> кой-ки(е), кой-кона, ки(е)-бути, ки(е)-ки(е), та-ки(е)</t><xg><x>кое-кто доехал уже до места</x><xt>кой-ки(е)/кой-кона тарказонзо уш пачкодсь</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">кое-что</l></lg><mg><tg xml:lang="myv"><t><i>неопред.</i> кой-мезе, мезе-мезе</t><xg><x>кое-что он знает</x><xt>сон кой-мезе/мезе-мезе соды</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">кто</l></lg><mg><arab>1.</arab><posType>вопросит.</posType><tg xml:lang="myv"><t>ки(е)</t><xg><x>кто там?</x><xt>ки(е) тосо?</xt></xg></tg></mg><mg><arab>2.</arab><tg xml:lang="myv"><t><i>относит.</i> ки(е)</t><xg><x>тот, кто пришел</x><xt>се, ки(е) сась</xt></xg></tg></mg><mg><arab>3.</arab><tg xml:lang="myv"><t><i>разделит.</i> ки(е)</t><xg><x>кто туда, кто сюда</x><xt>ки(е) тов, ки(е) тей</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">кто-либо</l></lg><mg><tg xml:lang="myv"><t><i>неопред.</i> кияк, та-ки(е), ки(е)-бути, куш ки(е), ки(е) илязо уле, эрьва(сь)</t></tg></mg></e>
-<e><lg><l pos="Pron">кто-нибудь</l></lg><mg><tg xml:lang="myv"><t><i>неопред.</i> кияк, ки(е)-бути, та-ки(е), куш ки(е)</t><xg><x>кто-нибудь придет</x><xt>? кияк/ки(е)-бути сы?</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">кто-то</l></lg><mg><tg xml:lang="myv"><t><i>неопред.</i> ки(е)-бути, та-ки(е)</t><xg><x>кто-то пришел</x><xt>ки(е)-бути/та-ки(е) сась</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">мы</l></lg><mg><tg xml:lang="myv"><t><i>личн.</i> <i>1 л. мн.ч.</i> минь</t><xg><x>мы с друзьями</x><xt>минь ялганок марто</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">нам</l></lg><mg><tg xml:lang="myv"><t>(<i>дат. п. от мы</i>) миненек, минстенек, эстенек, тенек, минек туртов</t></tg></mg></e>
-<e><lg><l pos="Pron">нами</l></lg><mg><tg xml:lang="myv"><t>(<i>творит. п. от мы</i>) минек марто, мартонок; <i>при переводе страдат. оборотов часто переводится личным местоимением</i> минь</t><xg><x>сделано нами</x><xt>теезь минек кедьсэ</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">нас</l></lg><mg><tg xml:lang="myv"><t>(<i>родит. и винит. п. от <b>мы</b></i>) минек</t></tg></mg></e>
-<e><lg><l pos="Pron">некто</l></lg><mg><tg xml:lang="myv"><t>кие-бути, та-кие</t><xg><x>явился некто</x><xt>сась кие-бути/та-кие</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">нечего</l></lg><mg><tg xml:lang="myv"><t><i>с инфинитивом</i> а мезе, а мезть</t><xg><x>нечего делать</x><xt>а мезть тейнемс</xt></xg><xg><x>нечего разговаривать</x><xt>а мезть кортамс</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">нечем</l></lg><mg><tg xml:lang="myv"><t>(<i>творит. п. от нечего</i>) а мейсэ</t></tg></mg></e>
-<e><lg><l pos="Pron">нечему</l></lg><mg><tg xml:lang="myv"><t>(<i>дательн. п. от нечего</i>) а мезес, а мейс</t></tg></mg></e>
-<e><lg><l pos="Pron">нечто</l></lg><mg><tg xml:lang="myv"><t>мезеяк</t></tg></mg></e>
-<e><lg><l pos="Pron">никто</l></lg><mg><tg xml:lang="myv"><t>кияк</t><xg><x>никто не явился</x><xt>кияк эзь са</xt></xg></tg></mg></e>
-<e><lg><l hid="Hom2" pos="Pron">ничего</l></lg><mg><tg xml:lang="myv"><t>(<i>родит. п. от ничто</i>) мезеяк</t><xg><x>я ничего не знал о его приезде</x><xt>мезеяк эзинь сода сонзэ самодо;</xt></xg><xg><x>ничего подобного</x><xt>овсе аволь истя</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">ничто</l></lg><mg><tg xml:lang="myv"><t>мезеяк</t><xg><x>его ничто не волнует</x><xt>сонзэ мезеяк а талновты</xt></xg></tg></mg></e>
-<e><lg><l pos="Pron">та</l></lg><mg><tg xml:lang="myv"><t>се, тона</t></tg></mg></e>
+<e>
+   <lg>
+     <l pos="Pron">эта</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>те</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l>этак</l>
+   </lg>
+   <mg><range>разг.</range>
+     <tg xml:lang="myv">
+       <t>истяня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">это</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>те</t>
+     <xg><x>это видно</x>
+       <xt>те неяви</xt>
+     </xg>
+     <xg><x>я это вижу</x>
+       <xt>мон неса тень</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">этот</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>те</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">я</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>мон</t>
+     <xg><x>это я</x>
+       <xt>те мон</xt>
+     </xg>
+     <xg><x>я пришёл</x>
+       <xt>мон сынь</xt>
+     </xg>
+     <xg><x>я учитель</x>
+       <xt>мон тонавтыцян</xt>
+     </xg>
+     <xg><x>я мыслю, следовательно, я существую</x>
+       <xt>мон арсян, секскак мон улян</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">вам</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>дат. п. от</i> <b>вы</b>) тыненк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">вас</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>родит. и винит. п. от</i> <b>вы</b>) тынк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ваш</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>тынк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">весь</l>
+   </lg>
+   <mg><arab>1.</arab>
+     <tg xml:lang="myv">
+       <t>весе</t>
+     <xg><x>весь мир</x>
+       <xt>весе масторось</xt>
+     </xg>
+     </tg>
+   </mg>
+   <mg><arab>2.</arab>
+     <tg xml:lang="myv">
+       <t>(<i>в знач. времени</i>) перть</t>
+     <xg><x>весь год работали</x>
+       <xt>иень перть важодинек</xt>
+     </xg>
+     <xg><x>весь день ходили</x>
+       <xt>чинь-чоп якасть</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">вы</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>тынь</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Pron" src="jmr">тон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">его</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>родит. и вин. п. от</i> <b>он</b>) сонзэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кое-кто</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>неопред.</i> кой-ки(е), кой-кона, ки(е)-бути, ки(е)-ки(е), та-ки(е)</t>
+     <xg><x>кое-кто доехал уже до места</x>
+       <xt>кой-ки(е)/кой-кона тарказонзо уш пачкодсь</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кое-что</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>неопред.</i> кой-мезе, мезе-мезе</t>
+     <xg><x>кое-что он знает</x>
+       <xt>сон кой-мезе/мезе-мезе соды</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кто</l>
+   </lg>
+   <mg><arab>1.</arab><posType>вопросит.</posType>
+     <tg xml:lang="myv">
+       <t>ки(е)</t>
+     <xg><x>кто там?</x>
+       <xt>ки(е) тосо?</xt>
+     </xg>
+     </tg>
+   </mg>
+   <mg><arab>2.</arab>
+     <tg xml:lang="myv">
+       <t><i>относит.</i> ки(е)</t>
+     <xg><x>тот, кто пришел</x>
+       <xt>се, ки(е) сась</xt>
+     </xg>
+     </tg>
+   </mg>
+   <mg><arab>3.</arab>
+     <tg xml:lang="myv">
+       <t><i>разделит.</i> ки(е)</t>
+     <xg><x>кто туда, кто сюда</x>
+       <xt>ки(е) тов, ки(е) тей</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кто-либо</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>неопред.</i> кияк, та-ки(е), ки(е)-бути, куш ки(е), ки(е) илязо уле, эрьва(сь)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кто-нибудь</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>неопред.</i> кияк, ки(е)-бути, та-ки(е), куш ки(е)</t>
+     <xg><x>кто-нибудь придет</x>
+       <xt>? кияк/ки(е)-бути сы?</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кто-то</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>неопред.</i> ки(е)-бути, та-ки(е)</t>
+     <xg><x>кто-то пришел</x>
+       <xt>ки(е)-бути/та-ки(е) сась</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мы</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>личн.</i> <i>1 л. мн.ч.</i> минь</t>
+     <xg><x>мы с друзьями</x>
+       <xt>минь ялганок марто</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нам</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>дат. п. от мы</i>) миненек, минстенек, эстенек, тенек, минек туртов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нами</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>творит. п. от мы</i>) минек марто, мартонок; <i>при переводе страдат. оборотов часто переводится личным местоимением</i> минь</t>
+     <xg><x>сделано нами</x>
+       <xt>теезь минек кедьсэ</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нас</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>родит. и винит. п. от <b>мы</b></i>) минек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">некто</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>кие-бути, та-кие</t>
+     <xg><x>явился некто</x>
+       <xt>сась кие-бути/та-кие</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нечего</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t><i>с инфинитивом</i> а мезе, а мезть</t>
+     <xg><x>нечего делать</x>
+       <xt>а мезть тейнемс</xt>
+     </xg>
+     <xg><x>нечего разговаривать</x>
+       <xt>а мезть кортамс</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нечем</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>творит. п. от нечего</i>) а мейсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нечему</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>дательн. п. от нечего</i>) а мезес, а мейс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нечто</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>мезеяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">никто</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>кияк</t>
+     <xg><x>никто не явился</x>
+       <xt>кияк эзь са</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Pron">ничего</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>(<i>родит. п. от ничто</i>) мезеяк</t>
+     <xg><x>я ничего не знал о его приезде</x>
+       <xt>мезеяк эзинь сода сонзэ самодо;</xt>
+     </xg>
+     <xg><x>ничего подобного</x>
+       <xt>овсе аволь истя</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ничто</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>мезеяк</t>
+     <xg><x>его ничто не волнует</x>
+       <xt>сонзэ мезеяк а талновты</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">та</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t>се, тона</t>
+     </tg>
+   </mg>
+</e>
 </r>
